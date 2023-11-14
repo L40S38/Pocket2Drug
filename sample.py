@@ -12,6 +12,14 @@ import torch
 from torch_geometric.loader import DataLoader
 from rdkit import Chem
 from rdkit_contrib.sascorer import calculateScore
+from tqdm import tqdm
+# ignore future warning
+import warnings
+warnings.simplefilter('ignore', FutureWarning)
+
+# set cuda visible devices
+import os
+os.environ['CUDA_VISIBLE_DEVICES'] = '4'
 
 def get_args():
     parser = argparse.ArgumentParser("python")
@@ -157,7 +165,7 @@ if __name__ == "__main__":
 
     # sample SMILES for each pocket
     # dataloader has batch_size of 1
-    for i, data in enumerate(val_loader):
+    for i, data in tqdm(enumerate(val_loader)):
         data = data.to(device)
         pocket_name = data.pocket_name[0]
         print('sampling SMILES for pocket {}...'.format(pocket_name))

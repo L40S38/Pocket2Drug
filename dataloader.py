@@ -142,7 +142,7 @@ def pocket_loader_gen(smiles_dict,
     return trainloader, valloader, len(trainset), len(valset)
 
 
-class PocketDataset(Dataset):
+class PocketDataset(torch.utils.data.Dataset):  #(Dataset):
     """Dataset to generate single pocket graphs for inference/testing."""
 
     def __init__(self,
@@ -301,7 +301,7 @@ def bond_parser(pocket_path):
     df_bonds = df_bonds.replace('un', '1')  # unknown
     df_bonds = df_bonds.replace('nc', '0')  # not connected
     df_bonds = df_bonds.replace('\n', ' ')
-    df_bonds = np.array([np.float(x) for x in df_bonds.split()]).reshape(
+    df_bonds = np.array([float(x) for x in df_bonds.split()]).reshape(
         (-1, 4))  # convert the the elements to integer
     df_bonds = pd.DataFrame(
         df_bonds, columns=['bond_id', 'atom1', 'atom2', 'bond_type'])

@@ -11,6 +11,13 @@ from torch.optim.lr_scheduler import ReduceLROnPlateau
 from dataloader import pocket_single_loader_gen
 from model import Pocket2Drug
 
+# ignore future warning
+import warnings
+warnings.simplefilter('ignore', FutureWarning)
+
+# set cuda visible devices
+import os
+os.environ['CUDA_VISIBLE_DEVICES'] = '4'
 
 def get_args():
     parser = argparse.ArgumentParser("python")
