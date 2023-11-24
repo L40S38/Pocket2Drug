@@ -58968,3 +58968,2697 @@ unique valid rate 54.443359375%
 sampling SMILES for pocket 4z9gC04...
 
   0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:01<00:01,  1.08s/it][A
+ 50%|█████     | 1/2 [00:01<00:01,  1.11s/it][A
+100%|██████████| 2/2 [00:02<00:00,  1.15s/it][A100%|██████████| 2/2 [00:02<00:00,  1.14s/it]
+
+100%|██████████| 2/2 [00:02<00:00,  1.01it/s][A100%|██████████| 2/2 [00:02<00:00,  1.01s/it]
+3182it [1:37:06,  3.04s/it]filtering out invalid sampled SMILES...
+valid rate: 93.017578125%
+unique valid rate 59.814453125%
+3182/4836 pockets sampled.
+sampling SMILES for pocket 4w6eA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3349it [1:37:24,  3.44s/it]filtering out invalid sampled SMILES...
+valid rate: 99.21875%
+unique valid rate 51.46484375%
+3349/4836 pockets sampled.
+sampling SMILES for pocket 4zaeA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:01<00:01,  1.22s/it][A
+ 50%|█████     | 1/2 [00:01<00:01,  1.29s/it][A
+100%|██████████| 2/2 [00:02<00:00,  1.21s/it][A100%|██████████| 2/2 [00:02<00:00,  1.21s/it]
+
+100%|██████████| 2/2 [00:02<00:00,  1.26s/it][A100%|██████████| 2/2 [00:02<00:00,  1.27s/it]
+3183it [1:37:10,  3.24s/it]filtering out invalid sampled SMILES...
+valid rate: 91.064453125%
+unique valid rate 83.740234375%
+3183/4836 pockets sampled.
+sampling SMILES for pocket 4w97A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3350it [1:37:29,  3.67s/it]filtering out invalid sampled SMILES...
+valid rate: 88.37890625%
+unique valid rate 86.62109375%
+3350/4836 pockets sampled.
+sampling SMILES for pocket 4zdoB00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.61it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.83it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.47it/s][A100%|██████████| 2/2 [00:01<00:00,  1.49it/s]
+
+100%|██████████| 2/2 [00:00<00:00,  2.10it/s][A100%|██████████| 2/2 [00:00<00:00,  2.05it/s]
+3351it [1:37:31,  3.20s/it]filtering out invalid sampled SMILES...
+valid rate: 96.923828125%
+unique valid rate 58.59375%
+3351/4836 pockets sampled.
+sampling SMILES for pocket 4zfjL03...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.26it/s][A3184it [1:37:13,  3.36s/it]filtering out invalid sampled SMILES...
+valid rate: 89.306640625%
+unique valid rate 70.5078125%
+3184/4836 pockets sampled.
+sampling SMILES for pocket 4w9mK00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.01s/it][A100%|██████████| 2/2 [00:01<00:00,  1.03it/s]
+
+ 50%|█████     | 1/2 [00:01<00:01,  1.03s/it][A
+100%|██████████| 2/2 [00:01<00:00,  1.12it/s][A100%|██████████| 2/2 [00:01<00:00,  1.09it/s]
+3185it [1:37:17,  3.50s/it]filtering out invalid sampled SMILES...
+valid rate: 95.703125%
+unique valid rate 36.23046875%
+3185/4836 pockets sampled.
+sampling SMILES for pocket 4w9wA01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3352it [1:37:36,  3.77s/it]filtering out invalid sampled SMILES...
+valid rate: 90.4296875%
+unique valid rate 38.57421875%
+3352/4836 pockets sampled.
+sampling SMILES for pocket 4zfnB00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.15it/s][A
+ 50%|█████     | 1/2 [00:01<00:01,  1.07s/it][A
+100%|██████████| 2/2 [00:01<00:00,  1.16it/s][A100%|██████████| 2/2 [00:01<00:00,  1.16it/s]
+
+100%|██████████| 2/2 [00:01<00:00,  1.22it/s][A100%|██████████| 2/2 [00:01<00:00,  1.16it/s]
+3186it [1:37:21,  3.60s/it]filtering out invalid sampled SMILES...
+valid rate: 92.28515625%
+unique valid rate 50.390625%
+3186/4836 pockets sampled.
+sampling SMILES for pocket 4w9xA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3353it [1:37:39,  3.71s/it]filtering out invalid sampled SMILES...
+valid rate: 96.77734375%
+unique valid rate 38.57421875%
+3353/4836 pockets sampled.
+sampling SMILES for pocket 4zg9A02...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.33it/s][A
+ 50%|█████     | 1/2 [00:01<00:01,  1.25s/it][A
+100%|██████████| 2/2 [00:01<00:00,  1.04s/it][A100%|██████████| 2/2 [00:02<00:00,  1.00s/it]
+
+100%|██████████| 2/2 [00:02<00:00,  1.16s/it][A100%|██████████| 2/2 [00:02<00:00,  1.17s/it]
+3187it [1:37:25,  3.74s/it]filtering out invalid sampled SMILES...
+valid rate: 90.185546875%
+unique valid rate 75.732421875%
+3187/4836 pockets sampled.
+sampling SMILES for pocket 4wavA02...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3354it [1:37:44,  3.91s/it]filtering out invalid sampled SMILES...
+valid rate: 92.7734375%
+unique valid rate 82.51953125%
+3354/4836 pockets sampled.
+sampling SMILES for pocket 4zgfA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.35it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.32it/s][A100%|██████████| 2/2 [00:01<00:00,  1.32it/s]
+
+ 50%|█████     | 1/2 [00:01<00:01,  1.57s/it][A
+100%|██████████| 2/2 [00:02<00:00,  1.16s/it][A100%|██████████| 2/2 [00:02<00:00,  1.22s/it]
+3188it [1:37:29,  3.64s/it]filtering out invalid sampled SMILES...
+valid rate: 97.8515625%
+unique valid rate 65.869140625%
+3188/4836 pockets sampled.
+sampling SMILES for pocket 4wccA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.31it/s][A3355it [1:37:48,  4.09s/it]
+100%|██████████| 2/2 [00:01<00:00,  1.32it/s][A100%|██████████| 2/2 [00:01<00:00,  1.32it/s]
+filtering out invalid sampled SMILES...
+valid rate: 92.138671875%
+unique valid rate 45.80078125%
+3355/4836 pockets sampled.
+sampling SMILES for pocket 4zhtA01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.12it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.12it/s][A100%|██████████| 2/2 [00:01<00:00,  1.12it/s]
+3189it [1:37:32,  3.60s/it]filtering out invalid sampled SMILES...
+valid rate: 92.138671875%
+unique valid rate 88.427734375%
+3189/4836 pockets sampled.
+sampling SMILES for pocket 4wcxB00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.43it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.77it/s][A100%|██████████| 2/2 [00:01<00:00,  1.71it/s]
+3356it [1:37:52,  3.98s/it]filtering out invalid sampled SMILES...
+valid rate: 90.673828125%
+unique valid rate 56.396484375%
+3356/4836 pockets sampled.
+sampling SMILES for pocket 4zhxA01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3190it [1:37:34,  3.19s/it]filtering out invalid sampled SMILES...
+valid rate: 96.484375%
+unique valid rate 75.537109375%
+3190/4836 pockets sampled.
+sampling SMILES for pocket 4wevA01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.64it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.99it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.56it/s][A100%|██████████| 2/2 [00:01<00:00,  1.57it/s]
+
+100%|██████████| 2/2 [00:00<00:00,  2.27it/s][A100%|██████████| 2/2 [00:00<00:00,  2.22it/s]
+3191it [1:37:36,  2.77s/it]filtering out invalid sampled SMILES...
+valid rate: 96.435546875%
+unique valid rate 85.302734375%
+3191/4836 pockets sampled.
+sampling SMILES for pocket 4wgjA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3357it [1:37:55,  3.56s/it]filtering out invalid sampled SMILES...
+valid rate: 87.20703125%
+unique valid rate 65.087890625%
+3357/4836 pockets sampled.
+sampling SMILES for pocket 4zi1A01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.11it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  3.69it/s][A
+100%|██████████| 2/2 [00:00<00:00,  3.02it/s][A100%|██████████| 2/2 [00:00<00:00,  3.10it/s]
+
+100%|██████████| 2/2 [00:01<00:00,  1.89it/s][A100%|██████████| 2/2 [00:01<00:00,  1.92it/s]
+3358it [1:37:56,  2.94s/it]filtering out invalid sampled SMILES...
+valid rate: 97.265625%
+unique valid rate 89.990234375%
+3358/4836 pockets sampled.
+sampling SMILES for pocket 4ziyA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.16it/s][A3192it [1:37:38,  2.64s/it]filtering out invalid sampled SMILES...
+valid rate: 92.138671875%
+unique valid rate 57.32421875%
+3192/4836 pockets sampled.
+sampling SMILES for pocket 4whtL00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.91it/s][A100%|██████████| 2/2 [00:01<00:00,  1.94it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.67it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.83it/s][A100%|██████████| 2/2 [00:01<00:00,  1.81it/s]
+3359it [1:37:58,  2.72s/it]filtering out invalid sampled SMILES...
+valid rate: 96.97265625%
+unique valid rate 18.65234375%
+3359/4836 pockets sampled.
+sampling SMILES for pocket 4zknA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.46it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.49it/s][A100%|██████████| 2/2 [00:01<00:00,  1.48it/s]
+3193it [1:37:42,  2.80s/it]filtering out invalid sampled SMILES...
+valid rate: 88.57421875%
+unique valid rate 66.845703125%
+3193/4836 pockets sampled.
+sampling SMILES for pocket 4wkqA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.40it/s][A3360it [1:38:01,  2.77s/it]filtering out invalid sampled SMILES...
+valid rate: 97.705078125%
+unique valid rate 51.708984375%
+3360/4836 pockets sampled.
+sampling SMILES for pocket 4zlrC00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.30it/s][A100%|██████████| 2/2 [00:01<00:00,  1.32it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  2.43it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.19it/s][A100%|██████████| 2/2 [00:00<00:00,  2.22it/s]
+3361it [1:38:03,  2.49s/it]filtering out invalid sampled SMILES...
+valid rate: 99.462890625%
+unique valid rate 31.54296875%
+3361/4836 pockets sampled.
+sampling SMILES for pocket 4zo5B00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3194it [1:37:45,  3.07s/it]filtering out invalid sampled SMILES...
+valid rate: 88.623046875%
+unique valid rate 86.962890625%
+3194/4836 pockets sampled.
+sampling SMILES for pocket 4wl8A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.11it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.24it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.12it/s][A100%|██████████| 2/2 [00:01<00:00,  1.12it/s]
+
+100%|██████████| 2/2 [00:01<00:00,  1.24it/s][A100%|██████████| 2/2 [00:01<00:00,  1.24it/s]
+3195it [1:37:49,  3.24s/it]filtering out invalid sampled SMILES...
+valid rate: 98.2421875%
+unique valid rate 13.916015625%
+3195/4836 pockets sampled.
+sampling SMILES for pocket 4wlbA01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3362it [1:38:07,  3.00s/it]filtering out invalid sampled SMILES...
+valid rate: 91.259765625%
+unique valid rate 75.9765625%
+3362/4836 pockets sampled.
+sampling SMILES for pocket 4zohA01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.42it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.08it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.54it/s][A100%|██████████| 2/2 [00:01<00:00,  1.52it/s]
+
+100%|██████████| 2/2 [00:01<00:00,  1.15it/s][A100%|██████████| 2/2 [00:01<00:00,  1.13it/s]
+3363it [1:38:10,  2.99s/it]filtering out invalid sampled SMILES...
+valid rate: 96.77734375%
+unique valid rate 85.888671875%
+3363/4836 pockets sampled.
+sampling SMILES for pocket 4zojA01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.50it/s][A3196it [1:37:53,  3.47s/it]filtering out invalid sampled SMILES...
+valid rate: 92.48046875%
+unique valid rate 84.716796875%
+3196/4836 pockets sampled.
+sampling SMILES for pocket 4wm7A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.46it/s][A100%|██████████| 2/2 [00:01<00:00,  1.47it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.44it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.47it/s][A100%|██████████| 2/2 [00:01<00:00,  1.47it/s]
+3364it [1:38:13,  3.00s/it]filtering out invalid sampled SMILES...
+valid rate: 97.16796875%
+unique valid rate 55.37109375%
+3364/4836 pockets sampled.
+sampling SMILES for pocket 4zokA01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.54it/s][A3197it [1:37:56,  3.37s/it]filtering out invalid sampled SMILES...
+valid rate: 96.97265625%
+unique valid rate 71.6796875%
+3197/4836 pockets sampled.
+sampling SMILES for pocket 4wmdA01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.48it/s][A100%|██████████| 2/2 [00:01<00:00,  1.49it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.10it/s][A3365it [1:38:16,  2.96s/it]filtering out invalid sampled SMILES...
+valid rate: 97.16796875%
+unique valid rate 16.064453125%
+3365/4836 pockets sampled.
+sampling SMILES for pocket 4zp0A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.10it/s][A100%|██████████| 2/2 [00:01<00:00,  1.10it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.26it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.26it/s][A100%|██████████| 2/2 [00:01<00:00,  1.26it/s]
+3198it [1:38:00,  3.61s/it]filtering out invalid sampled SMILES...
+valid rate: 91.40625%
+unique valid rate 78.02734375%
+3198/4836 pockets sampled.
+sampling SMILES for pocket 4wmfB00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.89it/s][A3366it [1:38:19,  3.00s/it]filtering out invalid sampled SMILES...
+valid rate: 92.333984375%
+unique valid rate 81.201171875%
+3366/4836 pockets sampled.
+sampling SMILES for pocket 4zqhB01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  3.19it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.85it/s][A100%|██████████| 2/2 [00:01<00:00,  1.86it/s]
+
+100%|██████████| 2/2 [00:00<00:00,  3.89it/s][A100%|██████████| 2/2 [00:00<00:00,  3.77it/s]
+3367it [1:38:20,  2.41s/it]filtering out invalid sampled SMILES...
+valid rate: 99.462890625%
+unique valid rate 62.353515625%
+3367/4836 pockets sampled.
+sampling SMILES for pocket 4zqxA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3199it [1:38:03,  3.22s/it]filtering out invalid sampled SMILES...
+valid rate: 91.845703125%
+unique valid rate 75.634765625%
+3199/4836 pockets sampled.
+sampling SMILES for pocket 4wmtA01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:01<00:01,  1.14s/it][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.49it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.22it/s][A100%|██████████| 2/2 [00:01<00:00,  1.15it/s]
+
+100%|██████████| 2/2 [00:01<00:00,  1.83it/s][A100%|██████████| 2/2 [00:01<00:00,  1.77it/s]
+3200it [1:38:05,  2.92s/it]filtering out invalid sampled SMILES...
+valid rate: 94.62890625%
+unique valid rate 78.759765625%
+3200/4836 pockets sampled.
+sampling SMILES for pocket 4wmvA01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3368it [1:38:23,  2.68s/it]filtering out invalid sampled SMILES...
+valid rate: 87.939453125%
+unique valid rate 75.87890625%
+3368/4836 pockets sampled.
+sampling SMILES for pocket 4zsmB00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:01<00:01,  1.05s/it][A
+ 50%|█████     | 1/2 [00:01<00:01,  1.01s/it][A
+100%|██████████| 2/2 [00:01<00:00,  1.27it/s][A100%|██████████| 2/2 [00:01<00:00,  1.22it/s]
+
+100%|██████████| 2/2 [00:02<00:00,  1.10s/it][A100%|██████████| 2/2 [00:02<00:00,  1.09s/it]
+3369it [1:38:26,  2.54s/it]filtering out invalid sampled SMILES...
+valid rate: 99.365234375%
+unique valid rate 83.69140625%
+3369/4836 pockets sampled.
+sampling SMILES for pocket 4ztcA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3201it [1:38:08,  3.00s/it]filtering out invalid sampled SMILES...
+valid rate: 96.728515625%
+unique valid rate 79.248046875%
+3201/4836 pockets sampled.
+sampling SMILES for pocket 4woeA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:01<00:01,  1.11s/it][A
+ 50%|█████     | 1/2 [00:01<00:01,  1.17s/it][A
+100%|██████████| 2/2 [00:02<00:00,  1.21s/it][A100%|██████████| 2/2 [00:02<00:00,  1.19s/it]
+
+100%|██████████| 2/2 [00:02<00:00,  1.14s/it][A100%|██████████| 2/2 [00:02<00:00,  1.15s/it]
+3370it [1:38:30,  2.96s/it]filtering out invalid sampled SMILES...
+valid rate: 89.306640625%
+unique valid rate 69.677734375%
+3370/4836 pockets sampled.
+sampling SMILES for pocket 4zulF01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3202it [1:38:12,  3.23s/it]filtering out invalid sampled SMILES...
+valid rate: 94.775390625%
+unique valid rate 45.8984375%
+3202/4836 pockets sampled.
+sampling SMILES for pocket 4wovB00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.78it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.34it/s][A100%|██████████| 2/2 [00:00<00:00,  2.40it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.33it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.32it/s][A100%|██████████| 2/2 [00:01<00:00,  1.32it/s]
+3371it [1:38:32,  2.65s/it]filtering out invalid sampled SMILES...
+valid rate: 99.462890625%
+unique valid rate 67.041015625%
+3371/4836 pockets sampled.
+sampling SMILES for pocket 4zvnB01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.90it/s][A
+100%|██████████| 2/2 [00:01<00:00,  2.00it/s][A100%|██████████| 2/2 [00:01<00:00,  1.98it/s]
+3203it [1:38:16,  3.38s/it]filtering out invalid sampled SMILES...
+valid rate: 91.69921875%
+unique valid rate 85.107421875%
+3203/4836 pockets sampled.
+sampling SMILES for pocket 4wp7A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3372it [1:38:34,  2.59s/it]filtering out invalid sampled SMILES...
+valid rate: 98.53515625%
+unique valid rate 81.494140625%
+3372/4836 pockets sampled.
+sampling SMILES for pocket 4zx5A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.33it/s][A
+ 50%|█████     | 1/2 [00:01<00:01,  1.07s/it][A
+100%|██████████| 2/2 [00:01<00:00,  1.42it/s][A100%|██████████| 2/2 [00:01<00:00,  1.41it/s]
+
+100%|██████████| 2/2 [00:02<00:00,  1.15s/it][A100%|██████████| 2/2 [00:02<00:00,  1.13s/it]
+3204it [1:38:19,  3.36s/it]filtering out invalid sampled SMILES...
+valid rate: 95.703125%
+unique valid rate 78.22265625%
+3204/4836 pockets sampled.
+sampling SMILES for pocket 4wpfA01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.33it/s][A3373it [1:38:38,  3.12s/it]filtering out invalid sampled SMILES...
+valid rate: 94.384765625%
+unique valid rate 80.419921875%
+3373/4836 pockets sampled.
+sampling SMILES for pocket 4zxwB00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.32it/s][A100%|██████████| 2/2 [00:01<00:00,  1.32it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  2.26it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.28it/s][A100%|██████████| 2/2 [00:00<00:00,  2.28it/s]
+3205it [1:38:22,  3.41s/it]filtering out invalid sampled SMILES...
+valid rate: 93.408203125%
+unique valid rate 87.5%
+3205/4836 pockets sampled.
+sampling SMILES for pocket 4wq6A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3374it [1:38:41,  2.86s/it]filtering out invalid sampled SMILES...
+valid rate: 98.14453125%
+unique valid rate 91.11328125%
+3374/4836 pockets sampled.
+sampling SMILES for pocket 4zy5A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.32it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.20it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.38it/s][A100%|██████████| 2/2 [00:01<00:00,  1.37it/s]
+
+100%|██████████| 2/2 [00:01<00:00,  1.27it/s][A100%|██████████| 2/2 [00:01<00:00,  1.25it/s]
+3206it [1:38:25,  3.30s/it]filtering out invalid sampled SMILES...
+valid rate: 96.875%
+unique valid rate 53.02734375%
+3206/4836 pockets sampled.
+sampling SMILES for pocket 4wqpA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.25it/s][A3375it [1:38:45,  3.18s/it]filtering out invalid sampled SMILES...
+valid rate: 87.6953125%
+unique valid rate 85.693359375%
+3375/4836 pockets sampled.
+sampling SMILES for pocket 4zyjD00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.21it/s][A100%|██████████| 2/2 [00:01<00:00,  1.22it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.38it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.43it/s][A100%|██████████| 2/2 [00:01<00:00,  1.43it/s]
+3207it [1:38:29,  3.42s/it]filtering out invalid sampled SMILES...
+valid rate: 93.359375%
+unique valid rate 74.609375%
+3207/4836 pockets sampled.
+sampling SMILES for pocket 4ws2A02...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3376it [1:38:48,  3.13s/it]filtering out invalid sampled SMILES...
+valid rate: 97.021484375%
+unique valid rate 59.375%
+3376/4836 pockets sampled.
+sampling SMILES for pocket 4zzuA05...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.52it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.59it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.48it/s][A100%|██████████| 2/2 [00:01<00:00,  1.48it/s]
+
+100%|██████████| 2/2 [00:01<00:00,  1.57it/s][A100%|██████████| 2/2 [00:01<00:00,  1.57it/s]
+3208it [1:38:32,  3.31s/it]filtering out invalid sampled SMILES...
+valid rate: 96.38671875%
+unique valid rate 60.498046875%
+3208/4836 pockets sampled.
+sampling SMILES for pocket 4ws8A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3377it [1:38:50,  3.03s/it]filtering out invalid sampled SMILES...
+valid rate: 97.509765625%
+unique valid rate 55.224609375%
+3377/4836 pockets sampled.
+sampling SMILES for pocket 4zzuA08...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.96it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.21it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.57it/s][A100%|██████████| 2/2 [00:00<00:00,  2.45it/s]
+
+100%|██████████| 2/2 [00:01<00:00,  1.39it/s][A100%|██████████| 2/2 [00:01<00:00,  1.36it/s]
+3378it [1:38:52,  2.60s/it]filtering out invalid sampled SMILES...
+valid rate: 98.876953125%
+unique valid rate 56.34765625%
+3378/4836 pockets sampled.
+sampling SMILES for pocket 5a05C01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.96it/s][A3209it [1:38:35,  3.06s/it]filtering out invalid sampled SMILES...
+valid rate: 94.970703125%
+unique valid rate 56.73828125%
+3209/4836 pockets sampled.
+sampling SMILES for pocket 4wskB00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  2.00it/s][A100%|██████████| 2/2 [00:01<00:00,  1.99it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  3.65it/s][A
+100%|██████████| 2/2 [00:00<00:00,  3.63it/s][A100%|██████████| 2/2 [00:00<00:00,  3.63it/s]
+3210it [1:38:36,  2.51s/it]filtering out invalid sampled SMILES...
+valid rate: 99.072265625%
+unique valid rate 75.9765625%
+3210/4836 pockets sampled.
+sampling SMILES for pocket 4wtlC01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3379it [1:38:54,  2.47s/it]filtering out invalid sampled SMILES...
+valid rate: 93.75%
+unique valid rate 68.994140625%
+3379/4836 pockets sampled.
+sampling SMILES for pocket 5a07A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.90it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.00it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.90it/s][A100%|██████████| 2/2 [00:01<00:00,  1.90it/s]
+
+100%|██████████| 2/2 [00:01<00:00,  1.95it/s][A100%|██████████| 2/2 [00:01<00:00,  1.96it/s]
+3211it [1:38:38,  2.38s/it]filtering out invalid sampled SMILES...
+valid rate: 93.701171875%
+unique valid rate 49.12109375%
+3211/4836 pockets sampled.
+sampling SMILES for pocket 4wvhA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3380it [1:38:56,  2.33s/it]filtering out invalid sampled SMILES...
+valid rate: 95.068359375%
+unique valid rate 40.283203125%
+3380/4836 pockets sampled.
+sampling SMILES for pocket 5a0aA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.57it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.61it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.80it/s][A100%|██████████| 2/2 [00:01<00:00,  1.76it/s]
+
+100%|██████████| 2/2 [00:01<00:00,  1.82it/s][A100%|██████████| 2/2 [00:01<00:00,  1.78it/s]
+3212it [1:38:40,  2.31s/it]3381it [1:38:58,  2.26s/it]filtering out invalid sampled SMILES...
+valid rate: 93.408203125%
+unique valid rate 89.501953125%
+3212/4836 pockets sampled.
+sampling SMILES for pocket 4wwpA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][Afiltering out invalid sampled SMILES...
+valid rate: 95.1171875%
+unique valid rate 88.18359375%
+3381/4836 pockets sampled.
+sampling SMILES for pocket 5a0cA02...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.74it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.70it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.53it/s][A100%|██████████| 2/2 [00:01<00:00,  1.56it/s]
+
+100%|██████████| 2/2 [00:01<00:00,  1.43it/s][A100%|██████████| 2/2 [00:01<00:00,  1.47it/s]
+3382it [1:39:02,  2.58s/it]filtering out invalid sampled SMILES...
+valid rate: 94.287109375%
+unique valid rate 87.109375%
+3382/4836 pockets sampled.
+sampling SMILES for pocket 5a1sA04...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3213it [1:38:44,  2.66s/it]filtering out invalid sampled SMILES...
+valid rate: 91.69921875%
+unique valid rate 77.392578125%
+3213/4836 pockets sampled.
+sampling SMILES for pocket 4wxfB01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.31it/s][A
+ 50%|█████     | 1/2 [00:01<00:01,  1.13s/it][A
+100%|██████████| 2/2 [00:01<00:00,  1.33it/s][A100%|██████████| 2/2 [00:01<00:00,  1.33it/s]
+
+100%|██████████| 2/2 [00:02<00:00,  1.06s/it][A100%|██████████| 2/2 [00:02<00:00,  1.07s/it]
+3214it [1:38:47,  2.79s/it]filtering out invalid sampled SMILES...
+valid rate: 96.923828125%
+unique valid rate 51.611328125%
+3214/4836 pockets sampled.
+sampling SMILES for pocket 4wy6A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.16it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.17it/s][A100%|██████████| 2/2 [00:01<00:00,  1.17it/s]
+3383it [1:39:07,  3.32s/it]filtering out invalid sampled SMILES...
+valid rate: 96.240234375%
+unique valid rate 69.189453125%
+3383/4836 pockets sampled.
+sampling SMILES for pocket 5a1sC02...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.28it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.32it/s][A100%|██████████| 2/2 [00:01<00:00,  1.32it/s]
+3215it [1:38:50,  3.10s/it]filtering out invalid sampled SMILES...
+valid rate: 92.48046875%
+unique valid rate 89.84375%
+3215/4836 pockets sampled.
+sampling SMILES for pocket 4wzeB00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.29it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.27it/s][A100%|██████████| 2/2 [00:01<00:00,  1.28it/s]
+3384it [1:39:10,  3.49s/it]filtering out invalid sampled SMILES...
+valid rate: 94.677734375%
+unique valid rate 69.091796875%
+3384/4836 pockets sampled.
+sampling SMILES for pocket 5a25B00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.45it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.42it/s][A100%|██████████| 2/2 [00:01<00:00,  1.42it/s]
+3216it [1:38:54,  3.21s/it]filtering out invalid sampled SMILES...
+valid rate: 94.43359375%
+unique valid rate 46.533203125%
+3216/4836 pockets sampled.
+sampling SMILES for pocket 4x2dA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.06it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.06it/s][A100%|██████████| 2/2 [00:01<00:00,  1.06it/s]
+3385it [1:39:15,  3.72s/it]filtering out invalid sampled SMILES...
+valid rate: 96.09375%
+unique valid rate 74.755859375%
+3385/4836 pockets sampled.
+sampling SMILES for pocket 5a2zB00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:01<00:01,  1.19s/it][A3217it [1:38:58,  3.56s/it]filtering out invalid sampled SMILES...
+valid rate: 91.2109375%
+unique valid rate 64.404296875%
+3217/4836 pockets sampled.
+sampling SMILES for pocket 4x3tD01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:02<00:00,  1.19s/it][A100%|██████████| 2/2 [00:02<00:00,  1.19s/it]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.00it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.00it/s][A100%|██████████| 2/2 [00:01<00:00,  1.00it/s]
+3386it [1:39:19,  4.00s/it]filtering out invalid sampled SMILES...
+valid rate: 93.505859375%
+unique valid rate 38.28125%
+3386/4836 pockets sampled.
+sampling SMILES for pocket 5a4wA01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.08it/s][A3218it [1:39:03,  3.76s/it]filtering out invalid sampled SMILES...
+valid rate: 92.96875%
+unique valid rate 53.22265625%
+3218/4836 pockets sampled.
+sampling SMILES for pocket 4x4aA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.37it/s][A100%|██████████| 2/2 [00:01<00:00,  1.32it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  2.31it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.38it/s][A100%|██████████| 2/2 [00:00<00:00,  2.37it/s]
+3387it [1:39:22,  3.54s/it]filtering out invalid sampled SMILES...
+valid rate: 95.849609375%
+unique valid rate 71.240234375%
+3387/4836 pockets sampled.
+sampling SMILES for pocket 5a63A02...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3219it [1:39:04,  3.15s/it]filtering out invalid sampled SMILES...
+valid rate: 94.921875%
+unique valid rate 55.859375%
+3219/4836 pockets sampled.
+sampling SMILES for pocket 4x4wA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:01<00:01,  1.09s/it][A
+ 50%|█████     | 1/2 [00:01<00:01,  1.09s/it][A
+100%|██████████| 2/2 [00:02<00:00,  1.17s/it][A100%|██████████| 2/2 [00:02<00:00,  1.16s/it]
+
+100%|██████████| 2/2 [00:02<00:00,  1.08s/it][A100%|██████████| 2/2 [00:02<00:00,  1.08s/it]
+3388it [1:39:25,  3.54s/it]filtering out invalid sampled SMILES...
+valid rate: 91.259765625%
+unique valid rate 53.80859375%
+3388/4836 pockets sampled.
+sampling SMILES for pocket 5a6hA01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3220it [1:39:07,  3.11s/it]filtering out invalid sampled SMILES...
+valid rate: 95.8984375%
+unique valid rate 52.587890625%
+3220/4836 pockets sampled.
+sampling SMILES for pocket 4x56A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:01<00:01,  1.21s/it][A
+ 50%|█████     | 1/2 [00:01<00:01,  1.23s/it][A
+100%|██████████| 2/2 [00:02<00:00,  1.23s/it][A100%|██████████| 2/2 [00:02<00:00,  1.23s/it]
+
+100%|██████████| 2/2 [00:02<00:00,  1.25s/it][A100%|██████████| 2/2 [00:02<00:00,  1.24s/it]
+3389it [1:39:29,  3.46s/it]filtering out invalid sampled SMILES...
+valid rate: 95.41015625%
+unique valid rate 51.318359375%
+3389/4836 pockets sampled.
+sampling SMILES for pocket 5a70A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3221it [1:39:11,  3.23s/it]filtering out invalid sampled SMILES...
+valid rate: 93.359375%
+unique valid rate 60.009765625%
+3221/4836 pockets sampled.
+sampling SMILES for pocket 4x5qA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.53it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.90it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.63it/s][A100%|██████████| 2/2 [00:01<00:00,  1.62it/s]
+
+100%|██████████| 2/2 [00:01<00:00,  1.85it/s][A100%|██████████| 2/2 [00:01<00:00,  1.86it/s]
+3222it [1:39:13,  2.94s/it]3390it [1:39:31,  3.19s/it]filtering out invalid sampled SMILES...
+valid rate: 92.08984375%
+unique valid rate 58.251953125%
+3222/4836 pockets sampled.
+sampling SMILES for pocket 4x5yA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][Afiltering out invalid sampled SMILES...
+valid rate: 91.064453125%
+unique valid rate 49.0234375%
+3390/4836 pockets sampled.
+sampling SMILES for pocket 5a7cB00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.11it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.09it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.12it/s][A100%|██████████| 2/2 [00:01<00:00,  1.11it/s]
+
+100%|██████████| 2/2 [00:01<00:00,  1.11it/s][A100%|██████████| 2/2 [00:01<00:00,  1.11it/s]
+3223it [1:39:17,  3.17s/it]3391it [1:39:35,  3.34s/it]filtering out invalid sampled SMILES...
+valid rate: 95.01953125%
+unique valid rate 89.599609375%
+3223/4836 pockets sampled.
+sampling SMILES for pocket 4x7nA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][Afiltering out invalid sampled SMILES...
+valid rate: 93.798828125%
+unique valid rate 93.115234375%
+3391/4836 pockets sampled.
+sampling SMILES for pocket 5a7wA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.21it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.07it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.32it/s][A100%|██████████| 2/2 [00:01<00:00,  1.30it/s]
+
+100%|██████████| 2/2 [00:01<00:00,  1.13it/s][A100%|██████████| 2/2 [00:01<00:00,  1.12it/s]
+3392it [1:39:38,  3.32s/it]filtering out invalid sampled SMILES...
+valid rate: 97.4609375%
+unique valid rate 68.75%
+3392/4836 pockets sampled.
+sampling SMILES for pocket 5a8eA04...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3224it [1:39:21,  3.43s/it]filtering out invalid sampled SMILES...
+valid rate: 86.03515625%
+unique valid rate 85.205078125%
+3224/4836 pockets sampled.
+sampling SMILES for pocket 4x7rA02...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.22it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.23it/s][A
+100%|██████████| 2/2 [00:02<00:00,  1.06s/it][A100%|██████████| 2/2 [00:02<00:00,  1.03s/it]
+
+100%|██████████| 2/2 [00:01<00:00,  1.32it/s][A100%|██████████| 2/2 [00:01<00:00,  1.31it/s]
+3393it [1:39:42,  3.55s/it]filtering out invalid sampled SMILES...
+valid rate: 97.4609375%
+unique valid rate 27.294921875%
+3393/4836 pockets sampled.
+sampling SMILES for pocket 5a8xA02...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3225it [1:39:24,  3.42s/it]filtering out invalid sampled SMILES...
+valid rate: 97.0703125%
+unique valid rate 35.498046875%
+3225/4836 pockets sampled.
+sampling SMILES for pocket 4x7wA01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.10it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.04it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.14it/s][A100%|██████████| 2/2 [00:01<00:00,  1.13it/s]
+
+100%|██████████| 2/2 [00:01<00:00,  1.08it/s][A100%|██████████| 2/2 [00:01<00:00,  1.07it/s]
+3394it [1:39:46,  3.66s/it]filtering out invalid sampled SMILES...
+valid rate: 91.11328125%
+unique valid rate 83.69140625%
+3394/4836 pockets sampled.
+sampling SMILES for pocket 5aagA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3226it [1:39:28,  3.61s/it]filtering out invalid sampled SMILES...
+valid rate: 92.626953125%
+unique valid rate 64.74609375%
+3226/4836 pockets sampled.
+sampling SMILES for pocket 4x8rB00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.26it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.18it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.27it/s][A100%|██████████| 2/2 [00:00<00:00,  2.27it/s]
+
+100%|██████████| 2/2 [00:01<00:00,  1.18it/s][A100%|██████████| 2/2 [00:01<00:00,  1.18it/s]
+3227it [1:39:30,  3.09s/it]filtering out invalid sampled SMILES...
+valid rate: 99.51171875%
+unique valid rate 42.28515625%
+3227/4836 pockets sampled.
+sampling SMILES for pocket 4x90D08...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.60it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.56it/s][A100%|██████████| 2/2 [00:01<00:00,  1.56it/s]
+3395it [1:39:50,  3.78s/it]filtering out invalid sampled SMILES...
+valid rate: 83.251953125%
+unique valid rate 80.95703125%
+3395/4836 pockets sampled.
+sampling SMILES for pocket 5aauA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.49it/s][A3228it [1:39:33,  3.01s/it]filtering out invalid sampled SMILES...
+valid rate: 98.53515625%
+unique valid rate 63.4765625%
+3228/4836 pockets sampled.
+sampling SMILES for pocket 4x90D09...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.45it/s][A100%|██████████| 2/2 [00:01<00:00,  1.46it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.32it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.58it/s][A100%|██████████| 2/2 [00:01<00:00,  1.54it/s]
+3396it [1:39:53,  3.56s/it]filtering out invalid sampled SMILES...
+valid rate: 93.359375%
+unique valid rate 88.37890625%
+3396/4836 pockets sampled.
+sampling SMILES for pocket 5abzB00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3229it [1:39:35,  2.81s/it]filtering out invalid sampled SMILES...
+valid rate: 95.01953125%
+unique valid rate 57.666015625%
+3229/4836 pockets sampled.
+sampling SMILES for pocket 4x95B03...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.20it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.17it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.09it/s][A100%|██████████| 2/2 [00:00<00:00,  2.11it/s]
+
+100%|██████████| 2/2 [00:00<00:00,  2.16it/s][A100%|██████████| 2/2 [00:00<00:00,  2.16it/s]
+3397it [1:39:55,  3.06s/it]filtering out invalid sampled SMILES...
+valid rate: 95.849609375%
+unique valid rate 65.380859375%
+3397/4836 pockets sampled.
+sampling SMILES for pocket 5adfA02...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3230it [1:39:37,  2.54s/it]filtering out invalid sampled SMILES...
+valid rate: 96.044921875%
+unique valid rate 67.724609375%
+3230/4836 pockets sampled.
+sampling SMILES for pocket 4x97D03...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.18it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.62it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.42it/s][A100%|██████████| 2/2 [00:00<00:00,  2.45it/s]
+
+100%|██████████| 2/2 [00:00<00:00,  2.01it/s][A100%|██████████| 2/2 [00:00<00:00,  2.04it/s]
+3231it [1:39:39,  2.27s/it]filtering out invalid sampled SMILES...
+valid rate: 96.044921875%
+unique valid rate 84.033203125%
+3231/4836 pockets sampled.
+sampling SMILES for pocket 4x9eB00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3398it [1:39:57,  2.74s/it]filtering out invalid sampled SMILES...
+valid rate: 92.333984375%
+unique valid rate 87.158203125%
+3398/4836 pockets sampled.
+sampling SMILES for pocket 5admA02...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.15it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.70it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.43it/s][A100%|██████████| 2/2 [00:01<00:00,  1.50it/s]
+
+100%|██████████| 2/2 [00:01<00:00,  1.63it/s][A100%|██████████| 2/2 [00:01<00:00,  1.73it/s]
+3399it [1:40:00,  2.86s/it]filtering out invalid sampled SMILES...
+valid rate: 93.45703125%
+unique valid rate 89.84375%
+3399/4836 pockets sampled.
+sampling SMILES for pocket 5adzA01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3232it [1:39:42,  2.68s/it]filtering out invalid sampled SMILES...
+valid rate: 91.748046875%
+unique valid rate 58.447265625%
+3232/4836 pockets sampled.
+sampling SMILES for pocket 4xa5A01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.37it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.15it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.36it/s][A100%|██████████| 2/2 [00:01<00:00,  1.36it/s]
+
+100%|██████████| 2/2 [00:01<00:00,  1.17it/s][A100%|██████████| 2/2 [00:01<00:00,  1.17it/s]
+3400it [1:40:04,  3.02s/it]filtering out invalid sampled SMILES...
+valid rate: 93.896484375%
+unique valid rate 87.5%
+3400/4836 pockets sampled.
+sampling SMILES for pocket 5ag1A03...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3233it [1:39:46,  3.03s/it]filtering out invalid sampled SMILES...
+valid rate: 91.552734375%
+unique valid rate 53.173828125%
+3233/4836 pockets sampled.
+sampling SMILES for pocket 4xajD00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:01<00:01,  1.15s/it][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.13it/s][A
+100%|██████████| 2/2 [00:02<00:00,  1.14s/it][A100%|██████████| 2/2 [00:02<00:00,  1.14s/it]
+
+100%|██████████| 2/2 [00:01<00:00,  1.25it/s][A100%|██████████| 2/2 [00:01<00:00,  1.23it/s]
+3234it [1:39:50,  3.25s/it]filtering out invalid sampled SMILES...
+valid rate: 90.234375%
+unique valid rate 40.234375%
+3234/4836 pockets sampled.
+sampling SMILES for pocket 4xaqB00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.98it/s][A3401it [1:40:09,  3.69s/it]filtering out invalid sampled SMILES...
+valid rate: 89.892578125%
+unique valid rate 25.537109375%
+3401/4836 pockets sampled.
+sampling SMILES for pocket 5agpA02...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.04it/s][A100%|██████████| 2/2 [00:00<00:00,  2.03it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.74it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.88it/s][A100%|██████████| 2/2 [00:01<00:00,  1.86it/s]
+3235it [1:39:52,  2.87s/it]filtering out invalid sampled SMILES...
+valid rate: 99.462890625%
+unique valid rate 45.947265625%
+3235/4836 pockets sampled.
+sampling SMILES for pocket 4xb2A01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.97it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.88it/s][A100%|██████████| 2/2 [00:01<00:00,  1.89it/s]
+3402it [1:40:12,  3.48s/it]filtering out invalid sampled SMILES...
+valid rate: 98.291015625%
+unique valid rate 77.099609375%
+3402/4836 pockets sampled.
+sampling SMILES for pocket 5ahcA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3236it [1:39:54,  2.68s/it]filtering out invalid sampled SMILES...
+valid rate: 98.681640625%
+unique valid rate 47.998046875%
+3236/4836 pockets sampled.
+sampling SMILES for pocket 4xdjA01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:01<00:01,  1.08s/it][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.34it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.26it/s][A100%|██████████| 2/2 [00:01<00:00,  1.27it/s]
+
+100%|██████████| 2/2 [00:02<00:00,  1.53s/it][A100%|██████████| 2/2 [00:02<00:00,  1.47s/it]
+3237it [1:39:58,  2.92s/it]filtering out invalid sampled SMILES...
+valid rate: 97.8515625%
+unique valid rate 64.453125%
+3237/4836 pockets sampled.
+sampling SMILES for pocket 4xdjB02...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.51it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.50it/s][A100%|██████████| 2/2 [00:01<00:00,  1.50it/s]
+3403it [1:40:18,  4.20s/it]filtering out invalid sampled SMILES...
+valid rate: 85.3515625%
+unique valid rate 84.66796875%
+3403/4836 pockets sampled.
+sampling SMILES for pocket 5ahjH00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.22it/s][A3238it [1:40:01,  2.94s/it]filtering out invalid sampled SMILES...
+valid rate: 98.193359375%
+unique valid rate 64.6484375%
+3238/4836 pockets sampled.
+sampling SMILES for pocket 4xdlA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.45it/s][A100%|██████████| 2/2 [00:01<00:00,  1.41it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.19it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.17it/s][A100%|██████████| 2/2 [00:01<00:00,  1.17it/s]
+3404it [1:40:21,  3.83s/it]filtering out invalid sampled SMILES...
+valid rate: 91.845703125%
+unique valid rate 82.421875%
+3404/4836 pockets sampled.
+sampling SMILES for pocket 5ak5A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.03it/s][A3239it [1:40:04,  2.95s/it]filtering out invalid sampled SMILES...
+valid rate: 96.142578125%
+unique valid rate 72.8515625%
+3239/4836 pockets sampled.
+sampling SMILES for pocket 4xdyB03...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.03it/s][A100%|██████████| 2/2 [00:01<00:00,  1.03it/s]
+
+ 50%|█████     | 1/2 [00:01<00:01,  1.18s/it][A3405it [1:40:24,  3.57s/it]filtering out invalid sampled SMILES...
+valid rate: 94.384765625%
+unique valid rate 89.501953125%
+3405/4836 pockets sampled.
+sampling SMILES for pocket 5akdJ00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:02<00:00,  1.10s/it][A100%|██████████| 2/2 [00:02<00:00,  1.12s/it]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.01it/s][A3240it [1:40:07,  3.06s/it]filtering out invalid sampled SMILES...
+valid rate: 95.1171875%
+unique valid rate 47.021484375%
+3240/4836 pockets sampled.
+sampling SMILES for pocket 4xe8A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.10it/s][A100%|██████████| 2/2 [00:01<00:00,  1.09it/s]
+
+ 50%|█████     | 1/2 [00:01<00:01,  1.08s/it][A3406it [1:40:27,  3.37s/it]filtering out invalid sampled SMILES...
+valid rate: 98.53515625%
+unique valid rate 10.205078125%
+3406/4836 pockets sampled.
+sampling SMILES for pocket 5akuA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:02<00:00,  1.18s/it][A100%|██████████| 2/2 [00:02<00:00,  1.16s/it]
+
+ 50%|█████     | 1/2 [00:01<00:01,  1.14s/it][A
+100%|██████████| 2/2 [00:02<00:00,  1.05s/it][A100%|██████████| 2/2 [00:02<00:00,  1.06s/it]
+3241it [1:40:11,  3.27s/it]filtering out invalid sampled SMILES...
+valid rate: 95.947265625%
+unique valid rate 25.1953125%
+3241/4836 pockets sampled.
+sampling SMILES for pocket 4xfrB00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.18it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.17it/s][A100%|██████████| 2/2 [00:00<00:00,  2.17it/s]
+3407it [1:40:30,  3.35s/it]filtering out invalid sampled SMILES...
+valid rate: 92.724609375%
+unique valid rate 88.76953125%
+3407/4836 pockets sampled.
+sampling SMILES for pocket 5akzA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  3.01it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.98it/s][A100%|██████████| 2/2 [00:00<00:00,  2.98it/s]
+3242it [1:40:13,  2.89s/it]filtering out invalid sampled SMILES...
+valid rate: 95.80078125%
+unique valid rate 41.796875%
+3242/4836 pockets sampled.
+sampling SMILES for pocket 4xgxB00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.21it/s][A3408it [1:40:31,  2.80s/it]filtering out invalid sampled SMILES...
+valid rate: 98.046875%
+unique valid rate 90.478515625%
+3408/4836 pockets sampled.
+sampling SMILES for pocket 5albB00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.93it/s][A100%|██████████| 2/2 [00:01<00:00,  1.96it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.59it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.31it/s][A100%|██████████| 2/2 [00:01<00:00,  1.35it/s]
+3243it [1:40:16,  2.90s/it]filtering out invalid sampled SMILES...
+valid rate: 94.62890625%
+unique valid rate 71.77734375%
+3243/4836 pockets sampled.
+sampling SMILES for pocket 4xifB01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.35it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.35it/s][A100%|██████████| 2/2 [00:01<00:00,  1.35it/s]
+3409it [1:40:36,  3.21s/it]filtering out invalid sampled SMILES...
+valid rate: 93.26171875%
+unique valid rate 71.630859375%
+3409/4836 pockets sampled.
+sampling SMILES for pocket 5algA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.21it/s][A3244it [1:40:19,  3.01s/it]filtering out invalid sampled SMILES...
+valid rate: 95.60546875%
+unique valid rate 55.859375%
+3244/4836 pockets sampled.
+sampling SMILES for pocket 4xjjA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.10it/s][A100%|██████████| 2/2 [00:01<00:00,  1.11it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.13it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.12it/s][A100%|██████████| 2/2 [00:01<00:00,  1.12it/s]
+3410it [1:40:40,  3.67s/it]filtering out invalid sampled SMILES...
+valid rate: 89.990234375%
+unique valid rate 87.01171875%
+3410/4836 pockets sampled.
+sampling SMILES for pocket 5alnA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.59it/s][A3245it [1:40:23,  3.32s/it]filtering out invalid sampled SMILES...
+valid rate: 91.357421875%
+unique valid rate 64.990234375%
+3245/4836 pockets sampled.
+sampling SMILES for pocket 4xjsA01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.65it/s][A100%|██████████| 2/2 [00:01<00:00,  1.64it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.45it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.45it/s][A100%|██████████| 2/2 [00:01<00:00,  1.45it/s]
+3411it [1:40:44,  3.57s/it]filtering out invalid sampled SMILES...
+valid rate: 96.337890625%
+unique valid rate 90.869140625%
+3411/4836 pockets sampled.
+sampling SMILES for pocket 5aluA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3246it [1:40:26,  3.25s/it]filtering out invalid sampled SMILES...
+valid rate: 96.19140625%
+unique valid rate 69.189453125%
+3246/4836 pockets sampled.
+sampling SMILES for pocket 4xkxA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.14it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.28it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.13it/s][A100%|██████████| 2/2 [00:01<00:00,  1.13it/s]
+
+100%|██████████| 2/2 [00:01<00:00,  1.27it/s][A100%|██████████| 2/2 [00:01<00:00,  1.27it/s]
+3412it [1:40:48,  3.71s/it]filtering out invalid sampled SMILES...
+valid rate: 90.966796875%
+unique valid rate 62.646484375%
+3412/4836 pockets sampled.
+sampling SMILES for pocket 5am0A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3247it [1:40:30,  3.38s/it]filtering out invalid sampled SMILES...
+valid rate: 90.8203125%
+unique valid rate 88.818359375%
+3247/4836 pockets sampled.
+sampling SMILES for pocket 4xm7A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.74it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.27it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.77it/s][A100%|██████████| 2/2 [00:01<00:00,  1.76it/s]
+
+100%|██████████| 2/2 [00:01<00:00,  1.29it/s][A100%|██████████| 2/2 [00:01<00:00,  1.29it/s]
+3413it [1:40:51,  3.45s/it]filtering out invalid sampled SMILES...
+valid rate: 96.923828125%
+unique valid rate 92.138671875%
+3413/4836 pockets sampled.
+sampling SMILES for pocket 5am1A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.38it/s][A3248it [1:40:33,  3.42s/it]filtering out invalid sampled SMILES...
+valid rate: 96.044921875%
+unique valid rate 86.328125%
+3248/4836 pockets sampled.
+sampling SMILES for pocket 4xmoA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.34it/s][A100%|██████████| 2/2 [00:01<00:00,  1.34it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.13it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.28it/s][A100%|██████████| 2/2 [00:01<00:00,  1.26it/s]
+3414it [1:40:54,  3.46s/it]filtering out invalid sampled SMILES...
+valid rate: 93.994140625%
+unique valid rate 88.76953125%
+3414/4836 pockets sampled.
+sampling SMILES for pocket 5am4A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.47it/s][A3249it [1:40:37,  3.39s/it]filtering out invalid sampled SMILES...
+valid rate: 89.599609375%
+unique valid rate 83.0078125%
+3249/4836 pockets sampled.
+sampling SMILES for pocket 4xmxA05...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.59it/s][A100%|██████████| 2/2 [00:00<00:00,  2.57it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  2.61it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.65it/s][A100%|██████████| 2/2 [00:00<00:00,  2.64it/s]
+3415it [1:40:56,  2.93s/it]filtering out invalid sampled SMILES...
+valid rate: 95.60546875%
+unique valid rate 91.650390625%
+3415/4836 pockets sampled.
+sampling SMILES for pocket 5amaC01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  5.06it/s][A
+100%|██████████| 2/2 [00:00<00:00,  5.54it/s][A100%|██████████| 2/2 [00:00<00:00,  5.46it/s]
+3250it [1:40:38,  2.83s/it]filtering out invalid sampled SMILES...
+valid rate: 97.412109375%
+unique valid rate 77.197265625%
+3250/4836 pockets sampled.
+sampling SMILES for pocket 4xnbA04...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3416it [1:40:57,  2.27s/it]filtering out invalid sampled SMILES...
+valid rate: 99.853515625%
+unique valid rate 41.650390625%
+3416/4836 pockets sampled.
+sampling SMILES for pocket 5ameB00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.84it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  4.69it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.65it/s][A100%|██████████| 2/2 [00:00<00:00,  2.83it/s]
+
+100%|██████████| 2/2 [00:01<00:00,  1.83it/s][A100%|██████████| 2/2 [00:01<00:00,  1.93it/s]
+3417it [1:40:58,  2.18s/it]filtering out invalid sampled SMILES...
+valid rate: 99.462890625%
+unique valid rate 90.91796875%
+3417/4836 pockets sampled.
+sampling SMILES for pocket 5aneA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3251it [1:40:41,  2.74s/it]filtering out invalid sampled SMILES...
+valid rate: 97.802734375%
+unique valid rate 77.978515625%
+3251/4836 pockets sampled.
+sampling SMILES for pocket 4xnhA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.57it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.31it/s][A100%|██████████| 2/2 [00:00<00:00,  2.34it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.35it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.44it/s][A100%|██████████| 2/2 [00:01<00:00,  1.43it/s]
+3418it [1:41:01,  2.16s/it]filtering out invalid sampled SMILES...
+valid rate: 98.4375%
+unique valid rate 86.03515625%
+3418/4836 pockets sampled.
+sampling SMILES for pocket 5anqA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.48it/s][A3252it [1:40:44,  2.80s/it]filtering out invalid sampled SMILES...
+valid rate: 97.119140625%
+unique valid rate 46.484375%
+3252/4836 pockets sampled.
+sampling SMILES for pocket 4xnjA03...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.50it/s][A100%|██████████| 2/2 [00:01<00:00,  1.50it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.33it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.32it/s][A100%|██████████| 2/2 [00:01<00:00,  1.32it/s]
+3419it [1:41:04,  2.41s/it]filtering out invalid sampled SMILES...
+valid rate: 97.4609375%
+unique valid rate 75.732421875%
+3419/4836 pockets sampled.
+sampling SMILES for pocket 5aorB00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.31it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.30it/s][A100%|██████████| 2/2 [00:01<00:00,  1.30it/s]
+3253it [1:40:47,  3.00s/it]filtering out invalid sampled SMILES...
+valid rate: 97.16796875%
+unique valid rate 69.140625%
+3253/4836 pockets sampled.
+sampling SMILES for pocket 4xnvA05...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.61it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.61it/s][A100%|██████████| 2/2 [00:01<00:00,  1.61it/s]
+3420it [1:41:07,  2.74s/it]filtering out invalid sampled SMILES...
+valid rate: 98.486328125%
+unique valid rate 15.91796875%
+3420/4836 pockets sampled.
+sampling SMILES for pocket 5apkA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.46it/s][A3254it [1:40:50,  2.89s/it]filtering out invalid sampled SMILES...
+valid rate: 98.92578125%
+unique valid rate 53.173828125%
+3254/4836 pockets sampled.
+sampling SMILES for pocket 4xnvA12...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.41it/s][A100%|██████████| 2/2 [00:01<00:00,  1.41it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.35it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.46it/s][A100%|██████████| 2/2 [00:01<00:00,  1.45it/s]
+3421it [1:41:10,  2.90s/it]filtering out invalid sampled SMILES...
+valid rate: 93.5546875%
+unique valid rate 85.25390625%
+3421/4836 pockets sampled.
+sampling SMILES for pocket 5aq8A01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  3.28it/s][A3255it [1:40:53,  2.93s/it]filtering out invalid sampled SMILES...
+valid rate: 98.73046875%
+unique valid rate 63.37890625%
+3255/4836 pockets sampled.
+sampling SMILES for pocket 4xoyA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:00<00:00,  3.27it/s][A100%|██████████| 2/2 [00:00<00:00,  3.27it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.56it/s][A3422it [1:41:12,  2.47s/it]filtering out invalid sampled SMILES...
+valid rate: 99.90234375%
+unique valid rate 44.287109375%
+3422/4836 pockets sampled.
+sampling SMILES for pocket 5aqkA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.60it/s][A100%|██████████| 2/2 [00:01<00:00,  1.59it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.13it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.16it/s][A100%|██████████| 2/2 [00:01<00:00,  1.16it/s]
+3256it [1:40:56,  2.98s/it]filtering out invalid sampled SMILES...
+valid rate: 95.60546875%
+unique valid rate 88.57421875%
+3256/4836 pockets sampled.
+sampling SMILES for pocket 4xp5A02...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.49it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.47it/s][A100%|██████████| 2/2 [00:01<00:00,  1.47it/s]
+3423it [1:41:16,  2.89s/it]filtering out invalid sampled SMILES...
+valid rate: 96.630859375%
+unique valid rate 19.43359375%
+3423/4836 pockets sampled.
+sampling SMILES for pocket 5aqnC00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.04it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.55it/s][A100%|██████████| 2/2 [00:00<00:00,  2.46it/s]
+3257it [1:40:59,  3.00s/it]filtering out invalid sampled SMILES...
+valid rate: 97.021484375%
+unique valid rate 70.849609375%
+3257/4836 pockets sampled.
+sampling SMILES for pocket 4xpbA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3424it [1:41:17,  2.47s/it]filtering out invalid sampled SMILES...
+valid rate: 99.951171875%
+unique valid rate 34.912109375%
+3424/4836 pockets sampled.
+sampling SMILES for pocket 5awaA03...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.06it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.20it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.26it/s][A100%|██████████| 2/2 [00:00<00:00,  2.23it/s]
+
+100%|██████████| 2/2 [00:00<00:00,  2.02it/s][A100%|██████████| 2/2 [00:00<00:00,  2.04it/s]
+3258it [1:41:01,  2.60s/it]filtering out invalid sampled SMILES...
+valid rate: 96.044921875%
+unique valid rate 79.296875%
+3258/4836 pockets sampled.
+sampling SMILES for pocket 4xq0A02...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3425it [1:41:19,  2.26s/it]filtering out invalid sampled SMILES...
+valid rate: 97.314453125%
+unique valid rate 59.27734375%
+3425/4836 pockets sampled.
+sampling SMILES for pocket 5awpA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.69it/s][A
+ 50%|█████     | 1/2 [00:01<00:01,  1.04s/it][A
+100%|██████████| 2/2 [00:00<00:00,  2.37it/s][A100%|██████████| 2/2 [00:00<00:00,  2.23it/s]
+3426it [1:41:20,  1.99s/it]filtering out invalid sampled SMILES...
+valid rate: 99.755859375%
+unique valid rate 36.9140625%
+3426/4836 pockets sampled.
+sampling SMILES for pocket 5awvB06...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.02it/s][A100%|██████████| 2/2 [00:01<00:00,  1.01it/s]
+
+ 50%|█████     | 1/2 [00:01<00:01,  1.00s/it][A3259it [1:41:03,  2.68s/it]filtering out invalid sampled SMILES...
+valid rate: 95.556640625%
+unique valid rate 56.396484375%
+3259/4836 pockets sampled.
+sampling SMILES for pocket 4xr9A01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:02<00:00,  1.11s/it][A100%|██████████| 2/2 [00:02<00:00,  1.09s/it]
+
+ 50%|█████     | 1/2 [00:01<00:01,  1.08s/it][A3427it [1:41:24,  2.38s/it]filtering out invalid sampled SMILES...
+valid rate: 92.724609375%
+unique valid rate 58.984375%
+3427/4836 pockets sampled.
+sampling SMILES for pocket 5awvB07...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:02<00:00,  1.00s/it][A100%|██████████| 2/2 [00:02<00:00,  1.01s/it]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.74it/s][A3260it [1:41:06,  2.72s/it]filtering out invalid sampled SMILES...
+valid rate: 97.265625%
+unique valid rate 60.05859375%
+3260/4836 pockets sampled.
+sampling SMILES for pocket 4xrhB00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.61it/s][A100%|██████████| 2/2 [00:01<00:00,  1.63it/s]
+3428it [1:41:25,  2.18s/it]filtering out invalid sampled SMILES...
+valid rate: 99.70703125%
+unique valid rate 57.8125%
+3428/4836 pockets sampled.
+sampling SMILES for pocket 5ax9A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:01<00:01,  1.13s/it][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.08it/s][A
+100%|██████████| 2/2 [00:02<00:00,  1.16s/it][A100%|██████████| 2/2 [00:02<00:00,  1.15s/it]
+
+100%|██████████| 2/2 [00:01<00:00,  1.00s/it][A100%|██████████| 2/2 [00:01<00:00,  1.01it/s]
+3261it [1:41:10,  2.95s/it]filtering out invalid sampled SMILES...
+valid rate: 93.45703125%
+unique valid rate 41.845703125%
+3261/4836 pockets sampled.
+sampling SMILES for pocket 4xryC01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.34it/s][A3429it [1:41:29,  2.52s/it]filtering out invalid sampled SMILES...
+valid rate: 82.275390625%
+unique valid rate 81.396484375%
+3429/4836 pockets sampled.
+sampling SMILES for pocket 5axhB02...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.47it/s][A100%|██████████| 2/2 [00:00<00:00,  2.45it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  5.80it/s][A
+100%|██████████| 2/2 [00:00<00:00,  5.54it/s][A100%|██████████| 2/2 [00:00<00:00,  5.57it/s]
+3430it [1:41:30,  2.03s/it]filtering out invalid sampled SMILES...
+valid rate: 99.70703125%
+unique valid rate 70.751953125%
+3430/4836 pockets sampled.
+sampling SMILES for pocket 5ayjC00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3262it [1:41:12,  2.60s/it]filtering out invalid sampled SMILES...
+valid rate: 94.921875%
+unique valid rate 81.8359375%
+3262/4836 pockets sampled.
+sampling SMILES for pocket 4xsrB02...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  3.48it/s][A
+100%|██████████| 2/2 [00:00<00:00,  3.49it/s][A100%|██████████| 2/2 [00:00<00:00,  3.48it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.95it/s][A3431it [1:41:31,  1.79s/it]filtering out invalid sampled SMILES...
+valid rate: 99.853515625%
+unique valid rate 30.859375%
+3431/4836 pockets sampled.
+sampling SMILES for pocket 5azbA08...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.66it/s][A100%|██████████| 2/2 [00:01<00:00,  1.70it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.41it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.41it/s][A100%|██████████| 2/2 [00:01<00:00,  1.41it/s]
+3263it [1:41:15,  2.75s/it]filtering out invalid sampled SMILES...
+valid rate: 95.3125%
+unique valid rate 50.341796875%
+3263/4836 pockets sampled.
+sampling SMILES for pocket 4xt4A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3432it [1:41:34,  2.21s/it]
+filtering out invalid sampled SMILES...
+valid rate: 98.73046875%
+unique valid rate 50.29296875%
+3432/4836 pockets sampled.
+sampling SMILES for pocket 5azcA04...
+ 50%|█████     | 1/2 [00:01<00:01,  1.14s/it]
+[A  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.05it/s][A
+100%|██████████| 2/2 [00:02<00:00,  1.16s/it][A100%|██████████| 2/2 [00:02<00:00,  1.16s/it]
+
+100%|██████████| 2/2 [00:01<00:00,  1.17it/s][A100%|██████████| 2/2 [00:01<00:00,  1.15it/s]
+3433it [1:41:38,  2.68s/it]filtering out invalid sampled SMILES...
+valid rate: 96.58203125%
+unique valid rate 61.279296875%
+3433/4836 pockets sampled.
+sampling SMILES for pocket 5azfA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3264it [1:41:20,  3.43s/it]filtering out invalid sampled SMILES...
+valid rate: 94.23828125%
+unique valid rate 28.564453125%
+3264/4836 pockets sampled.
+sampling SMILES for pocket 4xtcD01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.52it/s][A
+ 50%|█████     | 1/2 [00:01<00:01,  1.18s/it][A
+100%|██████████| 2/2 [00:01<00:00,  1.66it/s][A100%|██████████| 2/2 [00:01<00:00,  1.64it/s]
+
+100%|██████████| 2/2 [00:02<00:00,  1.10s/it][A100%|██████████| 2/2 [00:02<00:00,  1.11s/it]
+3265it [1:41:22,  3.12s/it]filtering out invalid sampled SMILES...
+valid rate: 98.681640625%
+unique valid rate 48.876953125%
+3265/4836 pockets sampled.
+sampling SMILES for pocket 4xtcD03...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.23it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.46it/s][A100%|██████████| 2/2 [00:01<00:00,  1.42it/s]
+3434it [1:41:43,  3.38s/it]filtering out invalid sampled SMILES...
+valid rate: 92.529296875%
+unique valid rate 75.634765625%
+3434/4836 pockets sampled.
+sampling SMILES for pocket 5b0lB00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3266it [1:41:25,  3.02s/it]filtering out invalid sampled SMILES...
+valid rate: 98.33984375%
+unique valid rate 39.74609375%
+3266/4836 pockets sampled.
+sampling SMILES for pocket 4xtnB07...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.44it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.02it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.43it/s][A100%|██████████| 2/2 [00:01<00:00,  1.43it/s]
+
+100%|██████████| 2/2 [00:02<00:00,  1.01s/it][A100%|██████████| 2/2 [00:02<00:00,  1.01s/it]
+3267it [1:41:28,  3.01s/it]filtering out invalid sampled SMILES...
+valid rate: 98.92578125%
+unique valid rate 61.181640625%
+3267/4836 pockets sampled.
+sampling SMILES for pocket 4xtnH08...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.26it/s][A3435it [1:41:47,  3.77s/it]filtering out invalid sampled SMILES...
+valid rate: 85.595703125%
+unique valid rate 77.392578125%
+3435/4836 pockets sampled.
+sampling SMILES for pocket 5b0xA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.27it/s][A100%|██████████| 2/2 [00:01<00:00,  1.27it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.27it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.29it/s][A100%|██████████| 2/2 [00:01<00:00,  1.29it/s]
+3268it [1:41:31,  3.17s/it]filtering out invalid sampled SMILES...
+valid rate: 97.65625%
+unique valid rate 68.06640625%
+3268/4836 pockets sampled.
+sampling SMILES for pocket 4xv5A01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.26it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.21it/s][A100%|██████████| 2/2 [00:00<00:00,  2.21it/s]
+3436it [1:41:51,  3.72s/it]filtering out invalid sampled SMILES...
+valid rate: 87.939453125%
+unique valid rate 85.107421875%
+3436/4836 pockets sampled.
+sampling SMILES for pocket 5b1bN12...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.74it/s][A3269it [1:41:34,  2.87s/it]filtering out invalid sampled SMILES...
+valid rate: 98.486328125%
+unique valid rate 80.76171875%
+3269/4836 pockets sampled.
+sampling SMILES for pocket 4xwmA02...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.60it/s][A100%|██████████| 2/2 [00:01<00:00,  1.62it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.69it/s][A
+100%|██████████| 2/2 [00:01<00:00,  2.01it/s][A100%|██████████| 2/2 [00:01<00:00,  1.95it/s]
+3270it [1:41:35,  2.59s/it]filtering out invalid sampled SMILES...
+valid rate: 96.38671875%
+unique valid rate 65.478515625%
+3270/4836 pockets sampled.
+sampling SMILES for pocket 4xwnA04...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3437it [1:41:54,  3.41s/it]filtering out invalid sampled SMILES...
+valid rate: 93.06640625%
+unique valid rate 70.99609375%
+3437/4836 pockets sampled.
+sampling SMILES for pocket 5b25A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.86it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.90it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.90it/s][A100%|██████████| 2/2 [00:00<00:00,  2.89it/s]
+
+100%|██████████| 2/2 [00:01<00:00,  1.94it/s][A100%|██████████| 2/2 [00:01<00:00,  1.94it/s]
+3271it [1:41:37,  2.23s/it]filtering out invalid sampled SMILES...
+valid rate: 98.291015625%
+unique valid rate 58.642578125%
+3271/4836 pockets sampled.
+sampling SMILES for pocket 4xwzB02...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.78it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.89it/s][A100%|██████████| 2/2 [00:00<00:00,  2.87it/s]
+3438it [1:41:56,  3.10s/it]filtering out invalid sampled SMILES...
+valid rate: 89.990234375%
+unique valid rate 80.37109375%
+3438/4836 pockets sampled.
+sampling SMILES for pocket 5b36A01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  4.01it/s][A3272it [1:41:38,  2.03s/it]filtering out invalid sampled SMILES...
+valid rate: 99.12109375%
+unique valid rate 57.568359375%
+3272/4836 pockets sampled.
+sampling SMILES for pocket 4xxjC06...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:00<00:00,  3.52it/s][A100%|██████████| 2/2 [00:00<00:00,  3.58it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.96it/s][A3439it [1:41:57,  2.53s/it]filtering out invalid sampled SMILES...
+valid rate: 99.90234375%
+unique valid rate 30.810546875%
+3439/4836 pockets sampled.
+sampling SMILES for pocket 5b4kA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.98it/s][A100%|██████████| 2/2 [00:01<00:00,  1.98it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.18it/s][A3273it [1:41:41,  2.08s/it]filtering out invalid sampled SMILES...
+valid rate: 99.609375%
+unique valid rate 47.216796875%
+3273/4836 pockets sampled.
+sampling SMILES for pocket 4xxsA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.19it/s][A100%|██████████| 2/2 [00:01<00:00,  1.19it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.33it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.34it/s][A100%|██████████| 2/2 [00:01<00:00,  1.34it/s]
+3440it [1:42:01,  2.95s/it]filtering out invalid sampled SMILES...
+valid rate: 90.8203125%
+unique valid rate 78.41796875%
+3440/4836 pockets sampled.
+sampling SMILES for pocket 5b55B02...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.13it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.12it/s][A100%|██████████| 2/2 [00:00<00:00,  2.12it/s]
+3274it [1:41:44,  2.52s/it]filtering out invalid sampled SMILES...
+valid rate: 92.67578125%
+unique valid rate 90.283203125%
+3274/4836 pockets sampled.
+sampling SMILES for pocket 4xy2A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.32it/s][A3441it [1:42:03,  2.67s/it]filtering out invalid sampled SMILES...
+valid rate: 99.31640625%
+unique valid rate 54.931640625%
+3441/4836 pockets sampled.
+sampling SMILES for pocket 5b5fA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.18it/s][A100%|██████████| 2/2 [00:01<00:00,  1.19it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.29it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.37it/s][A100%|██████████| 2/2 [00:01<00:00,  1.35it/s]
+3275it [1:41:48,  2.89s/it]filtering out invalid sampled SMILES...
+valid rate: 91.552734375%
+unique valid rate 86.572265625%
+3275/4836 pockets sampled.
+sampling SMILES for pocket 4xy8A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3442it [1:42:07,  2.87s/it]filtering out invalid sampled SMILES...
+valid rate: 96.19140625%
+unique valid rate 89.55078125%
+3442/4836 pockets sampled.
+sampling SMILES for pocket 5b6iA01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.47it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.88it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.32it/s][A100%|██████████| 2/2 [00:01<00:00,  1.34it/s]
+
+100%|██████████| 2/2 [00:01<00:00,  1.98it/s][A100%|██████████| 2/2 [00:01<00:00,  1.96it/s]
+3443it [1:42:09,  2.68s/it]filtering out invalid sampled SMILES...
+valid rate: 99.560546875%
+unique valid rate 67.041015625%
+3443/4836 pockets sampled.
+sampling SMILES for pocket 5b8hA01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.55it/s][A3276it [1:41:51,  3.08s/it]filtering out invalid sampled SMILES...
+valid rate: 94.677734375%
+unique valid rate 93.212890625%
+3276/4836 pockets sampled.
+sampling SMILES for pocket 4xy9A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.58it/s][A100%|██████████| 2/2 [00:01<00:00,  1.58it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.27it/s][A3444it [1:42:12,  2.69s/it]filtering out invalid sampled SMILES...
+valid rate: 98.583984375%
+unique valid rate 58.3984375%
+3444/4836 pockets sampled.
+sampling SMILES for pocket 5bneD00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:02<00:00,  1.10s/it][A100%|██████████| 2/2 [00:02<00:00,  1.05s/it]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.11it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.10it/s][A100%|██████████| 2/2 [00:01<00:00,  1.10it/s]
+3277it [1:41:56,  3.49s/it]filtering out invalid sampled SMILES...
+valid rate: 94.482421875%
+unique valid rate 92.431640625%
+3277/4836 pockets sampled.
+sampling SMILES for pocket 4xyjB00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.15it/s][A3445it [1:42:16,  3.12s/it]filtering out invalid sampled SMILES...
+valid rate: 88.623046875%
+unique valid rate 57.275390625%
+3445/4836 pockets sampled.
+sampling SMILES for pocket 5bniB00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.16it/s][A100%|██████████| 2/2 [00:01<00:00,  1.16it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.21it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.50it/s][A100%|██████████| 2/2 [00:01<00:00,  1.45it/s]
+3278it [1:41:59,  3.46s/it]filtering out invalid sampled SMILES...
+valid rate: 95.263671875%
+unique valid rate 28.173828125%
+3278/4836 pockets sampled.
+sampling SMILES for pocket 4xz2D01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3446it [1:42:18,  2.92s/it]filtering out invalid sampled SMILES...
+valid rate: 93.896484375%
+unique valid rate 67.333984375%
+3446/4836 pockets sampled.
+sampling SMILES for pocket 5bnmB00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.16it/s][A
+ 50%|█████     | 1/2 [00:01<00:01,  1.18s/it][A
+100%|██████████| 2/2 [00:02<00:00,  1.07s/it][A100%|██████████| 2/2 [00:02<00:00,  1.04s/it]
+
+100%|██████████| 2/2 [00:02<00:00,  1.01s/it][A100%|██████████| 2/2 [00:02<00:00,  1.03s/it]
+3279it [1:42:02,  3.31s/it]filtering out invalid sampled SMILES...
+valid rate: 96.435546875%
+unique valid rate 44.091796875%
+3279/4836 pockets sampled.
+sampling SMILES for pocket 4xzsB01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3447it [1:42:21,  2.90s/it]filtering out invalid sampled SMILES...
+valid rate: 97.900390625%
+unique valid rate 76.806640625%
+3447/4836 pockets sampled.
+sampling SMILES for pocket 5bpuA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.01it/s][A
+ 50%|█████     | 1/2 [00:01<00:01,  1.37s/it][A
+100%|██████████| 2/2 [00:02<00:00,  1.09s/it][A100%|██████████| 2/2 [00:02<00:00,  1.08s/it]
+3280it [1:42:05,  3.24s/it]filtering out invalid sampled SMILES...
+valid rate: 91.845703125%
+unique valid rate 44.970703125%
+3280/4836 pockets sampled.
+sampling SMILES for pocket 4y0pA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:02<00:00,  1.30s/it][A100%|██████████| 2/2 [00:02<00:00,  1.31s/it]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.15it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.11it/s][A100%|██████████| 2/2 [00:01<00:00,  1.11it/s]
+3448it [1:42:25,  3.33s/it]filtering out invalid sampled SMILES...
+valid rate: 84.86328125%
+unique valid rate 76.3671875%
+3448/4836 pockets sampled.
+sampling SMILES for pocket 5bpuC00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.40it/s][A3281it [1:42:08,  3.06s/it]filtering out invalid sampled SMILES...
+valid rate: 97.65625%
+unique valid rate 67.3828125%
+3281/4836 pockets sampled.
+sampling SMILES for pocket 4y12A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.00it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.35it/s][A100%|██████████| 2/2 [00:01<00:00,  1.36it/s]
+
+100%|██████████| 2/2 [00:00<00:00,  2.37it/s][A100%|██████████| 2/2 [00:00<00:00,  2.30it/s]
+3282it [1:42:10,  2.69s/it]filtering out invalid sampled SMILES...
+valid rate: 94.189453125%
+unique valid rate 84.375%
+3282/4836 pockets sampled.
+sampling SMILES for pocket 4y28F07...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.05it/s][A3449it [1:42:28,  3.29s/it]filtering out invalid sampled SMILES...
+valid rate: 86.81640625%
+unique valid rate 80.224609375%
+3449/4836 pockets sampled.
+sampling SMILES for pocket 5bqfA02...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  3.07it/s][A
+100%|██████████| 2/2 [00:00<00:00,  3.35it/s][A100%|██████████| 2/2 [00:00<00:00,  3.30it/s]
+
+100%|██████████| 2/2 [00:01<00:00,  1.33it/s][A100%|██████████| 2/2 [00:01<00:00,  1.40it/s]
+3450it [1:42:30,  2.70s/it]filtering out invalid sampled SMILES...
+valid rate: 99.90234375%
+unique valid rate 37.841796875%
+3450/4836 pockets sampled.
+sampling SMILES for pocket 5btrA02...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.50it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.49it/s][A100%|██████████| 2/2 [00:01<00:00,  1.49it/s]
+3283it [1:42:14,  3.02s/it]filtering out invalid sampled SMILES...
+valid rate: 92.236328125%
+unique valid rate 71.97265625%
+3283/4836 pockets sampled.
+sampling SMILES for pocket 4y2qA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.40it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.39it/s][A100%|██████████| 2/2 [00:00<00:00,  2.39it/s]
+3451it [1:42:33,  2.78s/it]filtering out invalid sampled SMILES...
+valid rate: 97.265625%
+unique valid rate 61.9140625%
+3451/4836 pockets sampled.
+sampling SMILES for pocket 5btrA03...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.44it/s][A3284it [1:42:16,  2.72s/it]filtering out invalid sampled SMILES...
+valid rate: 99.21875%
+unique valid rate 77.001953125%
+3284/4836 pockets sampled.
+sampling SMILES for pocket 4y2sA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.43it/s][A100%|██████████| 2/2 [00:01<00:00,  1.43it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.57it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.59it/s][A100%|██████████| 2/2 [00:01<00:00,  1.59it/s]
+3452it [1:42:36,  2.87s/it]filtering out invalid sampled SMILES...
+valid rate: 96.826171875%
+unique valid rate 56.15234375%
+3452/4836 pockets sampled.
+sampling SMILES for pocket 5btrC03...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.42it/s][A3285it [1:42:19,  2.83s/it]filtering out invalid sampled SMILES...
+valid rate: 96.142578125%
+unique valid rate 88.671875%
+3285/4836 pockets sampled.
+sampling SMILES for pocket 4y2vA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.38it/s][A100%|██████████| 2/2 [00:01<00:00,  1.39it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.31it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.31it/s][A100%|██████████| 2/2 [00:01<00:00,  1.31it/s]
+3453it [1:42:39,  2.98s/it]filtering out invalid sampled SMILES...
+valid rate: 96.044921875%
+unique valid rate 70.41015625%
+3453/4836 pockets sampled.
+sampling SMILES for pocket 5bv5D01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.51it/s][A3286it [1:42:22,  3.03s/it]filtering out invalid sampled SMILES...
+valid rate: 94.23828125%
+unique valid rate 89.2578125%
+3286/4836 pockets sampled.
+sampling SMILES for pocket 4y3mA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.50it/s][A100%|██████████| 2/2 [00:01<00:00,  1.50it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.54it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.55it/s][A100%|██████████| 2/2 [00:01<00:00,  1.55it/s]
+3454it [1:42:42,  2.99s/it]filtering out invalid sampled SMILES...
+valid rate: 96.58203125%
+unique valid rate 82.03125%
+3454/4836 pockets sampled.
+sampling SMILES for pocket 5bvwA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.23it/s][A3287it [1:42:25,  2.98s/it]filtering out invalid sampled SMILES...
+valid rate: 96.533203125%
+unique valid rate 71.38671875%
+3287/4836 pockets sampled.
+sampling SMILES for pocket 4y3nA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.24it/s][A100%|██████████| 2/2 [00:01<00:00,  1.24it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.56it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.57it/s][A100%|██████████| 2/2 [00:01<00:00,  1.57it/s]
+3288it [1:42:28,  2.92s/it]3455it [1:42:46,  3.25s/it]filtering out invalid sampled SMILES...
+valid rate: 96.484375%
+unique valid rate 66.30859375%
+3288/4836 pockets sampled.
+sampling SMILES for pocket 4y3rA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][Afiltering out invalid sampled SMILES...
+valid rate: 84.619140625%
+unique valid rate 83.349609375%
+3455/4836 pockets sampled.
+sampling SMILES for pocket 5bwvB01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.41it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.06it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.57it/s][A100%|██████████| 2/2 [00:01<00:00,  1.54it/s]
+
+100%|██████████| 2/2 [00:01<00:00,  1.16it/s][A100%|██████████| 2/2 [00:01<00:00,  1.14it/s]
+3289it [1:42:31,  2.89s/it]filtering out invalid sampled SMILES...
+valid rate: 97.0703125%
+unique valid rate 92.041015625%
+3289/4836 pockets sampled.
+sampling SMILES for pocket 4y3tA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.26it/s][A3456it [1:42:50,  3.37s/it]filtering out invalid sampled SMILES...
+valid rate: 92.96875%
+unique valid rate 74.90234375%
+3456/4836 pockets sampled.
+sampling SMILES for pocket 5bx7A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.31it/s][A100%|██████████| 2/2 [00:00<00:00,  2.30it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  4.04it/s][A
+100%|██████████| 2/2 [00:00<00:00,  4.01it/s][A100%|██████████| 2/2 [00:00<00:00,  4.01it/s]
+3290it [1:42:33,  2.60s/it]filtering out invalid sampled SMILES...
+valid rate: 96.435546875%
+unique valid rate 91.89453125%
+3290/4836 pockets sampled.
+sampling SMILES for pocket 4y50A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3457it [1:42:51,  2.75s/it]filtering out invalid sampled SMILES...
+valid rate: 98.4375%
+unique valid rate 94.82421875%
+3457/4836 pockets sampled.
+sampling SMILES for pocket 5bybA01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.62it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.99it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.39it/s][A100%|██████████| 2/2 [00:00<00:00,  2.42it/s]
+
+100%|██████████| 2/2 [00:00<00:00,  2.12it/s][A100%|██████████| 2/2 [00:00<00:00,  2.10it/s]
+3291it [1:42:34,  2.32s/it]filtering out invalid sampled SMILES...
+valid rate: 95.80078125%
+unique valid rate 90.966796875%
+3291/4836 pockets sampled.
+sampling SMILES for pocket 4y64A01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3458it [1:42:53,  2.55s/it]filtering out invalid sampled SMILES...
+valid rate: 93.115234375%
+unique valid rate 36.474609375%
+3458/4836 pockets sampled.
+sampling SMILES for pocket 5byiA01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.50it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.14it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.59it/s][A100%|██████████| 2/2 [00:01<00:00,  1.57it/s]
+
+100%|██████████| 2/2 [00:00<00:00,  2.57it/s][A100%|██████████| 2/2 [00:00<00:00,  2.49it/s]
+3459it [1:42:55,  2.28s/it]filtering out invalid sampled SMILES...
+valid rate: 97.607421875%
+unique valid rate 91.2109375%
+3459/4836 pockets sampled.
+sampling SMILES for pocket 5bz3A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3292it [1:42:37,  2.37s/it]filtering out invalid sampled SMILES...
+valid rate: 93.45703125%
+unique valid rate 61.865234375%
+3292/4836 pockets sampled.
+sampling SMILES for pocket 4y6zK00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.47it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.35it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.42it/s][A100%|██████████| 2/2 [00:00<00:00,  2.43it/s]
+
+100%|██████████| 2/2 [00:00<00:00,  2.33it/s][A100%|██████████| 2/2 [00:00<00:00,  2.33it/s]
+3460it [1:42:57,  2.26s/it]filtering out invalid sampled SMILES...
+valid rate: 96.826171875%
+unique valid rate 85.595703125%
+3460/4836 pockets sampled.
+sampling SMILES for pocket 5bz3A02...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3293it [1:42:39,  2.38s/it]filtering out invalid sampled SMILES...
+valid rate: 97.119140625%
+unique valid rate 84.814453125%
+3293/4836 pockets sampled.
+sampling SMILES for pocket 4y71A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.23it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.17it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.23it/s][A100%|██████████| 2/2 [00:01<00:00,  1.23it/s]
+
+100%|██████████| 2/2 [00:01<00:00,  1.09it/s][A100%|██████████| 2/2 [00:01<00:00,  1.10it/s]
+3461it [1:43:01,  2.70s/it]filtering out invalid sampled SMILES...
+valid rate: 94.287109375%
+unique valid rate 60.83984375%
+3461/4836 pockets sampled.
+sampling SMILES for pocket 5bzcA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.75it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.63it/s][A100%|██████████| 2/2 [00:00<00:00,  2.65it/s]
+3294it [1:42:43,  2.91s/it]filtering out invalid sampled SMILES...
+valid rate: 91.064453125%
+unique valid rate 86.181640625%
+3294/4836 pockets sampled.
+sampling SMILES for pocket 4y78N00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3462it [1:43:02,  2.35s/it]filtering out invalid sampled SMILES...
+valid rate: 99.70703125%
+unique valid rate 38.37890625%
+3462/4836 pockets sampled.
+sampling SMILES for pocket 5bzpA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.19it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.41it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.16it/s][A100%|██████████| 2/2 [00:00<00:00,  2.19it/s]
+
+100%|██████████| 2/2 [00:01<00:00,  1.19it/s][A100%|██████████| 2/2 [00:01<00:00,  1.19it/s]
+3463it [1:43:04,  2.22s/it]filtering out invalid sampled SMILES...
+valid rate: 99.365234375%
+unique valid rate 42.48046875%
+3463/4836 pockets sampled.
+sampling SMILES for pocket 5c0lA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.57it/s][A3295it [1:42:47,  3.20s/it]filtering out invalid sampled SMILES...
+valid rate: 92.431640625%
+unique valid rate 74.365234375%
+3295/4836 pockets sampled.
+sampling SMILES for pocket 4y7uA01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.54it/s][A100%|██████████| 2/2 [00:01<00:00,  1.54it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.31it/s][A3464it [1:43:07,  2.40s/it]
+100%|██████████| 2/2 [00:01<00:00,  1.28it/s][A100%|██████████| 2/2 [00:01<00:00,  1.28it/s]
+filtering out invalid sampled SMILES...
+valid rate: 97.16796875%
+unique valid rate 48.2421875%
+3464/4836 pockets sampled.
+sampling SMILES for pocket 5c1bA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:01<00:01,  1.34s/it][A3296it [1:42:51,  3.32s/it]filtering out invalid sampled SMILES...
+valid rate: 94.7265625%
+unique valid rate 66.89453125%
+3296/4836 pockets sampled.
+sampling SMILES for pocket 4y87B00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.02it/s][A
+100%|██████████| 2/2 [00:02<00:00,  1.33s/it][A100%|██████████| 2/2 [00:02<00:00,  1.33s/it]
+
+100%|██████████| 2/2 [00:00<00:00,  2.00it/s][A100%|██████████| 2/2 [00:00<00:00,  2.00it/s]
+3297it [1:42:53,  3.05s/it]filtering out invalid sampled SMILES...
+valid rate: 97.75390625%
+unique valid rate 82.275390625%
+3297/4836 pockets sampled.
+sampling SMILES for pocket 4y8tN00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.12it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.10it/s][A100%|██████████| 2/2 [00:01<00:00,  1.11it/s]
+3465it [1:43:13,  3.57s/it]filtering out invalid sampled SMILES...
+valid rate: 87.5%
+unique valid rate 82.861328125%
+3465/4836 pockets sampled.
+sampling SMILES for pocket 5c29A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.76it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.82it/s][A100%|██████████| 2/2 [00:01<00:00,  1.81it/s]
+3298it [1:42:57,  3.38s/it]filtering out invalid sampled SMILES...
+valid rate: 91.552734375%
+unique valid rate 77.099609375%
+3298/4836 pockets sampled.
+sampling SMILES for pocket 4y8uN00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3466it [1:43:16,  3.37s/it]filtering out invalid sampled SMILES...
+valid rate: 96.97265625%
+unique valid rate 90.185546875%
+3466/4836 pockets sampled.
+sampling SMILES for pocket 5c2gD00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.21it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.33it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.17it/s][A100%|██████████| 2/2 [00:01<00:00,  1.18it/s]
+
+100%|██████████| 2/2 [00:01<00:00,  1.17it/s][A100%|██████████| 2/2 [00:01<00:00,  1.20it/s]
+3299it [1:43:00,  3.24s/it]filtering out invalid sampled SMILES...
+valid rate: 92.28515625%
+unique valid rate 76.26953125%
+3299/4836 pockets sampled.
+sampling SMILES for pocket 4y9eB00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3467it [1:43:19,  3.13s/it]filtering out invalid sampled SMILES...
+valid rate: 97.36328125%
+unique valid rate 53.3203125%
+3467/4836 pockets sampled.
+sampling SMILES for pocket 5c4nA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:01<00:01,  1.07s/it][A
+ 50%|█████     | 1/2 [00:01<00:01,  1.34s/it][A
+100%|██████████| 2/2 [00:02<00:00,  1.08s/it][A100%|██████████| 2/2 [00:02<00:00,  1.08s/it]
+
+100%|██████████| 2/2 [00:02<00:00,  1.29s/it][A100%|██████████| 2/2 [00:02<00:00,  1.30s/it]
+3300it [1:43:03,  3.18s/it]filtering out invalid sampled SMILES...
+valid rate: 95.458984375%
+unique valid rate 83.10546875%
+3300/4836 pockets sampled.
+sampling SMILES for pocket 4y9gB00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.08it/s][A3468it [1:43:23,  3.43s/it]filtering out invalid sampled SMILES...
+valid rate: 87.5%
+unique valid rate 67.724609375%
+3468/4836 pockets sampled.
+sampling SMILES for pocket 5c7bA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:02<00:00,  1.03s/it][A100%|██████████| 2/2 [00:02<00:00,  1.01s/it]
+
+ 50%|█████     | 1/2 [00:01<00:01,  1.17s/it][A3301it [1:43:06,  3.13s/it]filtering out invalid sampled SMILES...
+valid rate: 95.3125%
+unique valid rate 86.181640625%
+3301/4836 pockets sampled.
+sampling SMILES for pocket 4yb6C01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:02<00:00,  1.09s/it][A100%|██████████| 2/2 [00:02<00:00,  1.10s/it]
+
+ 50%|█████     | 1/2 [00:01<00:01,  1.02s/it][A3469it [1:43:26,  3.35s/it]filtering out invalid sampled SMILES...
+valid rate: 95.21484375%
+unique valid rate 54.736328125%
+3469/4836 pockets sampled.
+sampling SMILES for pocket 5c7eB00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.26it/s][A100%|██████████| 2/2 [00:01<00:00,  1.21it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.67it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.67it/s][A100%|██████████| 2/2 [00:01<00:00,  1.67it/s]
+3302it [1:43:09,  3.06s/it]filtering out invalid sampled SMILES...
+valid rate: 96.2890625%
+unique valid rate 42.724609375%
+3302/4836 pockets sampled.
+sampling SMILES for pocket 4ybkA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.36it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.33it/s][A100%|██████████| 2/2 [00:01<00:00,  1.33it/s]
+3470it [1:43:30,  3.44s/it]filtering out invalid sampled SMILES...
+valid rate: 90.234375%
+unique valid rate 73.2421875%
+3470/4836 pockets sampled.
+sampling SMILES for pocket 5c7fB00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:01<00:01,  1.07s/it][A3303it [1:43:13,  3.38s/it]filtering out invalid sampled SMILES...
+valid rate: 86.962890625%
+unique valid rate 86.181640625%
+3303/4836 pockets sampled.
+sampling SMILES for pocket 4ybsA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:02<00:00,  1.06s/it][A100%|██████████| 2/2 [00:02<00:00,  1.07s/it]
+
+ 50%|█████     | 1/2 [00:01<00:01,  1.12s/it][A
+100%|██████████| 2/2 [00:02<00:00,  1.13s/it][A100%|██████████| 2/2 [00:02<00:00,  1.13s/it]
+3471it [1:43:35,  3.94s/it]filtering out invalid sampled SMILES...
+valid rate: 91.357421875%
+unique valid rate 75.68359375%
+3471/4836 pockets sampled.
+sampling SMILES for pocket 5c7tA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:01<00:01,  1.23s/it][A3304it [1:43:18,  3.89s/it]filtering out invalid sampled SMILES...
+valid rate: 94.384765625%
+unique valid rate 79.052734375%
+3304/4836 pockets sampled.
+sampling SMILES for pocket 4yc0A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:02<00:00,  1.25s/it][A100%|██████████| 2/2 [00:02<00:00,  1.25s/it]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.11it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.25it/s][A100%|██████████| 2/2 [00:01<00:00,  1.23it/s]
+3305it [1:43:22,  3.68s/it]filtering out invalid sampled SMILES...
+valid rate: 97.265625%
+unique valid rate 62.98828125%
+3305/4836 pockets sampled.
+sampling SMILES for pocket 4yc9A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3472it [1:43:40,  4.46s/it]filtering out invalid sampled SMILES...
+valid rate: 92.67578125%
+unique valid rate 32.51953125%
+3472/4836 pockets sampled.
+sampling SMILES for pocket 5c90D00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.32it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.57it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.82it/s][A100%|██████████| 2/2 [00:00<00:00,  2.78it/s]
+
+100%|██████████| 2/2 [00:01<00:00,  1.30it/s][A100%|██████████| 2/2 [00:01<00:00,  1.31it/s]
+3473it [1:43:42,  3.61s/it]filtering out invalid sampled SMILES...
+valid rate: 99.70703125%
+unique valid rate 60.888671875%
+3473/4836 pockets sampled.
+sampling SMILES for pocket 5cb2A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3306it [1:43:25,  3.63s/it]filtering out invalid sampled SMILES...
+valid rate: 93.017578125%
+unique valid rate 74.365234375%
+3306/4836 pockets sampled.
+sampling SMILES for pocket 4ycyA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:01<00:01,  1.31s/it][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.71it/s][A
+100%|██████████| 2/2 [00:02<00:00,  1.21s/it][A100%|██████████| 2/2 [00:02<00:00,  1.23s/it]
+
+100%|██████████| 2/2 [00:01<00:00,  1.36it/s][A100%|██████████| 2/2 [00:01<00:00,  1.40it/s]
+3307it [1:43:28,  3.53s/it]filtering out invalid sampled SMILES...
+valid rate: 97.607421875%
+unique valid rate 91.6015625%
+3307/4836 pockets sampled.
+sampling SMILES for pocket 4yd1A01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3474it [1:43:47,  3.98s/it]filtering out invalid sampled SMILES...
+valid rate: 95.1171875%
+unique valid rate 11.767578125%
+3474/4836 pockets sampled.
+sampling SMILES for pocket 5cb4D01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.57it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.02it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.26it/s][A100%|██████████| 2/2 [00:01<00:00,  1.22it/s]
+
+100%|██████████| 2/2 [00:01<00:00,  1.41it/s][A100%|██████████| 2/2 [00:01<00:00,  1.43it/s]
+3308it [1:43:31,  3.32s/it]filtering out invalid sampled SMILES...
+valid rate: 94.53125%
+unique valid rate 52.734375%
+3308/4836 pockets sampled.
+sampling SMILES for pocket 4yd6A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  3.01it/s][A3475it [1:43:50,  3.66s/it]filtering out invalid sampled SMILES...
+valid rate: 96.533203125%
+unique valid rate 71.533203125%
+3475/4836 pockets sampled.
+sampling SMILES for pocket 5cbjA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  4.14it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.66it/s][A100%|██████████| 2/2 [00:00<00:00,  2.71it/s]
+
+100%|██████████| 2/2 [00:00<00:00,  4.94it/s][A100%|██████████| 2/2 [00:00<00:00,  4.80it/s]
+3476it [1:43:51,  2.83s/it]filtering out invalid sampled SMILES...
+valid rate: 99.462890625%
+unique valid rate 63.28125%
+3476/4836 pockets sampled.
+sampling SMILES for pocket 5cc5A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3309it [1:43:33,  2.74s/it]filtering out invalid sampled SMILES...
+valid rate: 98.681640625%
+unique valid rate 70.849609375%
+3309/4836 pockets sampled.
+sampling SMILES for pocket 4ydkA02...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  3.90it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.36it/s][A
+100%|██████████| 2/2 [00:00<00:00,  3.76it/s][A100%|██████████| 2/2 [00:00<00:00,  3.78it/s]
+
+100%|██████████| 2/2 [00:00<00:00,  2.45it/s][A100%|██████████| 2/2 [00:00<00:00,  2.43it/s]
+3477it [1:43:52,  2.34s/it]filtering out invalid sampled SMILES...
+valid rate: 98.2421875%
+unique valid rate 78.02734375%
+3477/4836 pockets sampled.
+sampling SMILES for pocket 5cc8A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.62it/s][A3310it [1:43:34,  2.43s/it]filtering out invalid sampled SMILES...
+valid rate: 94.873046875%
+unique valid rate 62.890625%
+3310/4836 pockets sampled.
+sampling SMILES for pocket 4ye2A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.68it/s][A100%|██████████| 2/2 [00:01<00:00,  1.77it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.70it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.15it/s][A100%|██████████| 2/2 [00:00<00:00,  2.07it/s]
+3478it [1:43:54,  2.25s/it]filtering out invalid sampled SMILES...
+valid rate: 96.2890625%
+unique valid rate 82.470703125%
+3478/4836 pockets sampled.
+sampling SMILES for pocket 5cczA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  4.85it/s][A3311it [1:43:36,  2.24s/it]filtering out invalid sampled SMILES...
+valid rate: 96.435546875%
+unique valid rate 71.875%
+3311/4836 pockets sampled.
+sampling SMILES for pocket 4yfyB01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:00<00:00,  4.43it/s][A100%|██████████| 2/2 [00:00<00:00,  4.49it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  2.04it/s][A3479it [1:43:55,  1.87s/it]filtering out invalid sampled SMILES...
+valid rate: 98.974609375%
+unique valid rate 71.826171875%
+3479/4836 pockets sampled.
+sampling SMILES for pocket 5ce1A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.89it/s][A100%|██████████| 2/2 [00:01<00:00,  1.91it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.78it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.42it/s][A100%|██████████| 2/2 [00:01<00:00,  1.47it/s]
+3312it [1:43:39,  2.56s/it]filtering out invalid sampled SMILES...
+valid rate: 90.966796875%
+unique valid rate 71.09375%
+3312/4836 pockets sampled.
+sampling SMILES for pocket 4yh7B02...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.16it/s][A3480it [1:43:59,  2.58s/it]filtering out invalid sampled SMILES...
+valid rate: 85.693359375%
+unique valid rate 70.068359375%
+3480/4836 pockets sampled.
+sampling SMILES for pocket 5cedA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.16it/s][A100%|██████████| 2/2 [00:01<00:00,  1.16it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.41it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.33it/s][A100%|██████████| 2/2 [00:01<00:00,  1.34it/s]
+3313it [1:43:43,  2.94s/it]filtering out invalid sampled SMILES...
+valid rate: 94.62890625%
+unique valid rate 52.880859375%
+3313/4836 pockets sampled.
+sampling SMILES for pocket 4yjeA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.01it/s][A3481it [1:44:02,  2.80s/it]filtering out invalid sampled SMILES...
+valid rate: 97.0703125%
+unique valid rate 68.701171875%
+3481/4836 pockets sampled.
+sampling SMILES for pocket 5cf5B00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.06it/s][A
+100%|██████████| 2/2 [00:02<00:00,  1.00s/it][A100%|██████████| 2/2 [00:02<00:00,  1.00s/it]
+
+100%|██████████| 2/2 [00:01<00:00,  1.21it/s][A100%|██████████| 2/2 [00:01<00:00,  1.19it/s]
+3314it [1:43:48,  3.36s/it]filtering out invalid sampled SMILES...
+valid rate: 89.74609375%
+unique valid rate 58.544921875%
+3314/4836 pockets sampled.
+sampling SMILES for pocket 4yjqA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3482it [1:44:06,  3.15s/it]filtering out invalid sampled SMILES...
+valid rate: 84.814453125%
+unique valid rate 83.69140625%
+3482/4836 pockets sampled.
+sampling SMILES for pocket 5cftA01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:01<00:01,  1.47s/it][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.10it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.06it/s][A100%|██████████| 2/2 [00:01<00:00,  1.06it/s]
+
+100%|██████████| 2/2 [00:03<00:00,  1.55s/it][A100%|██████████| 2/2 [00:03<00:00,  1.54s/it]
+3483it [1:44:11,  3.58s/it]filtering out invalid sampled SMILES...
+valid rate: 87.451171875%
+unique valid rate 65.185546875%
+3483/4836 pockets sampled.
+sampling SMILES for pocket 5cg9A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  3.30it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.97it/s][A100%|██████████| 2/2 [00:00<00:00,  3.01it/s]
+3315it [1:43:54,  4.32s/it]filtering out invalid sampled SMILES...
+valid rate: 86.03515625%
+unique valid rate 85.302734375%
+3315/4836 pockets sampled.
+sampling SMILES for pocket 4ykpB00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3484it [1:44:12,  2.95s/it]filtering out invalid sampled SMILES...
+valid rate: 99.8046875%
+unique valid rate 45.703125%
+3484/4836 pockets sampled.
+sampling SMILES for pocket 5cgqB01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.95it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.53it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.04it/s][A100%|██████████| 2/2 [00:00<00:00,  2.03it/s]
+
+100%|██████████| 2/2 [00:00<00:00,  2.26it/s][A100%|██████████| 2/2 [00:00<00:00,  2.30it/s]
+3316it [1:43:56,  3.58s/it]filtering out invalid sampled SMILES...
+valid rate: 99.853515625%
+unique valid rate 44.189453125%
+3316/4836 pockets sampled.
+sampling SMILES for pocket 4ymwD00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3485it [1:44:14,  2.59s/it]filtering out invalid sampled SMILES...
+valid rate: 99.755859375%
+unique valid rate 48.486328125%
+3485/4836 pockets sampled.
+sampling SMILES for pocket 5chaE00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.10it/s][A
+ 50%|█████     | 1/2 [00:01<00:01,  1.24s/it][A
+100%|██████████| 2/2 [00:01<00:00,  1.21it/s][A100%|██████████| 2/2 [00:01<00:00,  1.19it/s]
+
+100%|██████████| 2/2 [00:02<00:00,  1.16s/it][A100%|██████████| 2/2 [00:02<00:00,  1.17s/it]
+3317it [1:44:00,  3.57s/it]filtering out invalid sampled SMILES...
+valid rate: 94.7265625%
+unique valid rate 54.4921875%
+3317/4836 pockets sampled.
+sampling SMILES for pocket 4yn3A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.74it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.20it/s][A100%|██████████| 2/2 [00:00<00:00,  2.11it/s]
+3318it [1:44:01,  3.01s/it]filtering out invalid sampled SMILES...
+valid rate: 97.16796875%
+unique valid rate 37.939453125%
+3318/4836 pockets sampled.
+sampling SMILES for pocket 4yn3A08...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3486it [1:44:19,  3.38s/it]filtering out invalid sampled SMILES...
+valid rate: 88.8671875%
+unique valid rate 82.91015625%
+3486/4836 pockets sampled.
+sampling SMILES for pocket 5chkA01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:01<00:01,  1.22s/it][A
+ 50%|█████     | 1/2 [00:01<00:01,  1.46s/it][A
+100%|██████████| 2/2 [00:02<00:00,  1.17s/it][A100%|██████████| 2/2 [00:02<00:00,  1.18s/it]
+
+100%|██████████| 2/2 [00:02<00:00,  1.37s/it][A100%|██████████| 2/2 [00:02<00:00,  1.38s/it]
+3319it [1:44:04,  3.02s/it]filtering out invalid sampled SMILES...
+valid rate: 97.607421875%
+unique valid rate 50.439453125%
+3319/4836 pockets sampled.
+sampling SMILES for pocket 4yp1B00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:01<00:01,  1.01s/it][A3487it [1:44:23,  3.59s/it]filtering out invalid sampled SMILES...
+valid rate: 96.97265625%
+unique valid rate 85.888671875%
+3487/4836 pockets sampled.
+sampling SMILES for pocket 5ci5B01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:02<00:00,  1.10s/it][A100%|██████████| 2/2 [00:02<00:00,  1.09s/it]
+
+ 50%|█████     | 1/2 [00:01<00:01,  1.14s/it][A
+100%|██████████| 2/2 [00:02<00:00,  1.02it/s][A100%|██████████| 2/2 [00:02<00:00,  1.01s/it]
+3320it [1:44:07,  3.08s/it]filtering out invalid sampled SMILES...
+valid rate: 94.82421875%
+unique valid rate 66.11328125%
+3320/4836 pockets sampled.
+sampling SMILES for pocket 4yq8A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3488it [1:44:26,  3.39s/it]filtering out invalid sampled SMILES...
+valid rate: 93.798828125%
+unique valid rate 51.708984375%
+3488/4836 pockets sampled.
+sampling SMILES for pocket 5cidA01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.00it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.03it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.74it/s][A100%|██████████| 2/2 [00:01<00:00,  1.78it/s]
+
+100%|██████████| 2/2 [00:02<00:00,  1.33s/it][A100%|██████████| 2/2 [00:02<00:00,  1.28s/it]
+3489it [1:44:29,  3.01s/it]filtering out invalid sampled SMILES...
+valid rate: 99.658203125%
+unique valid rate 59.130859375%
+3489/4836 pockets sampled.
+sampling SMILES for pocket 5cimB00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.58it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.59it/s][A100%|██████████| 2/2 [00:01<00:00,  1.59it/s]
+3321it [1:44:13,  3.79s/it]filtering out invalid sampled SMILES...
+valid rate: 92.138671875%
+unique valid rate 56.93359375%
+3321/4836 pockets sampled.
+sampling SMILES for pocket 4yqcA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3490it [1:44:31,  2.98s/it]filtering out invalid sampled SMILES...
+valid rate: 98.828125%
+unique valid rate 56.298828125%
+3490/4836 pockets sampled.
+sampling SMILES for pocket 5cjfA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:01<00:01,  1.10s/it][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.12it/s][A
+100%|██████████| 2/2 [00:02<00:00,  1.10s/it][A100%|██████████| 2/2 [00:02<00:00,  1.10s/it]
+
+100%|██████████| 2/2 [00:02<00:00,  1.37s/it][A100%|██████████| 2/2 [00:02<00:00,  1.30s/it]
+3322it [1:44:18,  4.09s/it]filtering out invalid sampled SMILES...
+valid rate: 91.11328125%
+unique valid rate 61.81640625%
+3322/4836 pockets sampled.
+sampling SMILES for pocket 4yqiA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.03it/s][A3491it [1:44:38,  3.94s/it]filtering out invalid sampled SMILES...
+valid rate: 92.7734375%
+unique valid rate 91.69921875%
+3491/4836 pockets sampled.
+sampling SMILES for pocket 5cjoA01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.03it/s][A100%|██████████| 2/2 [00:01<00:00,  1.03it/s]
+
+ 50%|█████     | 1/2 [00:01<00:01,  1.32s/it][A
+100%|██████████| 2/2 [00:02<00:00,  1.31s/it][A100%|██████████| 2/2 [00:02<00:00,  1.31s/it]
+3323it [1:44:22,  4.21s/it]filtering out invalid sampled SMILES...
+valid rate: 91.455078125%
+unique valid rate 58.69140625%
+3323/4836 pockets sampled.
+sampling SMILES for pocket 4yqlA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.12it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.11it/s][A100%|██████████| 2/2 [00:01<00:00,  1.11it/s]
+3492it [1:44:42,  4.16s/it]filtering out invalid sampled SMILES...
+valid rate: 96.240234375%
+unique valid rate 53.271484375%
+3492/4836 pockets sampled.
+sampling SMILES for pocket 5ckuA02...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.22it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.35it/s][A100%|██████████| 2/2 [00:01<00:00,  1.33it/s]
+3324it [1:44:26,  4.21s/it]filtering out invalid sampled SMILES...
+valid rate: 91.9921875%
+unique valid rate 72.021484375%
+3324/4836 pockets sampled.
+sampling SMILES for pocket 4yrkA01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3493it [1:44:45,  3.76s/it]filtering out invalid sampled SMILES...
+valid rate: 99.853515625%
+unique valid rate 28.61328125%
+3493/4836 pockets sampled.
+sampling SMILES for pocket 5cmvA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.29it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.56it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.31it/s][A100%|██████████| 2/2 [00:01<00:00,  1.31it/s]
+
+100%|██████████| 2/2 [00:01<00:00,  1.56it/s][A100%|██████████| 2/2 [00:01<00:00,  1.56it/s]
+3325it [1:44:30,  3.97s/it]filtering out invalid sampled SMILES...
+valid rate: 93.84765625%
+unique valid rate 65.283203125%
+3325/4836 pockets sampled.
+sampling SMILES for pocket 4yrqA01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A3494it [1:44:48,  3.51s/it]filtering out invalid sampled SMILES...
+valid rate: 96.19140625%
+unique valid rate 81.73828125%
+3494/4836 pockets sampled.
+sampling SMILES for pocket 5coaA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.81it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.14it/s][A100%|██████████| 2/2 [00:00<00:00,  2.08it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.03it/s][A3326it [1:44:32,  3.35s/it]filtering out invalid sampled SMILES...
+valid rate: 97.412109375%
+unique valid rate 64.501953125%
+3326/4836 pockets sampled.
+sampling SMILES for pocket 4yrrB01...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.08it/s][A100%|██████████| 2/2 [00:01<00:00,  1.07it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  2.10it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.14it/s][A100%|██████████| 2/2 [00:00<00:00,  2.13it/s]
+3495it [1:44:51,  3.44s/it]filtering out invalid sampled SMILES...
+valid rate: 89.697265625%
+unique valid rate 60.25390625%
+3495/4836 pockets sampled.
+sampling SMILES for pocket 5cpdA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.85it/s][A3327it [1:44:34,  2.96s/it]filtering out invalid sampled SMILES...
+valid rate: 91.357421875%
+unique valid rate 78.41796875%
+3327/4836 pockets sampled.
+sampling SMILES for pocket 4ysjB00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.85it/s][A100%|██████████| 2/2 [00:00<00:00,  2.85it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  2.68it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.55it/s][A100%|██████████| 2/2 [00:00<00:00,  2.57it/s]
+3496it [1:44:53,  2.87s/it]filtering out invalid sampled SMILES...
+valid rate: 97.119140625%
+unique valid rate 88.76953125%
+3496/4836 pockets sampled.
+sampling SMILES for pocket 5cq7A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.92it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.58it/s][A100%|██████████| 2/2 [00:00<00:00,  2.63it/s]
+3328it [1:44:36,  2.60s/it]filtering out invalid sampled SMILES...
+valid rate: 90.869140625%
+unique valid rate 83.251953125%
+3328/4836 pockets sampled.
+sampling SMILES for pocket 4ytfA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.32it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.40it/s][A100%|██████████| 2/2 [00:00<00:00,  2.39it/s]
+3497it [1:44:55,  2.53s/it]filtering out invalid sampled SMILES...
+valid rate: 93.1640625%
+unique valid rate 92.529296875%
+3497/4836 pockets sampled.
+sampling SMILES for pocket 5cqjA00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  2.45it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.43it/s][A100%|██████████| 2/2 [00:00<00:00,  2.44it/s]
+3329it [1:44:37,  2.36s/it]filtering out invalid sampled SMILES...
+valid rate: 89.84375%
+unique valid rate 86.71875%
+3329/4836 pockets sampled.
+sampling SMILES for pocket 4yuuA06...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+ 50%|█████     | 1/2 [00:00<00:00,  1.95it/s][A3498it [1:44:56,  2.31s/it]filtering out invalid sampled SMILES...
+valid rate: 92.333984375%
+unique valid rate 80.126953125%
+3498/4836 pockets sampled.
+sampling SMILES for pocket 5cr7A00...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
+100%|██████████| 2/2 [00:00<00:00,  2.02it/s][A100%|██████████| 2/2 [00:00<00:00,  2.01it/s]
+
+ 50%|█████     | 1/2 [00:00<00:00,  1.40it/s][A
+100%|██████████| 2/2 [00:01<00:00,  1.24it/s][A100%|██████████| 2/2 [00:01<00:00,  1.26it/s]
+3330it [1:44:41,  2.68s/it]filtering out invalid sampled SMILES...
+valid rate: 95.947265625%
+unique valid rate 75.48828125%
+3330/4836 pockets sampled.
+sampling SMILES for pocket 4yuuV18...
+
+  0%|          | 0/2 [00:00<?, ?it/s][A
