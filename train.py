@@ -15,10 +15,6 @@ from model import Pocket2Drug
 import warnings
 warnings.simplefilter('ignore', FutureWarning)
 
-# set cuda visible devices
-import os
-os.environ['CUDA_VISIBLE_DEVICES'] = '4'
-
 def get_args():
     parser = argparse.ArgumentParser("python")
 
@@ -26,6 +22,18 @@ def get_args():
                         required=False,
                         default=0,
                         help="which fold used for validation")
+    
+    parser.add_argument("-gpu",
+                        required=False,
+                        type=str,
+                        default='4',
+                        help="which gpu to use")
+    
+    parser.add_argument("-config",
+                        required=False,
+                        type=str,
+                        default='./train.yaml',
+                        help="train condiguration file")
 
     return parser.parse_args()
 
@@ -55,8 +63,12 @@ if __name__ == "__main__":
     assert val_fold in list(range(10))
     print('training for cross-validation, validation fold {}.'.format(val_fold))
 
+    # set cuda visible devices
+    import os
+    os.environ['CUDA_VISIBLE_DEVICES'] = args.gpu
+
     # load configuration file
-    config_dir = "./train.yaml"
+    config_dir = args.config
     with open(config_dir, 'r') as f:
         config = yaml.full_load(f)
 
@@ -129,7 +141,8 @@ if __name__ == "__main__":
             encoder_config['pretrained_model'],
             map_location=torch.device(device)
         )
-        load_info = model.load_state_dict(loaded_gnn, strict=False)
+        #load_info = model.load_state_dict(loaded_gnn, strict=False)
+        load_info = model.embedding_net.load_state_dict(loaded_gnn, strict=False)
         print(load_info)
         print('Pretrained GNN for encoder is loaded.')
     else:
