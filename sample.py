@@ -27,6 +27,10 @@ def get_args():
                         required=True,
                         help="directory of result files including configuration, \
                             loss, trained model, and sampled molecules")
+    
+    parser.add_argument("-output_dir",
+                        required=True,
+                        help="the path where sample yaml will be put")
 
     parser.add_argument("-batch_size",
                         required=False,
@@ -96,9 +100,10 @@ if __name__ == "__main__":
     pocket_dir = args.pocket_dir
     popsa_dir = args.popsa_dir
     profile_dir = args.profile_dir
+    output_dir = args.output_dir
 
     # directory to store the sampled molecules
-    sampled_mols_dir = result_dir + f"/val_pockets_sample_{batch_size * num_batches}/"
+    sampled_mols_dir = output_dir + f"/val_pockets_sample_{batch_size * num_batches}/"
     if not os.path.exists(sampled_mols_dir):
         os.makedirs(sampled_mols_dir)
 
