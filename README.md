@@ -61,3 +61,114 @@ Of course, the model can be used to sample molecules for the unseen pockets defi
 ```
 python sample.py -batch_size 1024 -num_batches 2 -pocket_dir path_to_dataset_folder -popsa_dir path_to_pops_folder -profile_dir path_to_profile_folder -result_dir path_to_training_output_folder
 ```
+
+### model
+
+```python
+Pocket2Drug(
+  (embedding_net): JKMCNWMEmbeddingNet(
+    (conv0): MCNWMConv(
+      (nn): Sequential(
+        (0): Linear(in_features=33, out_features=128, bias=True)
+        (1): LeakyReLU(negative_slope=0.01)
+        (2): Linear(in_features=128, out_features=128, bias=True)
+      )
+      (NMMs): ModuleList(
+        (0-2): 3 x NWMConv(edge_nn=Sequential(
+          (0): Linear(in_features=1, out_features=8, bias=True)
+          (1): LeakyReLU(negative_slope=0.01)
+          (2): Linear(in_features=8, out_features=1, bias=True)
+          (3): ELU(alpha=1.0)
+        ))
+      )
+    )
+    (bn0): BatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv1): MCNWMConv(
+      (nn): Sequential(
+        (0): Linear(in_features=384, out_features=128, bias=True)
+        (1): LeakyReLU(negative_slope=0.01)
+        (2): Linear(in_features=128, out_features=128, bias=True)
+      )
+      (NMMs): ModuleList(
+        (0-2): 3 x NWMConv(edge_nn=Sequential(
+          (0): Linear(in_features=1, out_features=8, bias=True)
+          (1): LeakyReLU(negative_slope=0.01)
+          (2): Linear(in_features=8, out_features=1, bias=True)
+          (3): ELU(alpha=1.0)
+        ))
+      )
+    )
+    (bn1): BatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv2): MCNWMConv(
+      (nn): Sequential(
+        (0): Linear(in_features=384, out_features=128, bias=True)
+        (1): LeakyReLU(negative_slope=0.01)
+        (2): Linear(in_features=128, out_features=128, bias=True)
+      )
+      (NMMs): ModuleList(
+        (0-2): 3 x NWMConv(edge_nn=Sequential(
+          (0): Linear(in_features=1, out_features=8, bias=True)
+          (1): LeakyReLU(negative_slope=0.01)
+          (2): Linear(in_features=8, out_features=1, bias=True)
+          (3): ELU(alpha=1.0)
+        ))
+      )
+    )
+    (bn2): BatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv3): MCNWMConv(
+      (nn): Sequential(
+        (0): Linear(in_features=384, out_features=128, bias=True)
+        (1): LeakyReLU(negative_slope=0.01)
+        (2): Linear(in_features=128, out_features=128, bias=True)
+      )
+      (NMMs): ModuleList(
+        (0-2): 3 x NWMConv(edge_nn=Sequential(
+          (0): Linear(in_features=1, out_features=8, bias=True)
+          (1): LeakyReLU(negative_slope=0.01)
+          (2): Linear(in_features=8, out_features=1, bias=True)
+          (3): ELU(alpha=1.0)
+        ))
+      )
+    )
+    (bn3): BatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv4): MCNWMConv(
+      (nn): Sequential(
+        (0): Linear(in_features=384, out_features=128, bias=True)
+        (1): LeakyReLU(negative_slope=0.01)
+        (2): Linear(in_features=128, out_features=128, bias=True)
+      )
+      (NMMs): ModuleList(
+        (0-2): 3 x NWMConv(edge_nn=Sequential(
+          (0): Linear(in_features=1, out_features=8, bias=True)
+          (1): LeakyReLU(negative_slope=0.01)
+          (2): Linear(in_features=8, out_features=1, bias=True)
+          (3): ELU(alpha=1.0)
+        ))
+      )
+    )
+    (bn4): BatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (conv5): MCNWMConv(
+      (nn): Sequential(
+        (0): Linear(in_features=384, out_features=128, bias=True)
+        (1): LeakyReLU(negative_slope=0.01)
+        (2): Linear(in_features=128, out_features=128, bias=True)
+      )
+      (NMMs): ModuleList(
+        (0-2): 3 x NWMConv(edge_nn=Sequential(
+          (0): Linear(in_features=1, out_features=8, bias=True)
+          (1): LeakyReLU(negative_slope=0.01)
+          (2): Linear(in_features=8, out_features=1, bias=True)
+          (3): ELU(alpha=1.0)
+        ))
+      )
+    )
+    (bn5): BatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (set2set): Set2Set(128, 256)
+  )
+  (decoder): RNNDecoder(
+    (embedding_layer): Embedding(78, 256, padding_idx=77)
+    (rnn): GRU(256, 512, num_layers=3, batch_first=True)
+    (linear): Linear(in_features=512, out_features=76, bias=True)
+  )
+)
+```
