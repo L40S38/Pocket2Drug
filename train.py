@@ -98,7 +98,7 @@ if __name__ == "__main__":
     # load the pocket-smiles pairs
     data_dir = "./data/folds/"
     if "reduced" in config["smiles_dir"]:
-        data_dir = "./data/folds-reduced"
+        data_dir = "./data/folds-reduced/"
     smiles_train_dict, smiles_val_dict = read_folds(val_fold=val_fold,data_dir=data_dir)
 
     # dataloaders
