@@ -96,7 +96,10 @@ if __name__ == "__main__":
     features_to_use = config['features_to_use']
 
     # load the pocket-smiles pairs
-    smiles_train_dict, smiles_val_dict = read_folds(val_fold=val_fold)
+    data_dir = "./data/folds/"
+    if "reduced" in config["smiles_dir"]:
+        data_dir = "./data/folds-reduced"
+    smiles_train_dict, smiles_val_dict = read_folds(val_fold=val_fold,data_dir=data_dir)
 
     # dataloaders
     batch_size = config['batch_size']
