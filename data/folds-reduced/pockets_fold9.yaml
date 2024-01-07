@@ -1,0 +1,7632 @@
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAGEAAABiAAAAdAAAAEEAAAAwAAAAMAAAAA==
+: CC(C)C(NC(=O)C(Cc1c[nH]c2ccccc12)NC(=O)C(Cc1cnc[nH]1)NC(=O)C(N)CCCCN)C(=O)NC(Cc1ccc(O)cc1)C(=O)NC(C=O)Cc1ccc(O)cc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAGIAAAAyAAAAbAAAAEEAAAAwAAAAMgAAAA==
+: OC1CSSCC1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAGIAAAA0AAAAbgAAAEMAAAAwAAAAMAAAAA==
+: O=C(O)CCCC(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAGQAAABtAAAAYQAAAEEAAAAwAAAAMAAAAA==
+: NC(=O)c1cccnc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAGQAAAByAAAAdwAAAEEAAAAwAAAAMAAAAA==
+: NC(=O)C1=CN(C2OC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(=O)nc[nH]c54)C(O)C3O)C(O)C2O)CC=C1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAGUAAABsAAAAdQAAAEEAAAAwAAAAMAAAAA==
+: Cc1ncc(COP(=O)(O)O)c(C=NC(C)C(=O)O)c1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAGUAAAB4AAAAdwAAAEEAAAAwAAAAMQAAAA==
+: CCCCCCCCCCCCCCCC[SH](O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAGYAAABhAAAAMgAAAEEAAAAwAAAAMAAAAA==
+: OCC1OC(OC2C(O)CC(O)OC2CO)C(O)C(O)C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAGYAAABpAAAAcAAAAEEAAAAwAAAAMAAAAA==
+: CC(N)C(=O)NC(C)C(=O)NC(C)C(=O)NC(C)C(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAGYAAABwAAAAeQAAAEwAAAAwAAAAMQAAAA==
+: CP(=O)(O)CCC(N)C(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAGcAAAA0AAAAcAAAAEEAAAAwAAAAMAAAAA==
+: Nc1nc(C(F)(F)F)ncc1COP(=O)(O)OP(=O)(O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAGcAAAA2AAAANAAAAEEAAAAwAAAAMAAAAA==
+: Cc1cc2ncn(C3OC(CO)C(OP(=O)(O)OC(C)CNC(=O)CCC4(C)C(CC(N)=O)C5N6C4C(C)C4C(CCC(N)=O)C(C)(C)C7CC8C(CCC(N)=O)C(C)(CC(N)=O)C9C(C)C%10C(CCC(N)=O)C(C)(CC(N)=O)C5(C)N%10C6(N47)N89)C3O)c2cc1C
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAGcAAAA3AAAAMgAAAEEAAAAwAAAAMAAAAA==
+: O=C(O)c1cc(C(=O)O)c2c(n1)C(O)C(=O)c1cc(C(=O)O)[nH]c1-2
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAGcAAABhAAAAaQAAAEEAAAAwAAAAMAAAAA==
+: CC1OCC(O)C(O)C1NC1CC(CO)C(O)C(O)C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAGcAAABwAAAAdQAAAEEAAAAwAAAAMQAAAA==
+: CC1=C(CCOP(=O)(O)OP(=O)(O)O)[SH]=C(C(=O)CO)N1Cc1cnc(C)nc1N
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAGcAAAB3AAAAYwAAAEMAAAAwAAAAMAAAAA==
+: CCCCCCSCC(NC(O)CCC(N)C(=O)O)C(=O)NCC(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAGgAAAA5AAAAZwAAAEEAAAAwAAAAMQAAAA==
+: CCCCCCCCCCCCCCO
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAGgAAABhAAAAawAAAEEAAAAwAAAAMAAAAA==
+: COc1ccc2c(c1)CN(C(=O)CCN1CCC(Cc3ccccc3)CC1)CCS2
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAGgAAABlAAAAcwAAAEEAAAAwAAAAMAAAAA==
+: CNC(=O)C(Cc1ccccc1)NC(=O)C(NC(=O)CNC(=O)C(Cc1ccc(O)cc1)NC(=O)C(NC(=O)CNC(=O)C(CC(C)C)NC(=O)C(N)Cc1cnc[nH]1)C(C)O)C(C)C
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAGgAAAByAAAAOAAAAEgAAAAwAAAAMAAAAA==
+: CC(C)CC(C=O)NC(=O)C(NC(=O)C(CCCNC(=N)N)NC(=O)C(NC(=O)C(C)NC(=O)C1CCCN1C(=O)C(N)CCCCN)C(C)O)C(C)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAGgAAAB0AAAAcAAAAEEAAAAwAAAAMAAAAA==
+: NCSC=CC(CCCCC=O)SSCCO
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAGkAAAAzAAAAMwAAAEYAAAAwAAAAMAAAAA==
+: COc1cc(OC)cc(C(=O)NC2C(O)C(CO)OC2n2cnc3c(NC4CCCc5ccccc54)ncnc32)c1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAGkAAAA3AAAAYQAAAEEAAAAwAAAAMAAAAA==
+: CC(NC(=O)C(N)Cc1ccccc1)C(=O)NC(C=O)Cc1ccccc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAGoAAABnAAAAMwAAAEIAAAAwAAAAMAAAAA==
+: CC(NC(=O)C(Cc1cnc[nH]1)NC(=O)CC(NC(=O)C1CCCN1C(=O)C(Cc1ccc(O)cc1)NC(=O)C(N)C(C)C)C(=O)O)C(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAGsAAAA3AAAAcwAAAEEAAAAwAAAAMAAAAA==
+: CC(=O)N(O)CCCC(N)C(=O)NC(CCCN(O)C(C)=O)C(=O)NC(CCCN(O)C(C)=O)C(=O)NCC=O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAGsAAAA3AAAAdwAAAEQAAAAwAAAAMAAAAA==
+: N=C(N=CCCC(N)C(=O)O)NC(CC(O)O)C(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAGsAAABiAAAAMAAAAEEAAAAwAAAAMgAAAA==
+: O=C(O)c1cc(C(=O)O)c2c(n1)c(O)c(O)c1cc(C(=O)O)[nH]c12
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAGsAAABjAAAANwAAAEEAAAAwAAAAMAAAAA==
+: O=C(O)C(O)CP(=O)(O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAGsAAAB0AAAAdwAAAEEAAAAwAAAAMAAAAA==
+: O=S(=O)(O)OC1C(CO)OC(O)C(O)C1OC1OC2COC(C2O)C1OS(=O)(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAGwAAAA1AAAAZwAAAEIAAAAwAAAAMAAAAA==
+: CC(C)C1C(=O)NC(CCCNC(=N)N)C(=O)NCC(=O)NC(CC(=O)O)C(=O)NC(Cc2ccccc2)C(=O)N1C
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAGwAAABvAAAAYwAAAEcAAAAwAAAAMAAAAA==
+: CC(NC(O)C(C)OC1C(O)C(CO)OC(O)C1N(C)C(=O)O)C(=O)NC(CCC(=O)O)C(N)=O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAGwAAAB0AAAAOAAAAEEAAAAwAAAAMAAAAA==
+: NC(CCSCCCCC(=O)O)C(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAG0AAABuAAAAMAAAAEIAAAAwAAAAMAAAAA==
+: OC1COC(O)C(O)C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAG8AAABlAAAANgAAAEEAAAAwAAAAMQAAAA==
+: O=C1N=CC(CO)C(=O)N1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAG8AAABvAAAAbgAAAEEAAAAwAAAAMgAAAA==
+: CCN(CC)c1cc(C(=O)NCC(O)CO)c([N+](=O)[O-])cc1[N+](=O)[O-]
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAHAAAAA0AAAAYQAAAEIAAAAwAAAAMAAAAA==
+: O=P(O)(O)OCC1CC(OP(=O)(O)OP(=O)(O)O)C(O)C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAHAAAABkAAAAMAAAAEEAAAAwAAAAMAAAAA==
+: CSCCC(NC(=O)C(Cc1ccccc1)NC(=O)C1CCCN1C(=O)C(CC(N)=O)NC(=O)C(CO)NC(=O)C(CC(N)=O)NC(=O)C(CC(N)=O)NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(N)C(C)O)C(=O)NC(C(=O)O)C(C)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAHAAAABpAAAANQAAAEEAAAAwAAAAMAAAAA==
+: Cc1cccc(C(=O)O)c1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAHAAAABrAAAAMAAAAEEAAAAwAAAAMAAAAA==
+: Nc1ncnc2c1ncn2C=COCP(=O)(O)OP(=O)(O)OP(=O)(O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAHAAAABxAAAAcAAAAEEAAAAwAAAAMAAAAA==
+: NC(CC=O)C(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAHAAAAB4AAAAYQAAAEEAAAAwAAAAMQAAAA==
+: O=C(O)c1ccc(O)cc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAHEAAABtAAAAZwAAAEMAAAAwAAAAMQAAAA==
+: CCC(C)(O)C(O)C(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAHEAAABtAAAAaAAAAEIAAAAwAAAAMQAAAA==
+: OSCC(O)C(O)CS
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAHIAAABzAAAAbgAAAEEAAAAwAAAAMAAAAA==
+: Nc1nc2c(ncn2C2OC(CO)C3OP(=O)(S)OC32)c(=O)[nH]1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAHIAAAB4AAAAZQAAAEEAAAAwAAAAMAAAAA==
+: O=C(O)c1cc(S)ccc1[N+](=O)[O-]
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAHIAAAB4AAAAcQAAAEQAAAAwAAAAMAAAAA==
+: CC(NC(=O)C(CO)NC(=O)C(N)CCC(=O)O)C(=O)NC(C(=O)NC(CO)C(=O)NCC=O)C(C)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAHMAAAB3AAAAdwAAAEEAAAAwAAAAMAAAAA==
+: O=CCP(=O)(O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAHQAAABmAAAAOQAAAEEAAAAwAAAAMAAAAA==
+: NC(Cc1ccc(I)cc1)C(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAHQAAABzAAAAaQAAAEEAAAAwAAAAMAAAAA==
+: O=C(CCCP(=O)(O)O)NO
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAHQAAAB2AAAAMwAAAEEAAAAwAAAAMAAAAA==
+: CC1CC(N(C)O)NC1C=O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAHUAAAAwAAAAZgAAAEEAAAAwAAAAMAAAAA==
+: O=C1OC(COP(=O)(O)O)C(O)C(O)C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAHUAAAAzAAAAZwAAAEEAAAAwAAAAMQAAAA==
+: NC1NC(=O)C2C(NCC(CNc3ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc3)N2CO)N1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAHUAAABuAAAAYgAAAEEAAAAwAAAAMAAAAA==
+: O=C(O)CCC(=O)C(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAHUAAAB0AAAAcgAAAEEAAAAwAAAAMAAAAA==
+: Cc1cc(S(C)(=O)=O)c(C)cc1-c1cc(C)c(S(C)(=O)=O)cc1C
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAHYAAAAyAAAAeAAAAEEAAAAwAAAAMAAAAA==
+: Nc1ncnc2c1ncn2C(=O)C(O)CO
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAHYAAAA3AAAAegAAAEQAAAAwAAAAMAAAAA==
+: CN(CC(=O)O)C(=N)N
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAHYAAABlAAAAYQAAAEEAAAAwAAAAMAAAAA==
+: NC(=Cc1cnc[nH]1)C(=O)Nc1ccc2ccccc2c1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAHYAAABxAAAAMgAAAEEAAAAwAAAAMAAAAA==
+: O=C1NC(O)C=CN1C1CC(O)C(COP(=O)(O)O)O1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAHcAAAA3AAAAdgAAAEQAAAAwAAAAMAAAAA==
+: CC(C)CC(NC(=O)C1CCCN1)C(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAHcAAAB6AAAAZgAAAEEAAAAwAAAAMAAAAA==
+: O=C(O)c1ccc(N=Cc2ccccc2O)c(N=Cc2ccccc2O)c1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAHgAAABmAAAANgAAAEEAAAAwAAAAMAAAAA==
+: C=CC1=C(C)C(Cc2[nH]c(Cc3[nH]c(CC4=NC(=O)C(C)=C4CC)c(C)c3CCC(=O)O)c(CCC(=O)O)c2C)NC1=O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAHgAAABwAAAAeQAAAEMAAAAwAAAAMAAAAA==
+: CC(O)NC(CCC(N)O)C(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAHkAAAAxAAAAMwAAAEEAAAAwAAAAMAAAAA==
+: CC(O)C(O)c1cnc(NC(=N)N)cn1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MQAAAHoAAABsAAAAeQAAAEEAAAAwAAAAMQAAAA==
+: Nc1nc2ccc(CNc3ccc(C(=O)NCCCC(=O)O)cc3)cc2c(=O)[nH]1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAGEAAABlAAAANwAAAEMAAAAwAAAAMAAAAA==
+: CC(=O)NC1C(OC2C(O)OC(CO)C(O)C2O)OC(CO)C(O)C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAGIAAAA3AAAANgAAAEMAAAAwAAAAMAAAAA==
+: CC(C)=CCCC(C)=CCCC(C)=CCC=C(C)C=CC1=C(C)C(=O)c2ccccc2C1=O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAGIAAAA5AAAAOQAAAEMAAAAwAAAAMwAAAA==
+: O=C1N=C2C(=NC(=O)C(=O)N2CC(O)C(O)C(O)CO)C(=O)N1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAGIAAABmAAAAZwAAAEQAAAAwAAAAMAAAAA==
+: O=[N+]([O-])c1ccc([N+](=O)[O-])c(O)c1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAGIAAAB3AAAAbQAAAEEAAAAwAAAAMgAAAA==
+: CSC1OC(CO)C(O)C(O)C1NC(C)=O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAGMAAAAwAAAAaQAAAEIAAAAwAAAAMAAAAA==
+: COc1cc(-c2nn(C3CCC(N4CCN(C)CC4)CC3)c3ncnc(N)c23)ccc1NC(=O)c1cc2ccccc2n1C
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAGMAAAA4AAAAMAAAAEIAAAAwAAAAMQAAAA==
+: CCCCCCSCC(NC(=O)CCC(N)C(=O)O)C(=O)NCC(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAGMAAAA5AAAAZQAAAEEAAAAwAAAANwAAAA==
+: CC(=O)OC1CC(C)(C)C(=C=CC(C)C=CC=CC=CC(C)C=C2C=C(C=CC34OC3(C)CC(O)CC4(C)C)C(=O)O2)C(C)(O)C1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAGMAAAB3AAAAaAAAAEIAAAAwAAAAMgAAAA==
+: O=C(O)c1ccc[nH]1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAGQAAABlAAAAMwAAAEIAAAAwAAAAMAAAAA==
+: Oc1ccccc1-c1ccccc1[SH](O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAGQAAABpAAAAagAAAEEAAAAwAAAANQAAAA==
+: NC1CC(CO)CC(O)C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAGQAAABzAAAAYQAAAEMAAAAwAAAAMQAAAA==
+: O=C(O)C(O)=CC=CC(=O)c1ccccc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAGUAAAAxAAAAcgAAAEEAAAAwAAAAMAAAAA==
+: C=C1COC2C(C)OC(OCC34CC5C(C)C(C)CC5C5(C=O)CC3CC(C(C)C)C54C(=O)O)CC12
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAGUAAAA5AAAAYQAAAEEAAAAwAAAAMAAAAA==
+: O=P(O)(O)C(O)(Cc1cccc(-c2ccc(-c3ccccc3)cc2)c1)P(=O)(O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAGUAAABmAAAAMgAAAEEAAAAwAAAAMAAAAA==
+: c1ccc(C2COC(c3cccc(C4=NC(c5ccccc5)CO4)c3)=N2)cc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAGUAAABqAAAAOQAAAEEAAAAwAAAAMAAAAA==
+: O=C(O)CCCCC1SCC2NC(=O)NC21
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAGUAAAB1AAAAbwAAAEEAAAAwAAAAMQAAAA==
+: CN1C=CCC(N)=C1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAGYAAABpAAAAdgAAAEIAAAAwAAAAMQAAAA==
+: CC(=O)NC(Cc1cccc2ccccc12)C(=O)NC(C(=O)NC(CC(C)C)C(O)CC(=O)NC(CCC(=O)O)C(=O)NC(Cc1cccc2ccccc12)C(N)=O)C(C)C
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAGYAAABtAAAAZgAAAEEAAAAwAAAAMAAAAA==
+: CC(C)CC(NC(=O)C(C)NC(=O)C(C)NC(=O)C(CC(C)C)NC(=O)C(CC(C)C)NC(=O)C(CC(=O)O)NC(=O)C(CC(=O)O)NC(=O)C(NC(=O)C(CCC(N)=O)NC(=O)C(CC(=O)O)NC(=O)C(N)CCC(N)=O)C(C)C)C(=O)NCC(=O)NC(Cc1ccccc1)C(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAGYAAAByAAAANgAAAEEAAAAwAAAAMAAAAA==
+: NC1C=CN(C2OC(CO)C(O)C2O)C(=O)N1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAGYAAAB1AAAAcQAAAEEAAAAwAAAAMAAAAA==
+: CC1OC(OC2C(CO)OCC(OC3OC(C(=O)O)C(OC4OCCC(O)C4O)C(O)C3O)C2O)C(O)C(O)C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAGcAAAAwAAAAYgAAAEIAAAAwAAAAMAAAAA==
+: CCCCCCCCCCCC(=O)NC(Cc1ccc(O)cc1)C(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAGcAAABiAAAAeQAAAEMAAAAwAAAAMAAAAA==
+: N=C(N)c1ccc(N=NNc2ccc(C(=N)N)cc2)cc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAGcAAABzAAAAawAAAEEAAAAwAAAAMQAAAA==
+: CCCCCCCCCCCCN(C)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAGgAAAA1AAAAMgAAAEEAAAAwAAAAMQAAAA==
+: NC1CCCCC1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAGgAAABrAAAAcgAAAEEAAAAwAAAAMAAAAA==
+: COc1ccc(CCN)cc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAGgAAABwAAAAcwAAAEEAAAAwAAAAMAAAAA==
+: O=C1C(Cc2ccc(O)cc2)N=C2C(Cc3ccccc3)=NC(c3ccc(O)cc3)=CN12
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAGkAAABxAAAANgAAAEEAAAAwAAAAMAAAAA==
+: CC(C)CC(N)C(=O)NC(CC(C)C)C(=O)NC(CC(C)C)C(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAGkAAAB2AAAAagAAAEEAAAAwAAAAMAAAAA==
+: NC(CCCC(=O)NC(CS)C(=O)NC(C(=O)O)C1CC1)C(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAGkAAAB3AAAANAAAAEIAAAAwAAAAMQAAAA==
+: O=P(O)(O)NP(=O)(O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAGoAAAAwAAAAawAAAEIAAAAwAAAAMAAAAA==
+: CNC1CC2OC(C)(C1OC)n1c3ccccc3c3c4c(c5c6c(n2c5c31)CCCC6)C(=O)N=C4
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAGoAAAAzAAAAdQAAAEIAAAAwAAAAMgAAAA==
+: O=CCOCCOCCOCCOCCOCCOCCO
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAGoAAABhAAAAcAAAAEMAAAAwAAAAMQAAAA==
+: O=C(O)C1C(=CCO)OC2CC(=O)N21
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAGoAAABjAAAANQAAAEEAAAAwAAAAMAAAAA==
+: O=C(O)CN(CCO)CCO
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAGoAAAB1AAAANAAAAEEAAAAwAAAANwAAAA==
+: CC1(C)CC(N2C(=O)CCC2=O)C(C)(C)N1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAGsAAABlAAAAMQAAAEEAAAAwAAAAMAAAAA==
+: CC(N)C(=O)NC(CCCNC(=N)N)C(=O)NC(C(=O)NC(CCCCN)C(=O)NC(CCC(N)=O)C(=O)NC(C(=O)NC(C)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCCN)C(=O)NC(CO)C(=O)O)C(C)O)C(C)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAG4AAAB2AAAAYQAAAEgAAAAwAAAAMQAAAA==
+: Cc1ncc(COP(=O)(O)O)c(CNCCCCNC(=N)N)c1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAG8AAAAwAAAAMQAAAEYAAAAwAAAAMQAAAA==
+: CCc1c(C)c2cc3nc(cc4[nH]c(c(CCC(=O)OCC=C(C)C)c4C)c4c5nc(cc1[nH]2)C(C)=C5C(O)C4C(=O)OC)C(C)=C3C
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAG8AAABnAAAANwAAAEEAAAAwAAAAMAAAAA==
+: NC(=O)C(O)C(N)C(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAG8AAAB2AAAAdQAAAEEAAAAwAAAAMAAAAA==
+: COC1OC(CO)C(O)C(O)C1OC1OC(CO)C(O)C(O)C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAHAAAAAxAAAAcAAAAEIAAAAwAAAAMQAAAA==
+: O=C(O)Cc1c[nH]c2ccccc12
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAHAAAABlAAAAbQAAAEIAAAAwAAAAMAAAAA==
+: CCC(C)C(NC(=O)C(C)N)C(=O)NC(C)C(=O)NC(Cc1ccccc1)C(=O)NC(CCC(=O)O)C(=O)NC(Cc1ccccc1)C(=O)NC(C)C(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAHAAAAB4AAAANgAAAEIAAAAwAAAAMAAAAA==
+: CCCCCCCCCCCC(CC(O)C(CCCCCC)C(=O)O)OC(=O)C(CC(C)C)NC=O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAHEAAABlAAAAbwAAAEIAAAAwAAAAMAAAAA==
+: NCC(O)c1ccc(O)c(O)c1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAHEAAAB0AAAAZwAAAEEAAAAwAAAAMAAAAA==
+: CSCC1OC(N2CCc3c(N)ncnc32)C(O)C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAHIAAABoAAAAdwAAAEEAAAAwAAAAMgAAAA==
+: O=C(CC=C(F)C(O)C(=O)O)c1ccc(F)cc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAHIAAABsAAAAMgAAAEEAAAAwAAAAMAAAAA==
+: CCC(O)P(=O)(O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAHIAAABvAAAAbAAAAEEAAAAwAAAAMAAAAA==
+: CCC(C)C(NC(=O)C1CCCN1C(=O)C(CCC(=O)O)NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(CC(=O)O)NC(=O)C1CCCN1C(=O)C(CC(N)=O)NC(=O)C1CCCN1C(=O)C(NC(=O)C1CCCN1C(=O)C1CCCN1)C(C)C)C(=O)NC(C=O)CCCNC(=N)N
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAHYAAAA4AAAAZgAAAEIAAAAwAAAAMAAAAA==
+: CCC(C)C(N)C(=O)N1CCCC1C(=O)N1CCCC1C(=O)N1CCCC1C(=O)N1CCCC1C(=O)N1CCCC1C(=O)NC(CC(C)C)C(=O)N1CCCC1C(=O)NCC(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAHYAAABiAAAAeAAAAEEAAAAwAAAAMAAAAA==
+: NC(Cc1cnc[nH]1)C(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAHYAAABqAAAAagAAAEEAAAAwAAAAMAAAAA==
+: CC(=O)NC1COC(CO)C(O)C1OC1OC(CO)C(OC2OC(COC3OC(C)C(O)C(O)C3O)C(O)C(O)C2O)C(OC2CC(O)C(O)C(CO)O2)C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAHYAAAB1AAAAZAAAAEIAAAAwAAAAMAAAAA==
+: CC1OC(OCc2cnnn2CC=O)C(O)C(O)C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAHcAAAA1AAAAdQAAAEEAAAAwAAAAMQAAAA==
+: N#Cc1cnn(-c2ccc(C(F)(F)F)cc2[N+](=O)[O-])c1N
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAHcAAAA3AAAANwAAAEEAAAAwAAAAMQAAAA==
+: CCCCCCCCOCCOCCOCCOCCOC=CO
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAHcAAABhAAAAOQAAAEcAAAAwAAAAMAAAAA==
+: CC(C)CC(C=O)NC(=O)C(N)CC(C)C
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAHcAAABjAAAAagAAAEEAAAAwAAAAMAAAAA==
+: CCCC=CCCCCCCCCCO
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAHgAAAAzAAAAagAAAEIAAAAwAAAAMQAAAA==
+: NCCNC(=O)CC(O)(CC(=O)O)C(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAHgAAAA4AAAAdQAAAEEAAAAwAAAAMAAAAA==
+: CC1=NC=C(COP(=O)(O)O)C(C)C1=O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAHgAAABhAAAAdwAAAEMAAAAwAAAAMAAAAA==
+: CC(C)CC(NC(=O)C(CCC(N)=O)NC(=O)C(Cc1ccccc1)NC(=O)C(CC(N)=O)NC(=O)C(CO)NC(=O)C(CC(C)C)NC(=O)C(CC(=O)O)NC(=O)C(CC(=O)O)NC(=O)C(NC(=O)C(CC(=O)O)NC(=O)C(NC(=O)C(N)CCC(=O)O)C(C)C)C(C)O)C(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAHgAAABjAAAAOAAAAEIAAAAwAAAAMAAAAA==
+: CCC(C)C(NC(=O)C(NC(=O)C1CCCN1C(=O)C1CCCN1C(=O)C(N)CCCCN)C(C)C)C(=O)NC(C(=O)NC(CCC(=O)O)C(=O)N1CCCC1C(=O)NC(CCC(N)=O)C(=O)N1CCCC1C(=O)NC(C(=O)NCC=O)C(C)C)C(C)C
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAHgAAABnAAAANQAAAEEAAAAwAAAAMQAAAA==
+: O=C(O)C(Cc1ccccc1)n1c(SO)c(C2CC2)c(Cc2cccc3ccccc23)cc1=O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAHgAAABoAAAAbQAAAEEAAAAwAAAAMAAAAA==
+: CCC(C)C(NC(C)=O)C(=O)NC(Cc1ccc(O)cc1)C(=O)NC(Cc1ccc(O)cc1)P(=O)(O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAHkAAAA2AAAAaQAAAEEAAAAwAAAAMAAAAA==
+: CC(C)CCP(=O)(O)NCC(=O)N1CCCC1C(=O)NC(C)C(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAHkAAABoAAAAeAAAAEEAAAAwAAAAMAAAAA==
+: Cc1ccccc1C(=O)NC1C(O)OC(CO)C(O)C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAHoAAAAzAAAAbAAAAEEAAAAwAAAAMAAAAA==
+: CC(C)CC(NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(CCCNC(=N)N)NC(=O)C(N)Cc1ccccc1)C(=O)NCC(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAHoAAABsAAAANwAAAEIAAAAwAAAAMAAAAA==
+: CC(O)NC1C(OC2C(O)C(CO)OC(O)C2OC2OC(C)C(O)C(O)C2O)OC(CO)C(O)C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MgAAAHoAAAB6AAAAOQAAAEEAAAAwAAAAMAAAAA==
+: CCCCC=CCCCCCCCCCCOCOC(COC(=O)CCCCCCCCCCC=CCCCC)COP(=O)(O)OCCN
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAGEAAAAwAAAAOQAAAEEAAAAwAAAAMAAAAA==
+: O=C(O)C1=CC(O)C(O)C(OC2C(C(=O)O)OC(OC3C(C(=O)O)OC(O)C(O)C3O)C(O)C2O)O1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAGEAAABlAAAAawAAAEEAAAAwAAAAMAAAAA==
+: CCC1=C(C)c2cc3[nH]c(cc4nc(c5c6[nH]c(cc1n2)c(C)c6C(=O)C5C(=O)OC)C(CCC(=O)O)=C4C)c(C)c3CC
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAGEAAABzAAAAeAAAAEEAAAAwAAAAMAAAAA==
+: Cc1ccc(N(CC(C)(C)C)C(=O)CCC(=O)N2CCCC(C(=O)O)C2)c(C(O)c2ccccc2C)c1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAGIAAABlAAAAbQAAAEIAAAAwAAAAMAAAAA==
+: CC1C=C2C(=NC3C(=O)NC(=O)N=C3N2CC(O)C(O)C(O)COP(=O)(O)O)CC1C
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAGMAAABpAAAAMQAAAEEAAAAwAAAAMAAAAA==
+: CC1=C2N(C)C(C(CC(N)=O)C2(C)CCC(=O)NCC(C)OP(=O)(O)O)C2(C)NC(C(C)=C3NC(C=C4NC1C(CCC(N)=O)C4(C)C)C(CCC(N)=O)C3(C)CC(N)=O)C(CCC(N)=O)C2(C)CC(N)=O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAGMAAAB5AAAAeQAAAEIAAAAwAAAAMQAAAA==
+: CCC(C)C(NC(=O)C(CCC(=O)O)NC(=O)C(CC(C)C)NC(=O)C(CC(=O)O)NC(=O)C(CC(=O)O)NC(=O)C1CCCN1C(=O)C(CCCNC(=N)N)NC(=O)C1CCCN1C(=O)C(N)CCCNC(=N)N)C(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAGQAAAA3AAAAOAAAAEEAAAAwAAAAMAAAAA==
+: CCC=CNS(=O)(=O)c1ccccc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAGQAAAA5AAAAZwAAAEIAAAAwAAAAMgAAAA==
+: CCCCCCC#N
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAGQAAAB3AAAAcgAAAEIAAAAwAAAAMgAAAA==
+: O=C(O)CC1CCCC1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAGUAAAAwAAAAMAAAAEIAAAAwAAAAMQAAAA==
+: Cc1ccc([N+](=O)[O-])cc1C(=O)Nc1ccccc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAGUAAABqAAAAdwAAAEIAAAAwAAAAMAAAAA==
+: CC1(O)OCC(O)C1(O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAGYAAAA4AAAAYwAAAEEAAAAwAAAAMAAAAA==
+: CCOc1ccc(-c2nc3ccc(-c4nc5ccc(N6CCN(C)CC6)cc5[nH]4)cc3[nH]2)cc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAGYAAAA4AAAAZgAAAEEAAAAwAAAAMAAAAA==
+: COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)CC(O)(C(C)O)CC3OC1CC(N)C(O)C(C)O1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAGYAAABhAAAAMwAAAEIAAAAwAAAAMAAAAA==
+: O=C(O)C(O)(O)C(F)(F)C(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAGYAAABwAAAAMAAAAEEAAAAwAAAAMAAAAA==
+: CC(=O)OC1CC2(C)C3(CO)CCC(C)=CC3OC1C21CO1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAGYAAAB4AAAAdQAAAEEAAAAwAAAAMQAAAA==
+: Cc1ccc(S(=O)(=O)O)cc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAGcAAAAzAAAAcgAAAEEAAAAwAAAAMAAAAA==
+: O=P(O)(O)NP(=O)(O)OP(=O)(O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAGcAAABkAAAANwAAAEEAAAAwAAAAMAAAAA==
+: O=P(O)(O)OP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(NCCc4ccccc4)ncnc32)C(O)C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAGcAAAB4AAAAcgAAAEQAAAAwAAAAMAAAAA==
+: CC(=O)NC1C(O)OC(CO)C(OC2OC(CO)C(O)C(O)C2NC(C)=O)C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAGgAAABlAAAAbQAAAEEAAAAwAAAAMAAAAA==
+: CCCCCCCCNCCCCCCCC
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAGgAAABsAAAAZQAAAEEAAAAwAAAAMAAAAA==
+: CC1C=C2C=CC(C)C(CCC(O)CC(O)CC(=O)O)C2C(O)C1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAGgAAAByAAAAcgAAAEEAAAAwAAAAMAAAAA==
+: COc1cc(O)c2c(O)c(C(C)=O)c(CC(C)=O)cc2c1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAGgAAAB1AAAAbQAAAEEAAAAwAAAAMAAAAA==
+: CON=C(C(=O)NC(C=O)C1=NC(C(=O)O)=C(C)C=[SH]1)c1csc(N)n1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAGgAAAB3AAAAdwAAAEEAAAAwAAAAMAAAAA==
+: O=C(O)CC1OC1C(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAGgAAAB5AAAANAAAAEEAAAAwAAAAMAAAAA==
+: NC1NC(O)C2C(NCC(CNC3CCC(C(=O)NC(CCC(O)O)C(=O)O)CC3)N2C=O)N1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAGgAAAB5AAAAeAAAAEMAAAAwAAAAMwAAAA==
+: S1SSSSSSS1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAGkAAAAwAAAAbwAAAEEAAAAwAAAAMQAAAA==
+: CNC1C(O)C(NC)C2OC3(O)C(OC(C)CC3(O)O)OC2C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAGkAAAB4AAAAMQAAAEEAAAAwAAAAMAAAAA==
+: Cc1ncc(CNC=O)c(N)n1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAGoAAAB1AAAAbgAAAEIAAAAwAAAAMAAAAA==
+: O=C(O)c1ccccc1NC1CCCNC1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAGsAAAA4AAAAbQAAAEIAAAAwAAAAMAAAAA==
+: CC1OC(OC2C(CO)OCC(O)C2O)C(O)C(O)C1NC1C=C(CO)C(O)C(O)C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAGsAAABwAAAAeAAAAEEAAAAwAAAAMAAAAA==
+: Oc1ccc(CC2(O)NC3=C(Cc4ccccc4)N=C(c4ccc(O)cc4)CN3C2O)cc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAGwAAAA0AAAAawAAAEEAAAAwAAAAMAAAAA==
+: Cc1cn(C2CC(S)C(CO[PH](=O)O)O2)c(=O)[nH]c1=O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAGwAAABkAAAAMgAAAEIAAAAwAAAAMAAAAA==
+: CC(C)(COP(=O)(O)OP(=O)(O)OCc1oc(-n2cnc3c(N)ncnc32)c(O)c1OP(=O)(O)O)C(O)C(=O)NCCC(=O)NCCS
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAGwAAABqAAAAcgAAAEEAAAAwAAAAMAAAAA==
+: NC(CCC(=O)NC(CSCc1cccc2ccccc12)C(=O)NCC(=O)O)C(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAGwAAABxAAAAcwAAAEEAAAAwAAAAMAAAAA==
+: Cc1ncc(COP(=O)(O)O)c(CNc2csc(C(=O)O)c2)c1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAG0AAABhAAAAegAAAEEAAAAwAAAAMAAAAA==
+: CCC(C)C(NC(=O)C(CC(C)C)NC(=O)C(NC(=O)C(CC(N)=O)NC(=O)C(CCC(=O)O)NC(=O)C(Cc1ccc(OP(=O)(O)O)cc1)NC(=O)C(CO)NC(=O)C(N)CC(N)=O)C(C)C)C(=O)NC(C)C(=O)NC(CCCCN)C(N)=O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAG0AAAB1AAAAMwAAAEEAAAAwAAAAMAAAAA==
+: CCCCCCCCCCCC(O)CC(=O)OC1C(NC(=O)CC(O)CCCCCCCCC)COC(CO)C1OP(=O)(O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAG4AAABhAAAANQAAAEIAAAAwAAAAMAAAAA==
+: OCCN1CC(O)C(O)C1(CO)CO
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAG4AAABmAAAAbAAAAEQAAAAwAAAAMAAAAA==
+: CCC(C)C(N)C(=O)NC(CCC(=O)O)C(=O)NC(CO)C(=O)NC(CC(=O)O)C(=O)NC(C(=O)O)C(C)C
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAG4AAABxAAAAOAAAAEEAAAAwAAAAMAAAAA==
+: N=C(N)c1ccccc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAG8AAAA4AAAANAAAAEIAAAAwAAAAMAAAAA==
+: O=C(O)c1cc(-c2ccccc2)nc2c1cnn2Cc1ccncc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAG8AAAB0AAAAaAAAAEEAAAAwAAAAMQAAAA==
+: COC(=O)NC1C(=O)CC2(O)C#CC=CC#CC(OC3OC(C)C(NOC4CC(O)C(SC(=O)c5c(C)c(I)c(O)c(OC)c5OC)C(C)O4)C(O)C3O)C1C2=CCSSSC
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAG8AAAB4AAAAaAAAAEEAAAAwAAAAMAAAAA==
+: O=S(=O)(O)c1ccccc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAHEAAAAyAAAAZAAAAEIAAAAwAAAAMAAAAA==
+: O=[N+]([O-])c1ccc2[nH]nnc2c1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAHEAAABtAAAAZQAAAEEAAAAwAAAAMAAAAA==
+: O=C1CCCCC1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAHEAAABzAAAAMQAAAEIAAAAwAAAAMAAAAA==
+: Cc1cccc(C)c1OCC(=O)NC(Cc1ccccc1)C(O)C(=O)N1CSC(C)(C)C1C(=O)NC1c2ccccc2CC1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAHEAAAB1AAAAeQAAAEMAAAAwAAAAMAAAAA==
+: CCCCCCCCCCCCCCCCCCCCCCCCCC(=O)NC(COC1OC(C(=O)NCc2ccccc2)C(O)C(O)C1O)C(O)C(O)CCCCCCCCCCCCCC
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAHEAAAB2AAAAdAAAAEEAAAAwAAAAMgAAAA==
+: O=C(COP(=O)(O)O)C(O)C(O)C(O)C(O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAHIAAABjAAAAMAAAAEMAAAAwAAAAMAAAAA==
+: NCCCCC(N)C=O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAHIAAABkAAAAZQAAAEEAAAAwAAAAMAAAAA==
+: CCCCCCCCCCC#CCOCc1ccc(CCC(=O)O)cc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAHIAAABvAAAANQAAAEEAAAAwAAAAMQAAAA==
+: COc1ccccc1-c1noc(C)c1C(=O)N1CCN(c2ccc([N+](=O)[O-])cc2C)CC1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAHIAAAB2AAAAOAAAAEIAAAAwAAAAMAAAAA==
+: O=C(O)c1cccc(OC(CC2CC2)C(=O)O)c1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAHIAAAB4AAAAOAAAAEEAAAAwAAAAMQAAAA==
+: OCC1CNCC(O)C1OC1OC(CO)C(O)C(O)C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAHMAAABiAAAAMAAAAEEAAAAwAAAAMAAAAA==
+: Cc1ccc(F)c(C(=O)C=C(O)C(=O)O)c1C
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAHMAAABkAAAAdgAAAEEAAAAwAAAAMAAAAA==
+: CC(O)(P(=O)(O)O)P(=O)(O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAHMAAAByAAAAYwAAAEIAAAAwAAAAMAAAAA==
+: O=c1onc2n1-c1ccccc1OC2
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAHQAAABjAAAAbQAAAEEAAAAwAAAAMAAAAA==
+: Cc1ncc(COP(=O)(O)O)c(CNC2CONC2=O)c1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAHQAAABvAAAAcwAAAEcAAAAwAAAAMAAAAA==
+: Nc1ncnc2c1ncn2C1OC2(C[SH]2CCC(N)C(=O)O)C(O)C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAHQAAAB3AAAAMQAAAEEAAAAwAAAAMQAAAA==
+: CC(=O)NCCc1cnc[nH]1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAHQAAAB6AAAAegAAAEIAAAAwAAAAMQAAAA==
+: CCCCCCCCCCCCCCC(CO)C(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAHUAAAAwAAAAeQAAAEIAAAAwAAAAMQAAAA==
+: c1ccc(-c2nsc(N3CCNCC3)n2)cc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAHYAAAA5AAAANwAAAEEAAAAwAAAAMwAAAA==
+: CCCCCC(O)OCC1OC(CO)(OC2OC(CO)C(O)C(O)C2O)C(O)C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAHYAAABhAAAANAAAAEMAAAAwAAAAMAAAAA==
+: CC(C)CC(NC(=O)C(CCC(=O)O)NC(=O)C(CCC(N)=O)NC(=O)C(NC(=O)C(CO)NC(=O)C(N)C(C)C)C(C)OP(=O)(O)O)C(=O)NC(Cc1ccc(O)cc1)C(=O)NC(C=O)CO
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAHYAAABtAAAAcAAAAEEAAAAwAAAAMAAAAA==
+: OCCCCCOC1OC(CO)C(O)C(O)C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAHYAAABuAAAAbAAAAEEAAAAwAAAAMAAAAA==
+: O=C(CO)C(O)C(O)C(O)CO
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAHYAAABwAAAAbAAAAEEAAAAwAAAAMgAAAA==
+: OC1COC(OC2COC(OC3C(O)COCC3F)C(O)C2O)C(O)C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAHYAAABzAAAAaQAAAEIAAAAwAAAAMAAAAA==
+: O=[N+]([O-])c1ccc(O)c(O)c1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAHcAAAA4AAAAbQAAAEEAAAAwAAAAMAAAAA==
+: Oc1ccccc1C=Nc1ccccc1N=Cc1ccccc1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAHcAAAA5AAAAdAAAAEQAAAAwAAAANQAAAA==
+: OCC1OC(OC2C(CO)OC(O)(CO)C2O)C(O)C(O)C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAHcAAABiAAAAawAAAEEAAAAwAAAAMAAAAA==
+: CCC(C)C(C=O)NC(=O)C(CC(=O)O)NC(=O)C(CC(=O)O)NC(=O)C(NC(=O)C(CC(=O)O)NC(=O)C(CC(C)C)NC(=O)C(CCC(=O)O)NC(=O)C(CCC(=O)O)NC(=O)C(CC(=O)O)NC(=O)C(CCC(=O)O)NC(=O)CN)C(C)CC
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAHcAAABuAAAAbwAAAEIAAAAwAAAAMQAAAA==
+: OC1C2COC3OC(COC4OC(COC5OC(COC6OC(COC7OC(COC8OC(COC9OC(COC(O2)C(O)C1O)C(O)C(O)C9O)C(O)C(O)C8O)C(O)C(O)C7O)C(O)C(O)C6O)C(O)C(O)C5O)C(O)C(O)C4O)C(O)C(O)C3O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAHoAAABlAAAAZAAAAEEAAAAwAAAAMAAAAA==
+: CC(C)C(NC(=O)C(CCC(=O)O)NC(=O)CNC(=O)C(CC(=O)O)NC(=O)C(CC(=O)O)NC(=O)CNC(=O)C(CO)NC(=O)C1CCCN1C(=O)C(NC(=O)C(Cc1ccccc1)NC(=O)C(CCCNC(=N)N)NC(=O)C(N)CO)C(C)O)C(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAHoAAABoAAAAdQAAAEQAAAAwAAAAMQAAAA==
+: CC1=C(CCOP(=O)(O)OP(=O)(O)O)SC(C(O)CCCC(=O)O)N1Cc1cnc(C)nc1N
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  MwAAAHoAAAB1AAAANQAAAEEAAAAwAAAAMQAAAA==
+: CCCCCCc1ccn(Cc2cccc(N)c2C)c(=O)c1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGEAAAA5AAAAYwAAAEIAAAAwAAAAMAAAAA==
+: O=P(O)(O)Oc1cc(OP(=O)(O)O)cc(-c2c(OP(=O)(O)O)cc(OP(=O)(O)O)cc2OP(=O)(O)O)c1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGEAAABiAAAANAAAAEIAAAAwAAAAMQAAAA==
+: Cc1c([N+](=O)[O-])cc([N+](=O)[O-])cc1[N+](=O)[O-]
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGEAAABpAAAAbQAAAEEAAAAwAAAAMAAAAA==
+: CC(C)NC(=O)C(Cc1c[nH]c2ccccc12)NC(=O)C(Cc1c[nH]c2ccccc12)NC(=O)CNC(=O)C(CCCNC(=N)N)NC(=O)C(CCCNC(=N)N)NC(=O)C1CCCN1C(=O)C(C)N
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGEAAAB6AAAANwAAAEEAAAAwAAAAMAAAAA==
+: CC(=O)NC1C(=NO)OC(CO)C(O)C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGEAAAB6AAAAdAAAAEEAAAAwAAAAMQAAAA==
+: O=c1cc(N2CCOCC2)oc2c(-c3ccccc3)cccc12
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGIAAAA5AAAAdwAAAEEAAAAwAAAAMAAAAA==
+: CN=C(NC)NCCCC(NC(=O)CNC(=O)C(C)N)C(=O)NCC(=O)NC(CC(C)C)C(=O)NC(C(=O)NC(Cc1ccccc1)C(=O)NC(CCCNC(=N)N)C(=O)O)C(C)C
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGIAAABjAAAANQAAAEIAAAAwAAAAMAAAAA==
+: O=C(CO)C(O)C(O)CF
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGIAAABxAAAANQAAAEEAAAAwAAAAMAAAAA==
+: OCC1OCC(O)C(OC2OC3COC(C3O)C2O)C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGIAAAB0AAAAOQAAAEEAAAAwAAAAMAAAAA==
+: O=C(O)CNC(=O)C1CCCN1C(=O)C1CCCN1C(=O)CNC(=O)C1CCCN1C(=O)C1CCCN1C(=O)CNC(=O)C1CCCN1C(=O)C1CCCN1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGIAAAB2AAAAcgAAAEIAAAAwAAAAMgAAAA==
+: O=c1[nH]c(=O)[nH]c(=O)[nH]1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGMAAAA1AAAAaQAAAEEAAAAwAAAAMAAAAA==
+: CCC(C)C(NC(=O)C(CCC(N)=O)NC(=O)C(NC(=O)C(CCC(N)=O)NC(=O)C(CCCCN)NC(=O)C(CCC(N)=O)NC(=O)C(N)CCC(=O)O)C(C)C)C(=O)NC(CCCCN)C(=O)NC(C=O)C(C)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGMAAABkAAAAbAAAAEEAAAAwAAAAMAAAAA==
+: CC=CC(=O)c1ccc2cc(OC)ccc2c1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGMAAABwAAAAeQAAAEIAAAAwAAAAMAAAAA==
+: CC(=O)NC1COC(CO)C(OC2OC(CO)C(O)C(O)C2NC(C)=O)C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGMAAABxAAAANwAAAEEAAAAwAAAAMAAAAA==
+: CCC=CCC1C(=O)C=CC1CCCCCCCC(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGMAAAB5AAAAZwAAAEEAAAAwAAAAMAAAAA==
+: CC(C)(CO)C(O)C(=O)NCCC(O)Cc1ccccc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGMAAAB6AAAAaAAAAEEAAAAwAAAAMAAAAA==
+: Cc1ccc(CSC(=N)N)cc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGQAAAA0AAAAawAAAEEAAAAwAAAAMQAAAA==
+: COc1ccc(-n2cc(-c3ccccc3)c3c(=O)[nH]cnc32)cc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGQAAAA1AAAAZAAAAEEAAAAwAAAANQAAAA==
+: CCOCCOCC
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGQAAAB2AAAAOAAAAEEAAAAwAAAAMAAAAA==
+: COC(CC(CCCCNCc1ccc(F)cc1)C(=O)NO)c1ccc(F)cc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGUAAAA1AAAAZAAAAEEAAAAwAAAAMAAAAA==
+: COc1ccc2nc(-c3ccccc3F)sc2c1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGUAAABuAAAANAAAAEEAAAAwAAAAMQAAAA==
+: COCc1c(CO)cnc(C)c1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGUAAAB3AAAAbAAAAEIAAAAwAAAAMQAAAA==
+: CCOCCOCCOCCOCCOC=COCCOCCO
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGYAAABmAAAAbQAAAEEAAAAwAAAAMAAAAA==
+: NCCCC(N)C(=O)NCCCCC(N)C(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGYAAABnAAAAegAAAEIAAAAwAAAAMQAAAA==
+: CCN(CC)Cc1cc(Nc2ccnc3cc(C)ccc23)ccc1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGYAAABuAAAANQAAAEEAAAAwAAAAMAAAAA==
+: CCC1NC(=O)CNC(=O)C(Cc2c[nH]c3cccc(OC)c23)NC(=O)C(Cc2c[nH]c3ccccc23)NC(=O)c2csc(n2)C(C)NC(=O)CN(C)C(=O)C(C)=NC1=O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGcAAABmAAAAdgAAAEEAAAAwAAAAMAAAAA==
+: CC(C)CC(NC(=O)C(Cc1ccc(OP(=O)(O)O)cc1)NC(=O)C(CCC(=O)O)NC(=O)C1CCCN1)C(=O)NC(C=O)C(C)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGcAAAB0AAAAcQAAAEIAAAAwAAAAMQAAAA==
+: COc1ccc(S(=O)(=O)N2Cc3cc(C)ccc3N(Cc3cncn3C)CC2Cc2ccc(OC(=O)NCc3ccccc3)cc2)cc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGcAAAB3AAAAMAAAAEEAAAAwAAAAMQAAAA==
+: CC(=N)NCCCC(N)C(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGcAAAB5AAAAagAAAEIAAAAwAAAAMQAAAA==
+: CC(=O)NC1C(O)OC(CO)CC1OC(C)C(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGgAAAAyAAAAZAAAAEEAAAAwAAAAMAAAAA==
+: CC1=CC2=NC3C(=O)NC(=O)N=C3N(CC(O)C(O)C(O)COP(=O)(O)O)C2C=C1C
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGgAAABjAAAAeQAAAEEAAAAwAAAAMAAAAA==
+: Cc1ncc(Cc2csc(CCO)c2C)c(N)n1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGgAAAB1AAAAdAAAAEIAAAAwAAAAMQAAAA==
+: CC1=C2N3C(C(CC(N)=O)C2(C)CCC(N)=O)C2(C)N4C(C(C)=C5N6C(C=C7N(C1C(CCC(N)=O)C7(C)C)C634)C(CCC(N)=O)C5(C)CC(N)=O)C(CCC(N)=O)C2(C)CC(N)=O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGkAAAA5AAAAbwAAAEEAAAAwAAAAMAAAAA==
+: Cc1ccc(C2(O)CCN(C(=O)CCS)CC2)cc1C(F)(F)F
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGkAAABlAAAANQAAAEEAAAAwAAAAMAAAAA==
+: O=C(O)CNC(=O)c1ncccc1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGkAAABoAAAAYQAAAEEAAAAwAAAAMAAAAA==
+: CC(C(=O)O)C(O)CO
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGkAAABpAAAAOQAAAEEAAAAwAAAAMAAAAA==
+: CCc1cn(C2C(O)C(COP(=O)(O)OC3C(COP(=O)(O)OC4C(COP(O)O)OC(n5ccc(N)nc5=O)C4O)OC(n4ccc(N)nc4=O)C3O)OC2n2cnc3c(N)ncnc32)nn1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGkAAAB4AAAAdwAAAEIAAAAwAAAAMAAAAA==
+: CCOC(=O)CC1CO1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGoAAABkAAAAMAAAAEEAAAAwAAAAMAAAAA==
+: CC(O)C(O)C(O)C(O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGoAAABtAAAAaAAAAEEAAAAwAAAAMAAAAA==
+: NC(=O)CCC(NC(=O)C(N)Cc1cnc[nH]1)C(=O)NC(Cc1ccc(OP(=O)(O)O)cc1)C(=O)NC(Cc1ccc(OP(=O)(O)O)cc1)C(=O)NC(CC(N)=O)C(=O)NC(CC(=O)O)C(=O)NC(Cc1ccccc1)C(=O)N1CCCC1C=O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGoAAAB2AAAAaQAAAEEAAAAwAAAAMAAAAA==
+: CCCCCCCCCc1nc2cc(C)ccc2c(=O)n1N
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGsAAAA4AAAAeAAAAEEAAAAwAAAAMAAAAA==
+: CC1(C)C(=CC=CC=CC2N(CCCO)c3ccccc3C2(C)C)N(CCCO)c2ccccc21
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGsAAAB0AAAAawAAAEEAAAAwAAAAMgAAAA==
+: Nc1[nH]nc(-c2ccc(O)cc2O)c1-c1ccc(O)cc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGwAAABiAAAAcAAAAEEAAAAwAAAAMAAAAA==
+: O=C1C=C(O)C(=O)C=C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGwAAABjAAAAcAAAAEEAAAAwAAAAMAAAAA==
+: Nc1nc(N)c2nc[nH]c2n1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGwAAABpAAAAbAAAAEEAAAAwAAAAMAAAAA==
+: O=P(O)(O)OP(=O)(O)OP(=O)(O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGwAAABvAAAANgAAAEIAAAAwAAAAMAAAAA==
+: CC(=O)NC1C(O)CC(OCC2OCC(O)C(O)C2O)(C(=O)O)OC1C(O)C(O)CO
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAGwAAAB5AAAAZQAAAEEAAAAwAAAAMAAAAA==
+: O=C(O)C(=O)C=CCC(=O)c1ccccc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAG0AAAA3AAAAdAAAAEEAAAAwAAAAMQAAAA==
+: NC1CC(O)C(O)C(O)C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAG0AAABiAAAAZQAAAEYAAAAwAAAAMAAAAA==
+: CCC(C)C(C=O)NC(=O)C(Cc1ccccc1)NC(=O)C(CC(=O)O)NC(=O)C(Cc1ccccc1)NC(=O)CNC(=O)C(NC(=O)C(NC(=O)C1CCCN1C(=O)C(CC(C)C)NC(=O)C(N)C(C)C)C(C)O)C(C)C
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAG0AAABoAAAAMQAAAEIAAAAwAAAAMAAAAA==
+: O=C(O)c1cc(C(=O)O)c2c(n1)C(=O)C(=O)C1CC(C(=O)O)NC21
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAG0AAABtAAAAOQAAAEEAAAAwAAAAMAAAAA==
+: COCCCCC(NOCCN)c1ccc(C(F)(F)F)cc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAG0AAAB2AAAANwAAAEEAAAAwAAAAMAAAAA==
+: O=C(O)P(=O)(O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAG4AAABiAAAAaAAAAEIAAAAwAAAAMAAAAA==
+: c1ccc2c(c1)[nH]c1ccccc12
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAG4AAABxAAAAMwAAAEEAAAAwAAAAMAAAAA==
+: O=C1CC(=O)NC(=O)N1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAG4AAAB0AAAAbQAAAEQAAAAwAAAAMQAAAA==
+: NC1=NC2=NCC(C(=O)O)NC2C(=O)N1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAG4AAAB4AAAANAAAAEEAAAAwAAAAMAAAAA==
+: Cc1ccc(NC(=O)NCCSCc2ccc(CN(C)C)o2)cc1C
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAG4AAAB6AAAAbgAAAEEAAAAwAAAAMQAAAA==
+: O=C(CP(=O)(O)O)OC1C(OP(=O)(O)O)C(OP(=O)(O)O)C(OCc2ccccc2)C(OP(=O)(O)O)C1OP(=O)(O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAG8AAAA0AAAAMgAAAEEAAAAwAAAAMAAAAA==
+: CC(NC(=O)C(NC(=O)C(N)CCCNC(=N)N)C(C)O)C(=O)NC(CCCNC(=N)N)C(N)=O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAG8AAAB3AAAAbgAAAEEAAAAwAAAAMQAAAA==
+: Nc1ccc(F)cc1C(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHAAAAA1AAAAaAAAAEYAAAAwAAAAMAAAAA==
+: CC(C)CC(NC(=O)C1CCCN1C(=O)C(CC(N)=O)NC(=O)C(C)N)C(=O)NC(C(=O)N1CCCC1C(=O)NC(CC(=O)O)C(=O)NC(C)C(=O)NC(C)C=O)C(C)C
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHAAAAA2AAAAdAAAAEEAAAAwAAAAMAAAAA==
+: OCCc1ccc(O)cc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHAAAAA4AAAAYgAAAEEAAAAwAAAAMAAAAA==
+: CC(=O)C(C)(O)C(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHAAAABoAAAAawAAAEIAAAAwAAAAMAAAAA==
+: Cc1ccc(C=C(S)C(=O)O)cc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHAAAABpAAAAcwAAAEEAAAAwAAAAMQAAAA==
+: CCC(C)C(NC(=O)C(c1cc(C)cc(C)c1)N(C)C)C(=O)NCc1ccnc(C=N)n1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHAAAABrAAAAMwAAAEEAAAAwAAAAMAAAAA==
+: CC(=O)NCCCCC(NC(=O)C(CC(=O)O)NC(=O)C(CO)NC(C)=O)C(=O)NC(C(N)=O)C(C)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHAAAAB5AAAANgAAAEEAAAAwAAAAMAAAAA==
+: CCC1C(=O)N(C)c2cnc(Nc3ccc(C)cc3OC)nc2N1C1CC=CC1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHEAAAAxAAAAcQAAAEEAAAAxAAAAOAAAAA==
+: OCC(O)C1OCC(O)C(O)C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHEAAABiAAAAYgAAAEEAAAAwAAAAMAAAAA==
+: CC(C)CC(NC(=O)C(O)CC(=O)NC(CCCNC(=N)N)C(=O)N1CCCC1C(N)=O)C(=O)NCCCCNC(=N)N
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHEAAABpAAAANQAAAEEAAAAwAAAAMQAAAA==
+: O=C1NC(CO)C(OC2OC(CO)C(O)C(O)C2O)C(O)C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHEAAABpAAAAbgAAAEEAAAAwAAAAMAAAAA==
+: CNC1CCC(N(Cc2cccc(-c3ccncc3)c2)C(=O)c2sc3c(F)ccc(F)c3c2C)CC1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHEAAAB0AAAAbgAAAEMAAAAwAAAAMAAAAA==
+: NC(=O)C1=CC=CN(C2OC(CO)C(O)C2O)C1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHIAAAAzAAAAagAAAEEAAAAwAAAAMAAAAA==
+: C=C1CSC(C(C=O)NC(C)=O)NC1C(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHIAAAA1AAAAbQAAAEIAAAAwAAAAMQAAAA==
+: O=C(O)c1ccc(N(O)O)cc1P(=O)(O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHIAAABmAAAAcgAAAEEAAAAwAAAAMAAAAA==
+: O=C(O)c1cc(O)c2c(O)c3c(O)cccc3c(O)c2c1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHIAAABrAAAAcwAAAEIAAAAwAAAAMAAAAA==
+: CC(O)(CCO)CC(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHIAAABsAAAAdAAAAEEAAAAwAAAAMAAAAA==
+: O=C1c2ccc(O)cc2OC(c2ccc(O)c(O)c2)C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHIAAAByAAAAcQAAAEIAAAAwAAAAMAAAAA==
+: Nc1ncnc2c1ncn2C1OC(CO)C(NC(=O)C(N)CO)C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHQAAABqAAAAeAAAAEEAAAAwAAAAMAAAAA==
+: CC(N)C(=O)NC(CC(=O)O)C(=O)NC(CO)C(N)=O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHQAAAB4AAAAbgAAAEQAAAAwAAAAMAAAAA==
+: O=C1N=CC(F)C(=O)N1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHUAAABjAAAAcwAAAEEAAAAwAAAAMQAAAA==
+: NC(=O)n1nc(-c2ccco2)nc1N
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHUAAABoAAAAbAAAAEEAAAAwAAAAMgAAAA==
+: O=C(NC(Cn1ccnc1)c1ccc(-c2ccc(F)cc2)cc1F)c1ccc(-c2nnc(-c3ccccc3)o2)cc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHUAAAB1AAAAcQAAAEEAAAAwAAAAMAAAAA==
+: Cc1ccc(S(=O)(=O)NCC2CCN(C=O)CC2)cc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHYAAAA4AAAAMgAAAFgAAAAwAAAANgAAAA==
+: CCCCCC=C1CC1CCCCCCC(=O)OC(COC(=O)CCCCC=CCCCCCCC)COC1OC(CO)C(O)C(O)C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHcAAABuAAAAOQAAAEIAAAAwAAAAMAAAAA==
+: O=C(O)C1CCCN1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHcAAABuAAAAYgAAAEEAAAAwAAAAMAAAAA==
+: CC(C(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1OP(=O)(O)O)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHcAAABuAAAAbAAAAEQAAAAwAAAAMAAAAA==
+: CC(C)CC(NC(=O)C(NC(=O)C1CCCN1)C(C)C)C(=O)N1CCCC1C(=O)NCC(=O)NC(C(=O)NC(CCCCN)C(=O)NC(C=O)CCCNC(=N)N)C(C)C
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHcAAAB3AAAANgAAAEEAAAAwAAAAMwAAAA==
+: CCCSc1c(F)c(F)c(S(N)(=O)=O)c(F)c1F
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHgAAAAzAAAAaQAAAEEAAAAwAAAAMAAAAA==
+: CC(N)C(=O)NC(C(=O)NC(CCCNC(=N)N)C(N)=O)C(C)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHgAAAA4AAAAZAAAAEEAAAAwAAAAMQAAAA==
+: CN(C)C(Cc1cnc[nH]1)C(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHgAAABrAAAAYwAAAEEAAAAwAAAAMAAAAA==
+: CC1=Cc2cc3[nH]c(cc4nc(cc5[nH]c(cc1n2)cc5C)C(C)=C4CCC(=O)O)c(CCC(=O)O)c3C
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHgAAABtAAAAYgAAAEEAAAAwAAAAMAAAAA==
+: COc1ccc(S(=O)(=O)N(CC(N)=O)c2ccc(N(CC(N)=O)S(=O)(=O)c3ccc(OC)cc3)c3ccccc23)cc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHgAAAB1AAAANAAAAEEAAAAwAAAANAAAAA==
+: CCCCCCCCCCN
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHkAAABpAAAAdwAAAEIAAAAwAAAAMAAAAA==
+: NC(=O)NC(CC(=O)O)C(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHkAAABwAAAAbAAAAEMAAAAwAAAAMAAAAA==
+: O=C(NC(Cc1ccccc1)C(=O)NCCc1ccccc1)c1cnccn1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHkAAAByAAAAZAAAAEIAAAAwAAAAMAAAAA==
+: CC(C)c1ccccc(=O)c1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHkAAABzAAAAaQAAAEEAAAAwAAAAMAAAAA==
+: NC(CO)C(=O)N1CCCC1C(=O)NCC(=O)NC(CCC(=O)O)C(=O)NCC(=O)N1CCCC1C(=O)NC(CO)C(=O)NCC=O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHkAAAB0AAAANQAAAEIAAAAwAAAAMQAAAA==
+: CC1N=C2N=C(N)NC(=O)C2N2CN(c3ccc(CC(O)C(O)C(O)COC4OC(COP(=O)(O)OC(CCC(=O)O)C(=O)O)C(O)C4O)cc3)C(C)C12
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHoAAAAzAAAAbwAAAEIAAAAwAAAAMAAAAA==
+: COc1c(N2CC3CCCNC3C2)c(F)cc2c(=O)c(C(=O)O)cn(C3CC3)c12
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHoAAAAzAAAAdwAAAEMAAAAwAAAAMQAAAA==
+: Nc1nc2c(c(=O)[nH]1)NC1C(S)=C(S)C(COP(=O)(O)O)OC1N2
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHoAAABiAAAAawAAAEIAAAAwAAAAMQAAAA==
+: COP(O)CCC(N)C(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHoAAABnAAAANwAAAEEAAAAwAAAAMgAAAA==
+: Cc1ccc2c(Sc3cccc(C(=O)O)c3F)c(C)n(CC(=O)N3CC4(CC4)c4ccccc43)c2c1F
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NAAAAHoAAAB1AAAAbwAAAEEAAAAwAAAAMAAAAA==
+: NCCCNCCCCCC(=O)NO
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAGEAAAA0AAAAdgAAAEYAAAAwAAAAMAAAAA==
+: O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAGEAAABkAAAAMQAAAEEAAAAwAAAAMAAAAA==
+: O=C(NCCCCCCCCNC(=O)c1cccc(O)c1O)c1cccc(O)c1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAGEAAABkAAAAegAAAEEAAAAwAAAAMQAAAA==
+: CC(CC(=O)NCc1ccc2[nH]c(=O)[nH]c2c1)c1ccccc1F
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAGEAAABlAAAAZwAAAEIAAAAwAAAAMQAAAA==
+: OCC1(F)OCC(O)C(O)C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAGIAAAA4AAAAaQAAAEEAAAAwAAAAMQAAAA==
+: O=S(=O)(O)CCN1C=COCC1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAGMAAAA4AAAAegAAAEEAAAAwAAAAMAAAAA==
+: CC(O)CCCC(=O)CCCC=Cc1cc(O)cc(O)c1C(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAGMAAAA5AAAAMQAAAEEAAAAwAAAAMAAAAA==
+: COC(=O)CCCNC(=O)c1c(C)n(C)c2ccc(OC)cc12
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAGMAAABoAAAAYQAAAEUAAAAwAAAAMAAAAA==
+: CCC(C)C(NC(=O)C(C)NC(=O)C1CCCN1C(=O)C(NC(=O)CNC(=O)C(N)CS)C(C)C)C(=O)NC(CCC(N)=O)C(=O)N1CCCC1C(N)=O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAGMAAAB4AAAAOAAAAEEAAAAwAAAAMgAAAA==
+: O=P(O)(O)OCC1CC(O)C(O)O1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAGMAAAB6AAAAZAAAAEEAAAAwAAAAMQAAAA==
+: O=C1C=CC(=O)N1CCN1C(=O)C=CC1=O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAGQAAABoAAAAcQAAAEMAAAAwAAAAMAAAAA==
+: Nc1ncnc2c1nc(SCC(=O)NCCc1ccccc1)n2C1OC(CO)C(O)C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAGQAAABpAAAAcgAAAEEAAAAwAAAANAAAAA==
+: CCCCCCC(OC(=O)CN)C(C)C=O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAGQAAAByAAAAdgAAAEEAAAAwAAAAMAAAAA==
+: CC(C)CC(N)C(=O)NC(C(=O)NC(Cc1ccccc1)C(=O)NCC(=O)NC(CC(=O)O)C(=O)NC(Cc1ccccc1)C(=O)NC(CC(=O)O)C(=O)NC(CCC(=O)O)C(=O)O)C(C)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAGQAAAB0AAAAbQAAAEIAAAAwAAAAMAAAAA==
+: CNC(=O)c1cc(C(=O)c2c(C)cccc2C)c[nH]1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAGUAAABrAAAAZAAAAEEAAAAwAAAAMAAAAA==
+: CNC1=NC(=O)C(C(C)c2c[nH]c3ccccc23)O1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAGUAAABxAAAAaQAAAEEAAAAwAAAAMAAAAA==
+: C=C1C(C)C2C(Cc3ccccc3)NC(=O)C23OC(=O)C=CC(O)CCCC(C)CC=CC3C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAGUAAABxAAAAcAAAAEIAAAAwAAAAMAAAAA==
+: CN1CCCN(Cc2ccc3ncccc3c2)CC1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAGYAAAA3AAAAeAAAAEMAAAAwAAAAMAAAAA==
+: Nc1ncnc2c1ccn2C1OC(CO)C(O)C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAGYAAABiAAAAdAAAAEEAAAAwAAAAMAAAAA==
+: CCOc1c(C)c(O)c2c(O)c3c(CNN4CCN(C)CC4)cc2c1C(O)OC=CC(OC)C(C)C(OC(C)=O)C(C)C(O)C(C)C(=O)C(C)C=CCC(C)C(=O)N3
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAGYAAABwAAAAeAAAAEEAAAAwAAAAMAAAAA==
+: NCC(=O)NC(CO)C(=O)NC(CO)C(=O)NC(Cc1cnc[nH]1)C(=O)NC(Cc1cnc[nH]1)C(=O)NC(Cc1cnc[nH]1)C(=O)NC(C=O)Cc1cnc[nH]1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAGYAAAB2AAAANwAAAEEAAAAwAAAAMAAAAA==
+: O=c1c2sccc2n(CC2COc3ccccc3O2)c(=O)n1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAGYAAAB3AAAAbgAAAEEAAAAwAAAAMQAAAA==
+: CC1NCCc2ccccc21
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAGYAAAB6AAAAbgAAAEEAAAAwAAAAMAAAAA==
+: NS(=O)(=O)c1ccccc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAGgAAABpAAAANAAAAEIAAAAwAAAAMAAAAA==
+: CNC(=O)C1Cc2ccc(cc2)NC(=O)C(NC(=O)c2ccnn2C)Cc2cc(ccc2C)Oc2ccc(cc2)C2(CCCC2)CC(=O)N1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAGgAAABxAAAAZQAAAEEAAAAwAAAAMAAAAA==
+: COC(=O)C(C#N)C1SCC(=O)N1c1ccc(OC)cc1F
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAGgAAAB2AAAAZQAAAEEAAAAwAAAAMAAAAA==
+: Cc1c(Sc2cccc(OC(F)(F)F)c2)sc2nc(N)nc(N)c12
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAGkAAAA2AAAAZAAAAEEAAAAwAAAAMQAAAA==
+: Cc1ccc(NC(=O)Nc2cccc(C(=O)O)c2)cc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAGkAAABmAAAAOAAAAEEAAAAwAAAAMAAAAA==
+: Cc1ccc(Cc2nnc(N)o2)cc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAGkAAABmAAAAYgAAAEEAAAAwAAAAMAAAAA==
+: Cc1ccc(-n2ccnc2)c(N)c1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAGoAAAA0AAAAeQAAAEEAAAAwAAAAMQAAAA==
+: CC(=O)Nc1ccc(Oc2ccccc2-c2nc3ccncc3s2)cc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAGoAAABhAAAAYgAAAEEAAAAwAAAAMQAAAA==
+: CC(OP(=O)(O)OCC(O)C(O)C(O)CN1C2=CC(O)=CCC2=CC2C(=O)NC(=O)N=C21)C(=O)NC(CCC(=O)NC(CCC(=O)NC(CCC(=O)O)C(=O)O)C(=O)O)C(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAGoAAABqAAAAcwAAAEEAAAAwAAAAMQAAAA==
+: COc1cc(OC)c(-c2ccc(C#CCO)s2)cc1C(=O)NS(=O)(=O)C1CCCC(OC)C1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAGoAAAB5AAAAMAAAAEEAAAAwAAAAMAAAAA==
+: CC(C)CC(N)C(=O)NC(CC(=O)O)C(=O)NC(C=O)C(C)C
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAGsAAAA4AAAAMwAAAEIAAAAwAAAAMAAAAA==
+: CCOP(=O)(O)OC1CC(n2cc(C)c(=O)[nH]c2=O)OC1COP(=O)(O)OC1CCOC1CO
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAGsAAABqAAAAbgAAAEEAAAAwAAAAMQAAAA==
+: O=C(NCCCN1CCCC1)c1cncc(-c2ccccc2N2CCN(CCc3c[nH]c4ccccc34)CC2)c1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAGsAAABzAAAAeAAAAEEAAAAwAAAAMQAAAA==
+: Cc1ccc(-c2cc3c(NC(Cc4ccccc4)C(=O)NP(=O)(O)O)ncnc3s2)cc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAGsAAAB2AAAAcwAAAEIAAAAwAAAAMgAAAA==
+: O=C(O)C1CSC(c2csc(-c3ccccc3O)n2)=N1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAGwAAAA4AAAAcgAAAE8AAAAwAAAANgAAAA==
+: C1=Cc2cc3cc4c([nH]3)c(c3nc(cc5ccc(cc1n2)[nH]5)C=C3)CC4
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAGwAAABnAAAAYgAAAEEAAAAwAAAAMQAAAA==
+: C#CCCNCCCCNCCC#C
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAGwAAABpAAAAMwAAAEIAAAAwAAAAMAAAAA==
+: Cc1nn(C)c(C)c1N=Nc1ccc(C=CC(=O)NO)cc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAGwAAABtAAAAYwAAAEEAAAAwAAAAMAAAAA==
+: CC1=C(C)Cc2c(nc3c(=O)[nH]c(=O)nc-3n2CC(O)C(O)C(O)COP(=O)(O)O)C1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAG0AAAAxAAAAegAAAEEAAAAwAAAAMAAAAA==
+: OCC1OC(NO)C(O)C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAG0AAAA4AAAAcgAAAEMAAAAwAAAANwAAAA==
+: NC(Cn1ccc(=O)c(O)c1)C(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAG0AAABqAAAAdQAAAEEAAAAwAAAAMQAAAA==
+: NC(C(=O)O)C(OCc1cccc(NC(=O)c2ccc(C(F)(F)F)cc2)c1)C(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAG0AAABsAAAAbQAAAEEAAAAwAAAAMAAAAA==
+: CC(=O)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAG0AAABuAAAAdwAAAEEAAAAwAAAAMAAAAA==
+: O=C(O)CCCCN(CCc1ccccc1OCc1ccc(CCc2ccccc2)cc1)Cc1ccc(C(=O)O)cc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAG4AAAA1AAAAaQAAAEEAAAAwAAAAMAAAAA==
+: CC(O)C(C(=O)O)C1N=C(C(=O)O)C(SC2C=NC(C(=O)N(C)C)C2)C1C
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAG4AAAA4AAAAdgAAAEQAAAAwAAAAMAAAAA==
+: COc1ccc(CN2CCc3c(c(C(=O)NCc4cccc5ccccc45)nn3CCN)C2)c2ccccc12
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAG4AAABuAAAANgAAAEEAAAAwAAAANQAAAA==
+: OCCN1CC(O)C(O)C(O)C1CO
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAG4AAAByAAAAZgAAAEEAAAAwAAAAMAAAAA==
+: Cc1ccc(CCN(Cc2ccccc2)C2CCN(c3nnc(N)[nH]3)CC2)cc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAG4AAAB3AAAAMAAAAEwAAAAwAAAAMAAAAA==
+: CC(=O)NC1(C(=O)NC(C(=O)N2CC(O)CC2C(=O)NCc2ccc(-c3scnc3C)cc2)C(C)(C)C)CC1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAG8AAABiAAAAdAAAAEEAAAAwAAAAMAAAAA==
+: CC(=O)C(CC(=O)O)NC(=O)C(C)NC=O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAG8AAABjAAAAagAAAEEAAAAwAAAAMAAAAA==
+: CCC(CCP(=O)(O)OC)C(C(C)=O)C(=O)OC
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAG8AAAB5AAAAMAAAAFUAAAAwAAAAMwAAAA==
+: CC(C=C=CC(C)C=CC1C(C)CCCC1(C)C)=CC=CC=C(C)CCC=C(C)C=CC1C(C)CCCC1(C)C
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAHQAAABkAAAAdQAAAEEAAAAwAAAAMAAAAA==
+: Cc1ccc(O)cc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAHQAAABoAAAANQAAAEMAAAAwAAAAMAAAAA==
+: Nc1nc2ncc(C(=O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)nc2c(=O)[nH]1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAHQAAABoAAAAYQAAAEEAAAAwAAAAMAAAAA==
+: Nc1nc2c(ncn2C2OCC(O)C2O)c(=O)[nH]1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAHQAAABxAAAAZwAAAEEAAAAwAAAAMAAAAA==
+: CC1CC(=O)Nc2ccc(S(=O)(=O)C3CC3)c(c2)CN(C)C(=O)C(Nc2ccc3c(N)ncc(F)c3c2)c2ccc(OCC(F)F)c1c2
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAHQAAABxAAAAcwAAAEMAAAAwAAAAMAAAAA==
+: CNC(=O)C(C)NC(=O)C(Cc1c[nH]c2ccccc12)NC(=O)C(Cc1ccc(OP(=O)(O)O)cc1)NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(C)NC(=O)C(C)NC(=O)C(N)CC(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAHQAAAB6AAAAbwAAAEEAAAAwAAAAMQAAAA==
+: CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAHUAAAAxAAAANwAAAEMAAAAwAAAAMAAAAA==
+: Cc1cnc2nc(N)nc(N)c2n1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAHUAAAAyAAAAawAAAEEAAAAwAAAAMAAAAA==
+: CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OCC1OCC(O)C1OP(=O)(O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAHUAAAA2AAAAcgAAAEMAAAAwAAAAMgAAAA==
+: NC1N=CNC2=C1NCN2C1OC(COP(=O)(O)OP(=O)(O)O)C(O)C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAHUAAAA5AAAAMAAAAEEAAAAwAAAAMQAAAA==
+: Oc1ccc(C=Cc2cc(O)cc(O)c2)cc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAHUAAAB1AAAAZwAAAEEAAAAwAAAAMAAAAA==
+: COc1cc2[nH]c(C(=O)N3CC(Cn4cnc(N)c5ncnc4-5)c4c3cc(O)c3[nH]c(C(=O)N5CCc6c5c(O)c(OC)c5[nH]c(C(=O)SC)cc65)cc43)cc2cc1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAHYAAABqAAAAcAAAAEIAAAAwAAAAMAAAAA==
+: O=P(O)(O)OCC1NC(COP(=O)(O)O)C(O)C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAHcAAABnAAAAMwAAAEEAAAAwAAAAMAAAAA==
+: O=C(NCc1cc[nH]n1)c1cc(C2CCNCC2COc2ccc3[nH]ncc3c2)ccc1F
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAHcAAABtAAAAawAAAEEAAAAwAAAAMAAAAA==
+: O=C(O)CC(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAHcAAAByAAAAZQAAAEUAAAAwAAAAMQAAAA==
+: COC(=O)c1c(CN2CC(F)(F)CC2C(=O)O)nc(-c2nccs2)nc1-c1ccc(F)cc1C
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAHgAAAA1AAAAbQAAAEIAAAAwAAAAMAAAAA==
+: COc1cc2[nH]c(C(=O)N3CC4CC45C3=CC(O)c3[nH]c(C(=O)N4CCc6c4c(O)c(OC)c4[nH]c(C(=O)SC)cc64)cc35)cc2cc1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAHgAAABoAAAAMwAAAEEAAAAwAAAAMAAAAA==
+: COC(=O)c1ccc(C(=O)OCCO)cc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAHkAAAAyAAAAdQAAAEEAAAAwAAAAMAAAAA==
+: O=C1c2ccccc2C(=O)c2c1cc(S(O)(O)O)c(O)c2O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAHkAAABmAAAAegAAAEIAAAAwAAAAMwAAAA==
+: CC1=NN=C2OC(N)=C(C#N)C(c3cc(F)cc(N4CCC(CC(=O)O)CC4)c3)(C(C)C)C12
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAHoAAAAzAAAANgAAAEEAAAAwAAAAMAAAAA==
+: CCC(C)(O)C1CC(=O)c2c(C)cc3c(c2O1)C(=O)c1c(O)cccc1C3=O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAHoAAABiAAAAegAAAEEAAAAwAAAAMAAAAA==
+: CN1Cc2c(ccc3c2OCO3)-c2ccc3cc4c(cc3c21)OCO4
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NQAAAHoAAAByAAAAZgAAAEEAAAAwAAAAMAAAAA==
+: COc1cc(C2c3cc4c(cc3C(OC3OC5COC(C)OC5C(O)C3O)C3COC(=O)C23)OCO4)cc(OC)c1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NgAAAGEAAAA0AAAAaQAAAEIAAAAwAAAAMQAAAA==
+: Cc1cc(C2(O)CCCCC2)c2c[nH]nc2c1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NgAAAGEAAAB6AAAAdwAAAEEAAAAwAAAAMAAAAA==
+: CC(C(=O)Nc1ccc(C#N)cc1)C1CCC(c2ccnc3ccccc23)CC1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NgAAAGIAAAA5AAAAaQAAAEIAAAAwAAAAMAAAAA==
+: CCC(C)CCCCCCCCCCCCC(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NgAAAGIAAABzAAAAbQAAAEEAAAAwAAAAMAAAAA==
+: CCCC=CC(CN(O)C=O)C(=O)NCNC(=O)c1cc2cccc(OC)c2o1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NgAAAGIAAAB3AAAAOAAAAEQAAAAwAAAAMAAAAA==
+: Cc1cc(OCCCc2c3n(c4c(-c5c(C)nn(C)c5C)c(C)ccc24)CCCN(c2cccc4c(C(=O)O)cn(C)c24)C3=O)cc(C)c1C
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NgAAAGMAAAA5AAAAYwAAAEEAAAAwAAAAMAAAAA==
+: COc1ncc(COc2ccc(C3=CCN(CCC(C)(C(=O)NO)S(C)(=O)=O)C(=O)C3)cc2)cc1C
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NgAAAGMAAAA5AAAAcwAAAEEAAAAwAAAAMAAAAA==
+: OCC1OC(n2cnc3c(C#Cc4ccc(-c5ccccc5)cc4)ncnc32)C(O)C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NgAAAGMAAABrAAAAbQAAAEEAAAAwAAAAMAAAAA==
+: CC(=O)NC1C(O)CC(OP(=O)(O)OCC2OC(n3ccc(N)nc3=O)C(O)C2O)(C(=O)O)OC1C(O)C(O)CO
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NgAAAGMAAABvAAAAagAAAEIAAAAwAAAAMAAAAA==
+: CC1CCC(=O)C(C(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OCC2OC(n3cnc4c(N)ncnc43)C(O)C2OP(=O)(O)O)C12C=CC(=O)O2
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NgAAAGMAAAB3AAAAeQAAAEIAAAAwAAAAMAAAAA==
+: COC(=O)C1C2CCC(C(Cc3ccc(C)cc3)Nc3ccccc3)(O2)C1C(=O)OC
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NgAAAGQAAABhAAAAaQAAAEEAAAAwAAAAMQAAAA==
+: Cn1ccc2cc(-c3cn4c(n3)C=CC4)ccc21
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NgAAAGQAAABmAAAAZQAAAEIAAAAwAAAAMwAAAA==
+: CC(CC1OC(C(O)CO)C(O)C(O)C1O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NgAAAGQAAABmAAAAZgAAAEgAAAAwAAAAMAAAAA==
+: CC(C)CC(NC(=O)C(CO)NC(=O)C(NC(=O)C(CC(N)=O)NC(=O)C(CCC(=O)O)NC(=O)CNC(=O)C(N)CCCCN)C(C)O)C(=O)NC(CC(C)C)C(=O)NC(Cc1cnc[nH]1)C(=O)N1CCCC1C=O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NgAAAGQAAABqAAAAZQAAAEEAAAAwAAAAMAAAAA==
+: CC(C)c1cccc2c1N=CC(C(=O)O)C2=O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NgAAAGQAAAB5AAAAcgAAAEEAAAAwAAAAMAAAAA==
+: NCCC(=O)NCCc1cnc[nH]1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NgAAAGUAAAAzAAAAdAAAAEIAAAAwAAAAMAAAAA==
+: c1ccc(C2CN3CCSC3=N2)cc1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NgAAAGUAAABkAAAAcgAAAEIAAAAwAAAAMAAAAA==
+: NC(=O)C1=CC=CN(C2SC(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)C(O)C2O)C1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NgAAAGYAAAAwAAAAZQAAAEEAAAAwAAAAMAAAAA==
+: O=C(NCc1ccc2c(c1)OCO2)c1ncccc1F
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NgAAAGYAAAA3AAAAaQAAAEIAAAAwAAAAMAAAAA==
+: COC(C)c1c(NC(=O)Nc2cnc(C(=O)N3CCCC3)c(C)c2)cnc2cc(C)nn12
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NgAAAGYAAAA5AAAAMAAAAEEAAAAwAAAAMAAAAA==
+: OCC1C(O)C(O)C(O)c2nccn21
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NgAAAGYAAABmAAAAYwAAAEIAAAAwAAAAMAAAAA==
+: CC(C)CC1c2[nH]c3cc(OC4CCCC4)ccc3c2CC2C(=O)NC(CCC(=O)OC(C)(C)C)C(=O)N21
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NgAAAGYAAABnAAAAYwAAAEEAAAAwAAAAMwAAAA==
+: CC1CCC2C(C)C(OC(=O)CCC(=O)O)OC3OC4(C)CCC1C32OO4
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NgAAAGcAAAAwAAAAYgAAAEEAAAAwAAAAMAAAAA==
+: OC1COCC(O)C1O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NgAAAGcAAAAzAAAAaAAAAEEAAAAwAAAAMAAAAA==
+: O=C(O)CC(NCCNC(CC(=O)O)C(=O)O)C(=O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NgAAAGcAAABnAAAAaQAAAEIAAAAwAAAAMgAAAA==
+: CC1CCCC(C)C(F)CC2(C)CCC(C(C)C)C2CC1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NgAAAGcAAABpAAAAcQAAAE4AAAAwAAAAMAAAAA==
+: CCCCCCCCCCCCCC(=O)OC(COC(=O)CCCCCCCCCCC)COP(=O)(O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NgAAAGcAAABrAAAAdgAAAEIAAAAwAAAAMAAAAA==
+: COc1cc2c(cc1OC)CN(C)CC2
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NgAAAGgAAAB0AAAAMAAAAEEAAAAwAAAAMAAAAA==
+: CC1CCCN1Cc1nc2cc(NC(=O)c3ccc4c(cnn4C4CC4)c3)ccc2[nH]1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NgAAAGgAAAB1AAAAeQAAAEEAAAAwAAAAMAAAAA==
+: CC1=C(OP(=O)(O)OCC2OC(n3cnc4c(=O)[nH]c(N)nc43)C(O)C2O)C(C)C(CC=O)=NC1=O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NgAAAGkAAAAzAAAAdQAAAEEAAAAwAAAAMAAAAA==
+: CC(CN1CCOCC1)Oc1ccc2c(c1)Cc1cccc(-c3cc(=O)cc(N4CCOCC4)o3)c1S2
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NgAAAGkAAABiAAAAbAAAAEEAAAAwAAAAMgAAAA==
+: CCCCCCCCCC(=O)N(CCO)CC(O)C(O)C(O)C(O)CO
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NgAAAGkAAAB4AAAAagAAAEIAAAAwAAAAMQAAAA==
+: OCCS(O)(O)O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NgAAAGoAAAA2AAAANwAAAEEAAAAwAAAAMAAAAA==
+: CC(C)CC1NC(=O)C(NC(=O)C(Cc2ccccc2)NC(=O)CC(N)Cc2ccccc2)CCCCCCCC(C(=O)N(C)C)NC(=O)C2CCCN2C(=O)C(C)NC1=O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NgAAAGoAAAA4AAAAMQAAAEEAAAAwAAAAMAAAAA==
+: Cc1ccc(-c2ccc(S(=O)(=O)CCO)cc2)cc1C1CC1c1ccccn1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NgAAAGoAAABiAAAAMwAAAEEAAAAwAAAAMQAAAA==
+: CC1CCC2(OC1)OC1C(O)C3C4CCC5CC(OC6OC(CO)C(OC7OC(CO)C(O)C(OC8OCC(O)C(O)C8O)C7OC7OC(CO)C(O)C(O)C7O)C(O)C6O)C(O)CC5(C)C4CCC3(C)C1C2C
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NgAAAG0AAAA5AAAAMwAAAEEAAAAwAAAAMQAAAA==
+: O=C1N=C(C(F)(F)F)CC=C1C(=O)Nc1cccc(-c2nn[nH]n2)c1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NgAAAG0AAABlAAAAegAAAEIAAAAwAAAANQAAAA==
+: CC(=O)c1c(C)[nH]c(C=C2NCC(CCC(=O)OCC=C(C)CCCC(C)CCCC(C)CCCC(C)C)C2C)c1C
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NgAAAG4AAABlAAAAegAAAEQAAAAwAAAAMAAAAA==
+: CCCc1nc2cc(-c3c(C)noc3C)ccc2n1CCN1CCOCC1
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NgAAAG4AAABpAAAAYwAAAEQAAAAwAAAAMAAAAA==
+: NCCCCCC(N)=O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NgAAAG4AAAByAAAAMwAAAEIAAAAwAAAAMQAAAA==
+: CCCCCCC(=O)OCC(COP(=O)(O)OC1C(O)C(O)C(OP(=O)(O)O)C(OP(=O)(O)O)C1O)OC=O
+? !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - U7
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - 28
+  - 4
+  - 8
+- !!binary |
+  NgAAAG4AAAB3AAAAYQAAAE0AAAAxAAAAMgAAAA==
+: CC(C=CCC(C)CCC1=C(C)CCCC1(C)C)=CC=CC=C(C)CCC=C(C)C=CC1=C(C)CCCC1(C)C
