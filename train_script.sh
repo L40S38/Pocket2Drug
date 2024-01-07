@@ -2,7 +2,7 @@
 
 VAL_FOLD=1
 GPU='4'
-CONFIG='./train_graphsite_classifier_rm_position.yaml'
+CONFIG='./train_graphsite_classifier_20240107.yaml'
 
 ulimit -n 10000
 source ~/anaconda3/etc/profile.d/conda.sh
